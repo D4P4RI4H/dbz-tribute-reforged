@@ -153,6 +153,13 @@ export module OrderIds {
 export module Id {
   export const summonShenron = FourCC("I01V");
 
+  export const shoutoTodoroki = FourCC("");
+  export const glacier = FourCC("A0Y9");
+  export const wallOfFlames = FourCC("A0P8");
+  export const icePath = FourCC("A0YA");
+  export const flashfreezeHeatwave = FourCC("A0YB");
+  export const heatingUpCoolingOff = FourCC("A0YC");
+
   export const allMight = FourCC("H09K");
   export const detroitSmash = FourCC("A0SX");
   export const leftSmash = FourCC("A0SY");

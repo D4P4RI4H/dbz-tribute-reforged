@@ -590,6 +590,14 @@ export module AbilityNames {
     export const TYRANNO_ROAR: string = "Tyranno Roar";
   }
 
+  export module ShoutoTodoroki {
+    export const GLACIER: string = "Glacier";
+    export const ICE_PATH: string = "Ice Path";
+    export const WALL_OF_FLAMES: string = "Wall of Flames";
+    export const FLASHFREEZE_HEATWAVE: string = "Flashfreeze Heatwave";
+    export const HEATING_UP_COOLING_OFF: string = "Heating Up / Cooling Off";
+  }
+
   export module Saga {
     export const GENERIC_BEAM: string = "Take this!";
     export const GENERIC_BOMB: string = "Die!";

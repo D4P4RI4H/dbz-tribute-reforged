@@ -484,7 +484,7 @@ export const abilityCodesToNames = new Map<number, string>(
     [FourCC('A0SU'), AbilityNames.Zamasu.HEAVENLY_RUSH],
     [FourCC('A0SV'), AbilityNames.Zamasu.ENERGY_BLADES],
 
-
+    // Sephiroth
     [Id.sephirothOctoslash, AbilityNames.Sephiroth.OCTOSLASH],
     [Id.sephirothHellsGate, AbilityNames.Sephiroth.HELLS_GATE],
     [Id.sephirothFerventBlow, AbilityNames.Sephiroth.FERVENT_BLOW],
@@ -493,14 +493,21 @@ export const abilityCodesToNames = new Map<number, string>(
     [Id.sephirothOneWingedAngel, AbilityNames.Sephiroth.ONE_WINGED_ANGEL],
     [Id.sephirothParry, AbilityNames.Sephiroth.PARRY],
 
+    // Shouto Todoroki
+    [Id.glacier, AbilityNames.ShoutoTodoroki.GLACIER],
+    [Id.wallOfFlames, AbilityNames.ShoutoTodoroki.WALL_OF_FLAMES],
+    [Id.icePath, AbilityNames.ShoutoTodoroki.ICE_PATH],
+    [Id.flashfreezeHeatwave, AbilityNames.ShoutoTodoroki.FLASHFREEZE_HEATWAVE],
+    [Id.heatingUpCoolingOff, AbilityNames.ShoutoTodoroki.HEATING_UP_COOLING_OFF],
 
+    // Hitt
     [Id.timeSkip, AbilityNames.Hit.TIME_SKIP],
     [Id.pocketDimension, AbilityNames.Hit.POCKET_DIMENSION],
     [Id.flashFist, AbilityNames.Hit.FLASH_FIST],
     [Id.timeCage, AbilityNames.Hit.TIME_CAGE],
     [Id.pureProgress, AbilityNames.Hit.PURE_PROGRESS],
 
-
+    // Tyranno
     [Id.tyrannoFlame, AbilityNames.RustTyranno.TYRANNO_FLAME],
     [Id.rustChomp, AbilityNames.RustTyranno.RUST_CHOMP],
     [Id.rustGobble, AbilityNames.RustTyranno.RUST_GOBBLE],

@@ -5,8 +5,9 @@
 }
 
 STRING 1
+// Units: H0AA (Shouto Todoroki), Name (Name)
 {
-Player 1
+Shouto Todoroki
 }
 
 STRING 2
@@ -17,79 +18,89 @@ STRING 2
 
 STRING 3
 {
-DBZ Tribute Reforged 0.63b
+Todoroki
 }
 
 STRING 4
 {
-6-10
+Selected by |cff1CE6B9Teal|r by default.
+ |cffFF0000To choose a new hero, hit the Repick button.|r
 }
 
 STRING 5
 {
-A fast-paced action-packed hero arena based on the Dragon Ball series. Includes every saga from DBZ to GT and even some of DB Super. Features 51+ unique heroes, beam clashes, advanced Saga AI and a custom UI.
-
-discord.gg/vayXJSZ
+[|cffffff00E|r] Choose Shouto Todoroki
 }
 
 STRING 6
 {
-phone @ discord.gg/vayXJSZ
+[|cffffff00E|r] Choose Shouto Todoroki
 }
 
 STRING 7
+// Abilities: A0XW (Extreme Speed), Researchhotkey (Hotkey - Learn)
 {
-Player 2
+E
 }
 
 STRING 8
+// Abilities: A0P8 (Wall of Flames), Ubertip (Tooltip - Normal - Extended)
 {
-Player 3
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 9
+// Abilities: A0P8 (Wall of Flames), Ubertip (Tooltip - Normal - Extended)
 {
-Player 4
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 10
+// Abilities: A0P8 (Wall of Flames), Ubertip (Tooltip - Normal - Extended)
 {
-Player 5
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 11
+// Abilities: A0P8 (Wall of Flames), Ubertip (Tooltip - Normal - Extended)
 {
-Player 6
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 12
+// Abilities: A0P8 (Wall of Flames), Ubertip (Tooltip - Normal - Extended)
 {
-Player 7
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 13
+// Abilities: A0P8 (Wall of Flames), Ubertip (Tooltip - Normal - Extended)
 {
-Player 8
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 14
+// Abilities: A0P8 (Wall of Flames), Ubertip (Tooltip - Normal - Extended)
 {
-Player 9
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 15
+// Abilities: A0P8 (Wall of Flames), Ubertip (Tooltip - Normal - Extended)
 {
-Player 10
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 16
+// Abilities: A0P8 (Wall of Flames), Ubertip (Tooltip - Normal - Extended)
 {
-Team 1
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 17
+// Abilities: A0P8 (Wall of Flames), Tip (Tooltip - Normal)
 {
-Team 2
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 1|r]
 }
 
 STRING 18
@@ -118,7 +129,7 @@ STRING 21
 
 STRING 22
 {
-You receive +0.03x multiplier from another Metal Cooler gathering combat data.
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 2|r]
 }
 
 STRING 23
@@ -282,7 +293,6 @@ A well-rounded hero who has strong offensive and defensive capabilities, while b
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 49
@@ -457,7 +467,6 @@ A close-combat hero that can completely dominate the early and mid game, but tra
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 77
@@ -568,7 +577,6 @@ A hero who has to catch and absorb neutral enemies to obtain multiplier. He has 
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 93
@@ -615,7 +623,6 @@ A hero who starts out in a weaker state, but can farm across the entire map extr
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 100
@@ -720,7 +727,6 @@ A well-rounded hero who works best when constantly kiting with nukes rather than
 |cff00FF00II|r|cff383838III |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 116
@@ -769,7 +775,6 @@ A bulky, short-ranged hero who excels at sticking on his opponents with constant
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 123
@@ -880,7 +885,6 @@ A hero that can gather gold and lumber to purchase clones, upgrades, and towers 
 |cff00FF00II|r|cff383838III |r|cffFFFF00Saga|r
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Farming|r
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 140
@@ -3720,7 +3724,6 @@ A well-rounded hero who gains multiplier slightly quicker than others and can de
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 609
@@ -3895,7 +3898,7 @@ Quickly constructs 10 Metal Cooler Copies. Because they are put together so quic
 
 STRING 637
 {
-You receive +0.08x multiplier from gathering combat data.
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 3|r]
 }
 
 STRING 638
@@ -3986,7 +3989,6 @@ A support hero who benefits greatly from having control over the Dragon Balls wh
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 652
@@ -4132,7 +4134,6 @@ A high-risk high-reward hero who can deal obscene, armor-ignoring damage to unsu
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 675
@@ -4212,7 +4213,6 @@ A bulky, close-combat hero who constantly attacks with melee-range abilities and
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 687
@@ -4378,7 +4378,6 @@ A support hero that assists allies by giving them character-specific bonuses and
 |cff00FF00II|r|cff383838III |r|cffFFFF00Saga|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 713
@@ -4519,7 +4518,6 @@ An offense-oriented hero who must plant and protect his Tree to gain multiplier.
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 735
@@ -4718,7 +4716,6 @@ They can choose to turn into Super 17, a hero that can unleash large, devastatin
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Saga|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 766
@@ -5028,7 +5025,6 @@ A well-rounded hero who has strong offensive and defensive capabilities, while b
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 816
@@ -5057,17 +5053,7 @@ Goten
 
 STRING 820
 {
-Type "r" to revert.
-Transformations:
-[lvl 1]     2.00x "r"
-[lvl 100]  2.25x "ss"
-[lvl 150]  2.50x "ss3" [Unlocks SS3 form]
-
-|cff00ff00Pick ONE of the following:|r
-[lvl 200] "|cffffcc00ultra volleyball|r"
-[lvl 200] "|cff00afffsuper ghost x10|r"
-
-|cffffcc00Grim Reaper of Justice|r: +5% stats from creeps
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 4|r]
 }
 
 STRING 821
@@ -5082,7 +5068,6 @@ They fuse into Gotenks, a hero who deals heavy damage up close while controlling
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 822
@@ -5126,7 +5111,6 @@ A bulky, close-combat hero who constantly attacks with melee-range abilities and
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 828
@@ -5416,7 +5400,6 @@ A hero who quickly gains power, but is forced to farm creeps to obtain both his 
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 871
@@ -5670,7 +5653,6 @@ A jack-of-all-trades hero who has a myriad of different tools to use in differen
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 912
@@ -5903,17 +5885,7 @@ Frieza
 
 STRING 950
 {
-Type "r" to revert.
-Transformations:
-[lvl 15]  1.15x "frieza"
-[lvl 30]  1.20x "frieza"
-[lvl 50]  1.40x "frieza"
-[lvl 90]  1.80x "frieza"
-[lvl 150] 2.00x "frieza"
-[lvl 200] 2.10x "golden" [unlocks Golden Frieza]
-[lvl 250] 2.20x "golden" [upgrades Golden Frieza]
-
-Frieza can precisely control his power level by using [|cff00ff00D|r] Transform. Gains Full Power 100% when less than 75% hp in Fourth Form. Gains Mecha Form while dead (heaven/hell).
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 5|r]
 }
 
 STRING 951
@@ -6350,7 +6322,6 @@ A support hero who can slowly heal his team and lock enemies out of position, se
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1022
@@ -6399,13 +6370,7 @@ A combat style taught by Master Roshi.
 
 STRING 1029
 {
-Type "r" to revert.
-Transformations:
-[lvl 25]  1.50x "fp"
-[lvl 50]  1.75x "fp"
-[lvl 75]  2.00x "fp"
-[lvl 125] 2.40x "fp"
-[lvl 300] 2.50x "fp"
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 6|r]
 }
 
 STRING 1030
@@ -6540,7 +6505,6 @@ A powerful hero who specializes heavily in offense, but has very little defensiv
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1051
@@ -6589,7 +6553,6 @@ An offense-oriented hero who excels at locking down a single opponent and assass
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1058
@@ -6810,7 +6773,6 @@ An offense-oriented hero with high mobility who deals excellent damage when clos
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1093
@@ -6901,7 +6863,6 @@ A bulky, combo-oriented hero who increases in size as he grows stronger.
 |cff00FF00II|r|cff383838III |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1107
@@ -6980,7 +6941,6 @@ A support-based hero that is able to protect his allies from harm.
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1119
@@ -7113,7 +7073,6 @@ A jack-of-all-trades hero who has a myriad of different tools to use in differen
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1140
@@ -7180,7 +7139,6 @@ A bulky, short-ranged hero who excels at sticking on his opponents with constant
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1150
@@ -7248,7 +7206,6 @@ A high-risk high-reward hero who can deal obscene, armor-ignoring damage to unsu
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1160
@@ -7309,7 +7266,6 @@ A support hero that assists allies by giving them character-specific bonuses and
 |cff00FF00II|r|cff383838III |r|cffFFFF00Saga|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1169
@@ -7358,7 +7314,6 @@ A support-based hero that is able to protect his allies from harm.
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1176
@@ -7407,7 +7362,6 @@ A powerful hero who specializes heavily in offense, but has very little defensiv
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1183
@@ -7456,7 +7410,6 @@ A support hero who can slowly heal his team and lock enemies out of position, se
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1190
@@ -7567,7 +7520,6 @@ A versatile hero that can modify his abilities depending on the situation.
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1207
@@ -7610,7 +7562,6 @@ A versatile hero that can modify his abilities depending on the situation.
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1213
@@ -7705,7 +7656,7 @@ Goku charges at the opponent calling upon the power of the Eternal Dragon to del
 
 STRING 1228
 {
-Someone has picked up the |r|cffff00ffHBTC Training Ticket|r. If they deliver it to the HBTC at |r|cff00ff00Kami's Lookout|r, they will |cffff2020permanently|r receive |cff00ffff+1/1/1 level up stats|r
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 7|r]
 }
 
 STRING 1229
@@ -7742,7 +7693,6 @@ A well-rounded hero who works best when constantly kiting with nukes rather than
 |cff00FF00II|r|cff383838III |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1234
@@ -7912,7 +7862,6 @@ A well-rounded hero who has strong offensive and defensive capabilities, while b
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1261
@@ -7961,7 +7910,6 @@ A well-rounded hero who has strong offensive and defensive capabilities, while b
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1268
@@ -8010,7 +7958,6 @@ A well-rounded hero who has strong offensive and defensive capabilities, while b
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1275
@@ -10158,7 +10105,6 @@ Super Janemba is a close-quarters PvP-based assassin who has powerful offensive 
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 1627
@@ -10187,7 +10133,7 @@ Dimension Sword
 
 STRING 1631
 {
-1.000x
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 8|r]
 }
 
 STRING 1632
@@ -10536,19 +10482,7 @@ Geti Star Fragment
 
 STRING 1689
 {
-Type "r" to revert.
-Transformations:
-[lvl 15]  1.25x "kao"
-[lvl 30]  1.50x "ss"
-[lvl 85]  2.00x "ss2"
-[lvl 125] 2.25x "ss3"
-[lvl 150] 2.50x "ssg" [unlocks god kame]
-[lvl 200] 2.60x "ssb"
-[lvl 225] 2.70x "ssbkao"
-
-|cff00ffffUltra Instinct:|r
-Type "ui" at lvl 250 to receive [D] Ultra Instinct ability. You can use that ability |cffff2020ONCE PER GAME|r.
-3 minutes after using [D] Ultra Instinct you will receive [D] Mastered Ultra Instinct which also can only be used |cffff1010ONCE PER GAME|r.
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 1690
@@ -13382,16 +13316,7 @@ Punch
 
 STRING 2161
 {
-Type "r" to revert.
-Transformations:
-[lvl 15]  1.25x "fp"
-[lvl 30]  1.50x "fp" [unlocks Upa's Rage 1 & 2]
-[lvl 50]  1.75x "fp"
-[lvl 90]  2.00x "fp" [unlocks Upa's Rage 3]
-[lvl 125] 2.25x "fp"
-[lvl 150] 2.40x "rage" [Unlocks Upa's Rage 4]
-[lvl 250] 2.50x "rage" [Unlocks Upa's Rage 5]
-[lvl 300] [Unlocks Upa's Rage 6]
+Wall of Flames
 }
 
 STRING 2162
@@ -14019,7 +13944,7 @@ The user charges with one hand behind the other above the head. The hands are th
 }
 
 STRING 2266
-// Items: I013 (Train Energy |cffffff00(E)|r), Hotkey (Hotkey)
+// Units: H0AA (Shouto Todoroki), Hotkey (Hotkey)
 {
 E
 }
@@ -14955,7 +14880,7 @@ STRING 2421
 }
 
 STRING 2422
-// Abilities: A070 (Grenade), Researchhotkey (Hotkey - Learn)
+// Items: I013 (Train Energy |cffffff00(E)|r), Hotkey (Hotkey)
 {
 E
 }
@@ -14981,7 +14906,7 @@ A sphere thrown from Broly's hand causing wide area damage.
 }
 
 STRING 2426
-// Abilities: A070 (Grenade), Hotkey (Hotkey - Normal)
+// Abilities: A070 (Grenade), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -15343,7 +15268,7 @@ STRING 2484
 }
 
 STRING 2485
-// Abilities: A042 (Charge), Researchhotkey (Hotkey - Learn)
+// Abilities: A070 (Grenade), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -15367,7 +15292,7 @@ Babidi uses his magic to heal himself.
 }
 
 STRING 2489
-// Abilities: A042 (Charge), Unhotkey (Hotkey - Turn Off)
+// Abilities: A042 (Charge), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -15928,7 +15853,7 @@ STRING 2575
 }
 
 STRING 2576
-// Abilities: A042 (Charge), Hotkey (Hotkey - Normal)
+// Abilities: A042 (Charge), Unhotkey (Hotkey - Turn Off)
 {
 E
 }
@@ -15952,7 +15877,7 @@ Caster Shoots evil energy from its mouth at its enemy.
 }
 
 STRING 2580
-// Abilities: A074 (Present Bomb), Researchhotkey (Hotkey - Learn)
+// Abilities: A042 (Charge), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -16400,7 +16325,7 @@ Tien releases a powerful air shockwave from his hands that deflects and nullifie
 
 STRING 2654
 {
-You need to absorb android 18!
+[|cff00FF00Q|r] Learn Wall of Flames - [|cffffcc00Level %d|r]
 }
 
 STRING 2655
@@ -16410,7 +16335,7 @@ This is the technique used by Fat Buu when he tears off a part of his body and h
 }
 
 STRING 2656
-// Abilities: A074 (Present Bomb), Hotkey (Hotkey - Normal)
+// Abilities: A074 (Present Bomb), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -16423,16 +16348,16 @@ Absorb
 
 STRING 2658
 {
-Defeat!
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 2659
 {
-You need to absorb android 17!
+(Shouto)
 }
 
 STRING 2660
-// Abilities: A005 (Masenko), Researchhotkey (Hotkey - Learn)
+// Abilities: A074 (Present Bomb), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -17578,7 +17503,7 @@ STRING 2850
 }
 
 STRING 2851
-// Abilities: A005 (Masenko), Hotkey (Hotkey - Normal)
+// Abilities: A005 (Masenko), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -17602,7 +17527,7 @@ Causes the user to absorb damage for a short time. If the user is attacked he ga
 }
 
 STRING 2855
-// Abilities: A016 (Destruction Sphere), Researchhotkey (Hotkey - Learn)
+// Abilities: A005 (Masenko), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -17645,7 +17570,7 @@ Pan
 
 STRING 2862
 {
-Transformations
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 2863
@@ -17656,11 +17581,7 @@ STRING 2863
 
 STRING 2864
 {
-Type "hs" (without the quotation marks ") to get a list of transformations your character has.
-
-Most transformations require you to type a comamnd e.g. "fp", "ss", "metal", "first", "super".
-
-Type "-autotransform" to toggle auto transformations. Note: auto optional transformations e.g. "release", "metal" and "super".
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 2865
@@ -19009,7 +18930,7 @@ You move at such a fast rate, you become almost invisible.
 
 STRING 3089
 {
-Stomach saga skipped (not implemented yet).
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 3090
@@ -19319,7 +19240,7 @@ STRING 3140
 }
 
 STRING 3141
-// Abilities: A016 (Destruction Sphere), Hotkey (Hotkey - Normal)
+// Abilities: A016 (Destruction Sphere), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -19343,7 +19264,7 @@ Buu fires energy blasts everywhere.
 }
 
 STRING 3145
-// Abilities: A007 (Babidi Wizardry), Researchhotkey (Hotkey - Learn)
+// Abilities: A016 (Destruction Sphere), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -19853,7 +19774,7 @@ Cooler transforms into his final, most powerful form. This form allows the user 
 }
 
 STRING 3230
-// Abilities: A007 (Babidi Wizardry), Hotkey (Hotkey - Normal)
+// Abilities: A007 (Babidi Wizardry), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -20226,7 +20147,7 @@ Tsufuru Mcffffcc00e|rdic Training
 }
 
 STRING 3292
-// Abilities: A038 (Evil Impulse), Researchhotkey (Hotkey - Learn)
+// Abilities: A007 (Babidi Wizardry), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -20250,7 +20171,7 @@ Buu gets so angry he makes himself explode damaging every unit nearby.
 }
 
 STRING 3296
-// Abilities: A038 (Evil Impulse), Hotkey (Hotkey - Normal)
+// Abilities: A038 (Evil Impulse), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -20292,7 +20213,7 @@ STRING 3302
 }
 
 STRING 3303
-// Abilities: A029 (Absorb), Researchhotkey (Hotkey - Learn)
+// Abilities: A038 (Evil Impulse), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -20316,7 +20237,7 @@ One of Gotenks' unique abilites. This attack creates little ghost like clones of
 }
 
 STRING 3307
-// Abilities: A029 (Absorb), Hotkey (Hotkey - Normal)
+// Abilities: A029 (Absorb), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -20538,7 +20459,7 @@ Tsufuru Elite Guacffffcc00r|rd Training
 }
 
 STRING 3344
-// Abilities: A07B (Energy Absorption), Researchhotkey (Hotkey - Learn)
+// Abilities: A029 (Absorb), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -20629,24 +20550,12 @@ Shoots a beam of negative energy from the fingertip. |n|cff00ff00Damage: Int * l
 
 STRING 3359
 {
-Max Permanent Stat Mult:
-[lvl 1]   1.20x
-[lvl 30]  1.40x
-[lvl 60]  1.80x
-[lvl 90]  2.00x
-[lvl 120] 2.20x
-[lvl 150] 2.40x
-
-Moro can only increase his permanent stat mult by draining the stat multiplier of other heroes by using [Q] Energy Drain. Stronger enemies provide greater permanent stat mult.
-
-Each [Q] increases his permanent stat multiplier by:
-[0.2 * (enemy stat mult - 1.000x) or 0.050x if higher]
-capped at his maximum permanent stat multiplier.
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 3360
 {
-|cff20ff200.000x|r
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 3361
@@ -20968,7 +20877,7 @@ Tsufuru Sciencffffcc00t|rist Training
 }
 
 STRING 3414
-// Abilities: A07B (Energy Absorption), Hotkey (Hotkey - Normal)
+// Abilities: A07B (Energy Absorption), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -22704,7 +22613,7 @@ STRING 3699
 }
 
 STRING 3700
-// Abilities: A01C (Flesh Attack), Researchhotkey (Hotkey - Learn)
+// Abilities: A07B (Energy Absorption), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -22728,7 +22637,7 @@ Used to turn people into candy. |n[|cffffcc00History|r] - |cff0066CCThis is Buu'
 }
 
 STRING 3704
-// Abilities: A01C (Flesh Attack), Hotkey (Hotkey - Normal)
+// Abilities: A01C (Flesh Attack), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -22765,7 +22674,7 @@ Cam Distance Down
 
 STRING 3710
 {
-Credits
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 3711
@@ -22806,7 +22715,7 @@ gives you more power and more control
 
 STRING 3717
 {
-|cffff2222Majin Strength|r activated.
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 3718
@@ -24577,7 +24486,7 @@ Gigantic Omegastorm
 }
 
 STRING 4003
-// Abilities: A01F (Energy Disbursement), Researchhotkey (Hotkey - Learn)
+// Abilities: A01C (Flesh Attack), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -24601,7 +24510,7 @@ This is the technique used by Fat Buu when he tears off a part of his body and h
 }
 
 STRING 4007
-// Abilities: A01F (Energy Disbursement), Hotkey (Hotkey - Normal)
+// Abilities: A01F (Energy Disbursement), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -25717,7 +25626,7 @@ STRING 4192
 }
 
 STRING 4193
-// Abilities: A04G (Recharge), Hotkey (Hotkey - Normal)
+// Abilities: A01F (Energy Disbursement), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -25741,7 +25650,7 @@ Dende heals nearby heroes for 0.33% of their total HP per second and heals himse
 }
 
 STRING 4197
-// Abilities: A05H (Tsufuru Medic Training), Researchhotkey (Hotkey - Learn)
+// Abilities: A04G (Recharge), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -26113,7 +26022,7 @@ Finger Blit|cffffcc00z|r Barrage
 }
 
 STRING 4259
-// Abilities: A05H (Tsufuru Medic Training), Hotkey (Hotkey - Normal)
+// Abilities: A05H (Tsufuru Medic Training), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -26137,7 +26046,7 @@ Dende, as Earth's Guardian, has the ability to revive a dead player.|n|cff66ccee
 }
 
 STRING 4263
-// Abilities: A00I (Old Super Ghost Kamikaze Attack), Researchhotkey (Hotkey - Learn)
+// Abilities: A05H (Tsufuru Medic Training), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -26522,14 +26431,7 @@ Tien releases a powerful air shockwave from his hands that deflects and nullifie
 
 STRING 4323
 {
-Type "r" to revert.
-Transformations:
-[lvl 10]  1.25x "fp"
-[lvl 35]  1.50x "fp"
-[lvl 65]  1.75x "fp"
-[lvl 95]  2.00x "fp"
-[lvl 150] 2.40x "fp"
-[lvl 200] 2.50x "fp" [Unlocks Four Fist Technique]
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 4324
@@ -26552,7 +26454,7 @@ STRING 4326
 
 STRING 4327
 {
-|cffffff00Majin Hatred|r activated.
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 4328
@@ -26916,7 +26818,7 @@ Programmed Into Geti Star Maintence workers is the ability to repair damaged dro
 }
 
 STRING 4388
-// Abilities: A00I (Old Super Ghost Kamikaze Attack), Hotkey (Hotkey - Normal)
+// Abilities: A00I (Old Super Ghost Kamikaze Attack), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -27306,7 +27208,7 @@ STRING 4452
 }
 
 STRING 4453
-// Abilities: A05I (Tsufuru Elite Guard Training), Researchhotkey (Hotkey - Learn)
+// Abilities: A00I (Old Super Ghost Kamikaze Attack), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -27330,7 +27232,7 @@ Eis Shenron swipes his enemies from in the eyes with powerful claws made of ice,
 }
 
 STRING 4457
-// Abilities: A05J (Tsufuru Scientist Training), Researchhotkey (Hotkey - Learn)
+// Abilities: A05I (Tsufuru Elite Guard Training), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -27772,7 +27674,7 @@ STRING 4520
 }
 
 STRING 4521
-// Abilities: A02P (Buu Beam), Researchhotkey (Hotkey - Learn)
+// Abilities: A05J (Tsufuru Scientist Training), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -27796,7 +27698,7 @@ The user holds his arm at right angle to his body and lets loose a powerful ball
 }
 
 STRING 4525
-// Abilities: A02P (Buu Beam), Hotkey (Hotkey - Normal)
+// Abilities: A02P (Buu Beam), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -28123,7 +28025,6 @@ STRING 4579
 // Abilities: A060 (Unfuse), Researchubertip (Tooltip - Learn - Extended)
 {
 Goten and Trunks perform the fusion dance. They must be touching each other for the fusion to succeed.
-
 }
 
 STRING 4580
@@ -28242,7 +28143,7 @@ STRING 4598
 
 STRING 4599
 {
-|cff00ff00Download the latest official versions at discord.gg/vayXJSZ|r
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 1|r]
 }
 
 STRING 4600
@@ -28579,49 +28480,42 @@ STRING 4655
 // Abilities: A08D (Kill Driver), Ubertip (Tooltip - Normal - Extended)
 {
 Turles forms a ring of energy between his palms and throws it at the target location. The center of the ring is empty, and units that are in the center will not be harmed. The ring explodes upon reaching the target location, dealing damage. |n|cff00ff00(Ring Damage: (Int * lvl * 2) +100)|n(Explosion Damage: int * lvl * 1.5)|r|n|cff00ffff(Cooldown: 16 seconds)|r
-
 }
 
 STRING 4656
 // Abilities: A08D (Kill Driver), Ubertip (Tooltip - Normal - Extended)
 {
 Turles forms a ring of energy between his palms and throws it at the target location. The center of the ring is empty, and units that are in the center will not be harmed. The ring explodes upon reaching the target location, dealing damage. |n|cff00ff00(Ring Damage: (Int * lvl * 2) +100)|n(Explosion Damage: int * lvl * 1.5)|r|n|cff00ffff(Cooldown: 16 seconds)|r
-
 }
 
 STRING 4657
 // Abilities: A08D (Kill Driver), Ubertip (Tooltip - Normal - Extended)
 {
 Turles forms a ring of energy between his palms and throws it at the target location. The center of the ring is empty, and units that are in the center will not be harmed. The ring explodes upon reaching the target location, dealing damage. |n|cff00ff00(Ring Damage: (Int * lvl * 2) +100)|n(Explosion Damage: int * lvl * 1.5)|r|n|cff00ffff(Cooldown: 16 seconds)|r
-
 }
 
 STRING 4658
 // Abilities: A08D (Kill Driver), Ubertip (Tooltip - Normal - Extended)
 {
 Turles forms a ring of energy between his palms and throws it at the target location. The center of the ring is empty, and units that are in the center will not be harmed. The ring explodes upon reaching the target location, dealing damage. |n|cff00ff00(Ring Damage: (Int * lvl * 2) +100)|n(Explosion Damage: int * lvl * 1.5)|r|n|cff00ffff(Cooldown: 16 seconds)|r
-
 }
 
 STRING 4659
 // Abilities: A08D (Kill Driver), Ubertip (Tooltip - Normal - Extended)
 {
 Turles forms a ring of energy between his palms and throws it at the target location. The center of the ring is empty, and units that are in the center will not be harmed. The ring explodes upon reaching the target location, dealing damage. |n|cff00ff00(Ring Damage: (Int * lvl * 2) +100)|n(Explosion Damage: int * lvl * 1.5)|r|n|cff00ffff(Cooldown: 16 seconds)|r
-
 }
 
 STRING 4660
 // Abilities: A08D (Kill Driver), Ubertip (Tooltip - Normal - Extended)
 {
 Turles forms a ring of energy between his palms and throws it at the target location. The center of the ring is empty, and units that are in the center will not be harmed. The ring explodes upon reaching the target location, dealing damage. |n|cff00ff00(Ring Damage: (Int * lvl * 2) +100)|n(Explosion Damage: int * lvl * 1.5)|r|n|cff00ffff(Cooldown: 16 seconds)|r
-
 }
 
 STRING 4661
 // Abilities: A08D (Kill Driver), Ubertip (Tooltip - Normal - Extended)
 {
 Turles forms a ring of energy between his palms and throws it at the target location. The center of the ring is empty, and units that are in the center will not be harmed. The ring explodes upon reaching the target location, dealing damage. |n|cff00ff00(Ring Damage: (Int * lvl * 2) +100)|n(Explosion Damage: int * lvl * 1.5)|r|n|cff00ffff(Cooldown: 16 seconds)|r
-
 }
 
 STRING 4662
@@ -28667,7 +28561,7 @@ STRING 4668
 }
 
 STRING 4669
-// Abilities: A00U (Dragon Fist), Researchhotkey (Hotkey - Learn)
+// Abilities: A02P (Buu Beam), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -28688,11 +28582,10 @@ STRING 4672
 // Abilities: A08D (Kill Driver), Researchubertip (Tooltip - Learn - Extended)
 {
 Turles forms a ring of energy between his palms and throws it at the target location. The center of the ring is empty, and units that are in the center will not be harmed. The ring explodes upon reaching the target location, dealing damage. |n|cff00ff00(Ring Damage: (Int * lvl * 2) +100)|n(Explosion Damage: int * lvl * 1.5)|r|n|cff00ffff(Cooldown: 16 seconds)|r
-
 }
 
 STRING 4673
-// Abilities: A00U (Dragon Fist), Hotkey (Hotkey - Normal)
+// Abilities: A00U (Dragon Fist), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -28713,14 +28606,12 @@ STRING 4676
 // Abilities: A08D (Kill Driver), Ubertip (Tooltip - Normal - Extended)
 {
 Turles forms a ring of energy between his palms and throws it at the target location. The center of the ring is empty, and units that are in the center will not be harmed. The ring explodes upon reaching the target location, dealing damage. |n|cff00ff00(Ring Damage: (Int * lvl * 2) +100)|n(Explosion Damage: int * lvl * 1.5)|r|n|cff00ffff(Cooldown: 16 seconds)|r
-
 }
 
 STRING 4677
 // Abilities: A08D (Kill Driver), Ubertip (Tooltip - Normal - Extended)
 {
 Turles forms a ring of energy between his palms and throws it at the target location. The center of the ring is empty, and units that are in the center will not be harmed. The ring explodes upon reaching the target location, dealing damage. |n|cff00ff00(Ring Damage: (Int * lvl * 2) +100)|n(Explosion Damage: int * lvl * 1.5)|r|n|cff00ffff(Cooldown: 16 seconds)|r
-
 }
 
 STRING 4678
@@ -29222,7 +29113,7 @@ STRING 4760
 }
 
 STRING 4761
-// Abilities: A06V (Guardian's Devotion), Researchhotkey (Hotkey - Learn)
+// Abilities: A00U (Dragon Fist), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -29272,14 +29163,7 @@ R
 
 STRING 4768
 {
-Type "r" to revert.
-Transformations:
-[lvl 25]  1.50x "ss"
-[lvl 75]  2.00x "ss2"
-
-|cffffcc00Grim Reaper of Justice|r: +5% stats from creeps
-
-When the combined level of Goten and Trunks is above 120 you can type "fusion ha" to fuse into Gotenks. Goten and Trunks must not be in a restricted area to fuse.
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 2|r]
 }
 
 STRING 4769
@@ -30301,7 +30185,7 @@ STRING 4937
 }
 
 STRING 4938
-// Abilities: A06V (Guardian's Devotion), Hotkey (Hotkey - Normal)
+// Abilities: A06V (Guardian's Devotion), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -30325,7 +30209,7 @@ Android 18 stuns the target with a quick knee to the torso.|n|cff00FF00Duration:
 }
 
 STRING 4942
-// Abilities: A06W (Touch of Life), Researchhotkey (Hotkey - Learn)
+// Abilities: A06V (Guardian's Devotion), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -30448,7 +30332,6 @@ STRING 4962
 // Abilities: A09T (Delta Combination), Ubertip (Tooltip - Normal - Extended)
 {
 Android 17 uses his inhuman agility and strength to throw his opponent around like a volleyball as he beats them down from 3 sides.
-
 }
 
 STRING 4963
@@ -30530,7 +30413,7 @@ STRING 4975
 }
 
 STRING 4976
-// Abilities: A06W (Touch of Life), Hotkey (Hotkey - Normal)
+// Abilities: A06W (Touch of Life), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -30551,11 +30434,10 @@ STRING 4979
 // Abilities: A09T (Delta Combination), Researchubertip (Tooltip - Learn - Extended)
 {
 Android 17 uses his inhuman agility and strength to throw his opponent around like a volleyball as he beats them down from 3 sides.
-
 }
 
 STRING 4980
-// Abilities: A01Y (Nuclear Bomb), Researchhotkey (Hotkey - Learn)
+// Abilities: A06W (Touch of Life), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -31629,7 +31511,7 @@ STRING 5158
 }
 
 STRING 5159
-// Abilities: A01Y (Nuclear Bomb), Hotkey (Hotkey - Normal)
+// Abilities: A01Y (Nuclear Bomb), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -31653,7 +31535,7 @@ Bebi detonates the targeted minion, causing damage in an area.. |n|cff00ff00(Dam
 }
 
 STRING 5163
-// Abilities: A02Y (Geti Star Repair), Hotkey (Hotkey - Normal)
+// Abilities: A01Y (Nuclear Bomb), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -31768,7 +31650,7 @@ STRING 5181
 
 STRING 5182
 {
-You receive +0.04x multiplier from gathering combat data.
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 3|r]
 }
 
 STRING 5183
@@ -31826,7 +31708,7 @@ STRING 5191
 }
 
 STRING 5192
-// Abilities: A00Z (Solar Flare), Researchhotkey (Hotkey - Learn)
+// Abilities: A02Y (Geti Star Repair), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -31852,7 +31734,7 @@ STRING 5195
 }
 
 STRING 5196
-// Abilities: A00Z (Solar Flare), Hotkey (Hotkey - Normal)
+// Abilities: A00Z (Solar Flare), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -32422,7 +32304,7 @@ Tien swings his arms so fast they appear to be windmills on his shoulder and pum
 }
 
 STRING 5291
-// Abilities: A05Z (Big Bang Attack), Researchhotkey (Hotkey - Learn)
+// Abilities: A00Z (Solar Flare), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -32828,6 +32710,12 @@ STRING 5356
 This unit is being influenced by Babidi. It has enhanced attack power, and anything killed while under this effect will add to Babidi's collected power.|n|n|cff00ff00Adds <A02N,DataA4,%>% extra damage.|r
 }
 
+STRING 5357
+// Abilities: A0P8 (Wall of Flames), Tip (Tooltip - Normal)
+{
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 4|r]
+}
+
 STRING 5358
 // Units: H09S (Shinigami), Name (Name)
 {
@@ -33096,7 +32984,7 @@ Janemba transforms into his ultimate form.|n|cff00FF00Consumes all souls. Requir
 
 STRING 5402
 {
-You receive +0.01x multiplier from another Metal Cooler gathering combat data.
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 5|r]
 }
 
 STRING 5403
@@ -33119,19 +33007,7 @@ STRING 5405
 
 STRING 5406
 {
-Type "r" to revert.
-Transformations:
-[lvl 30]  1.50x "syn" [Unlocks Envoy of the End]
-[lvl 55]  1.75x "syn"
-[lvl 85]  1.90x "syn"
-[lvl 125] 2.25x "syn"
-[lvl 150] 2.40x "omega" [Unlocks All Shadow Dragon Abilities]
-[lvl 200] 2.50x "omega"
-[lvl 250] 2.60x "omega"
-
-Gains +0.05x for each dragon ball held.
-Shadow Dragon Abilities can also be unlocked by collecting all 7 dragon balls.
-Envoy of the End will be located inside [D] Shadow Dragon Abilities.
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 6|r]
 }
 
 STRING 5407
@@ -33860,7 +33736,7 @@ R
 
 STRING 5526
 {
-|cff40ff40Kami's Lookout|r
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 7|r]
 }
 
 STRING 5527
@@ -33877,7 +33753,7 @@ Creates an artificial moon, causing the user to transform into a great ape. Whil
 
 STRING 5529
 {
-|cff00ffff----------------------------------------|r
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 8|r]
 }
 
 STRING 5530
@@ -33888,7 +33764,7 @@ Creates an artificial moon, causing the user to transform into a great ape. Whil
 
 STRING 5531
 {
-|cff00ffff----------------------------------------|r
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 5532
@@ -33940,21 +33816,14 @@ STRING 5539
 }
 
 STRING 5540
-// Abilities: A05Z (Big Bang Attack), Hotkey (Hotkey - Normal)
+// Abilities: A05Z (Big Bang Attack), Researchhotkey (Hotkey - Learn)
 {
 E
 }
 
 STRING 5541
 {
-Type "r" to revert.
-Transformations:
-[lvl 15]  1.25x "fp"
-[lvl 35]  1.50x "fp"
-[lvl 90]  2.00x "fp"
-[lvl 125] 2.40x "fp"
-
-Gains +0.02x for each Ginyu Force member on their team.
+Glacier
 }
 
 STRING 5542
@@ -33964,7 +33833,7 @@ STRING 5542
 }
 
 STRING 5543
-// Abilities: A08D (Kill Driver), Researchhotkey (Hotkey - Learn)
+// Abilities: A05Z (Big Bang Attack), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -33995,13 +33864,7 @@ STRING 5547
 
 STRING 5548
 {
-Type "r" to revert.
-Transformations:
-[lvl 10]  1.25x "fp"
-[lvl 25]  1.50x "fp" [Unlocks Max Power]
-[lvl 100] 2.00x "fp"
-[lvl 150] 2.30x "fp" 
-[lvl 250] 2.40x "fp" [Max Power upgrades Kamehameha]
+[|cff00FF00Q|r] Learn Glacier - [|cffffcc00Level %d|r]
 }
 
 STRING 5549
@@ -34407,7 +34270,7 @@ STRING 5615
 }
 
 STRING 5616
-// Abilities: A08D (Kill Driver), Hotkey (Hotkey - Normal)
+// Abilities: A08D (Kill Driver), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -34425,7 +34288,7 @@ STRING 5618
 }
 
 STRING 5619
-// Abilities: A09R (Windbreaker), Researchhotkey (Hotkey - Learn)
+// Abilities: A08D (Kill Driver), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -34649,13 +34512,13 @@ STRING 5655
 }
 
 STRING 5656
-// Abilities: A09R (Windbreaker), Hotkey (Hotkey - Normal)
+// Abilities: A09R (Windbreaker), Researchhotkey (Hotkey - Learn)
 {
 E
 }
 
 STRING 5657
-// Abilities: A09T (Delta Combination), Researchhotkey (Hotkey - Learn)
+// Abilities: A09R (Windbreaker), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -34817,13 +34680,13 @@ Slappy Hand
 }
 
 STRING 5684
-// Abilities: A09T (Delta Combination), Hotkey (Hotkey - Normal)
+// Abilities: A09T (Delta Combination), Researchhotkey (Hotkey - Learn)
 {
 E
 }
 
 STRING 5685
-// Abilities: A0B3 (Tuffle Bomb), Researchhotkey (Hotkey - Learn)
+// Abilities: A09T (Delta Combination), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -34848,48 +34711,19 @@ Raditz raises both of his arms up and charges two purple energy spheres. He then
 
 STRING 5689
 {
-Transformations:
-[lvl 15]  1.25x "kao"
-[lvl 30]  1.50x "ss"
-[lvl 85]  2.00x "ss2"
-[lvl 125] 2.25x "ss3"
-[lvl 150] 2.50x "ssg"
-[lvl 200] 2.60x "ssb"
-[lvl 225] 2.70x "ssbkao"
-|cff00ff00Pick ONE of the following:|r
-[lvl 150] "|cff00afffgod kame|r"
-[lvl 150] "|cffffcc00super dfist|r"
-|cff00ffffUltra Instinct:|r
-Type "ui" at lvl 250 to receive [D] Ultra Instinct. 
-3 minutes after using [D] Ultra Instinct you will receive [D] Mastered Ultra Instinct. Both of these abilities can only be used |cffff1010ONCE PER GAME|r.
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 5690
 {
-Type "r" to revert.
-Transformations:
-[lvl 30]  1.50x "ss"
-[lvl 50]  1.75x "uss"
-[lvl 85]  2.00x "ss2"
-[lvl 150] 2.50x "ssg"
-[lvl 200] 2.60x "ssb" [unlocks final flash 2]
-[lvl 225] 2.70x "ssbe"
+(Shouto)
 }
 
 STRING 5691
 {
-Type "r" to revert.
-Transformations:
-[lvl 30]  1.50x "ss"
-[lvl 70]  2.00x "ss2"
-[lvl 110] 2.10x "saiyaman"
-[lvl 120] 2.20x "ss"
-[lvl 130] 2.30x "ss2"
-[lvl 140] 2.50x "ult"
-
-|cff00ff00Pick ONE of the following:|r
-[lvl 175] "|cff00afffgod kame|r"
-[lvl 175] "|cffffcc00super masenko|r"
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool1> seconds|r
 }
 
 STRING 5692
@@ -34912,29 +34746,16 @@ Raditz raises both of his arms up and charges two purple energy spheres. He then
 
 STRING 5695
 {
-Type "r" to revert.
-Transformations:
-[lvl 25]  1.50x  "ss"
-[lvl 50]  1.75x  "uss"
-[lvl 75]  3/1.5/1.5x  "uss2" [unlocks heat dome attack]
-[lvl 100] 2.00x  "ss2"
-[lvl 150] 2.40x  "ss2"
-[lvl 200] 2.50x  "ss2" [unlocks ss rage]
-[lvl 250] 2.60x  "ss2"
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool2> seconds|r
 }
 
 STRING 5696
 {
-Type "r" to revert.
-Transformations:
-[lvl 30]  1.50x "nail" [just type "nail" into all chat]
-[lvl 60]  1.75x "kami"
-[lvl 90]  2.00x "super namekian"
-[lvl 150] 2.40x "super namekian"
-[lvl 200] 2.50x "super namekian"
-
-Kyodaika: +0.3-0.6x str 
-|cffff2020Warning: You cannot transform to higher stat multipliers while in Kyodaika|r
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool3> seconds|r
 }
 
 STRING 5697
@@ -35170,7 +34991,7 @@ Moves your revive point to the upper-left area of the map.|n|cffFF0000Warning: n
 }
 
 STRING 5729
-// Abilities: A0B3 (Tuffle Bomb), Hotkey (Hotkey - Normal)
+// Abilities: A0B3 (Tuffle Bomb), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -35218,7 +35039,7 @@ Moves your revive point to the wooded area in the south of the map.
 }
 
 STRING 5737
-// Abilities: A0BJ (Train Intellect), Hotkey (Hotkey - Normal)
+// Abilities: A0B3 (Tuffle Bomb), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -35610,7 +35431,7 @@ STRING 5800
 }
 
 STRING 5801
-// Abilities: A0BZ (Planet Crusher), Researchhotkey (Hotkey - Learn)
+// Abilities: A0BJ (Train Intellect), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -35634,7 +35455,7 @@ Gotenks creates ghost clones of himself that will travel to the target location 
 }
 
 STRING 5805
-// Abilities: A0BZ (Planet Crusher), Hotkey (Hotkey - Normal)
+// Abilities: A0BZ (Planet Crusher), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -36000,13 +35821,13 @@ Beerus Generic Hakai 2.0
 }
 
 STRING 5866
-// Abilities: A0C3 (BeerusBall), Researchhotkey (Hotkey - Learn)
+// Abilities: A0BZ (Planet Crusher), Hotkey (Hotkey - Normal)
 {
 E
 }
 
 STRING 5867
-// Abilities: A0C3 (BeerusBall), Hotkey (Hotkey - Normal)
+// Abilities: A0C3 (BeerusBall), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -36330,7 +36151,7 @@ STRING 5920
 }
 
 STRING 5921
-// Abilities: A0C6 (Hakai 2.0), Researchhotkey (Hotkey - Learn)
+// Abilities: A0C3 (BeerusBall), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -36444,7 +36265,7 @@ STRING 5939
 }
 
 STRING 5940
-// Abilities: A0C6 (Hakai 2.0), Hotkey (Hotkey - Normal)
+// Abilities: A0C6 (Hakai 2.0), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -36558,7 +36379,7 @@ STRING 5958
 }
 
 STRING 5959
-// Abilities: A0CD (Revive - Goten Spawn), Hotkey (Hotkey - Normal)
+// Abilities: A0C6 (Hakai 2.0), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -36582,7 +36403,7 @@ Causes the user to absorb damage for a short time. If the user is attacked he ga
 }
 
 STRING 5963
-// Abilities: A0CG (Revive - Androids Spawn), Hotkey (Hotkey - Normal)
+// Abilities: A0CD (Revive - Goten Spawn), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -36672,7 +36493,7 @@ STRING 5977
 }
 
 STRING 5978
-// Abilities: A0CP (Super Ghost Kamikaze Attack), Researchhotkey (Hotkey - Learn)
+// Abilities: A0CG (Revive - Androids Spawn), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -36786,7 +36607,7 @@ STRING 5996
 }
 
 STRING 5997
-// Abilities: A0CP (Super Ghost Kamikaze Attack), Hotkey (Hotkey - Normal)
+// Abilities: A0CP (Super Ghost Kamikaze Attack), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -36900,7 +36721,7 @@ STRING 6015
 }
 
 STRING 6016
-// Abilities: A0CV (Beerus Generic Hakai 2.0), Researchhotkey (Hotkey - Learn)
+// Abilities: A0CP (Super Ghost Kamikaze Attack), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -37014,7 +36835,7 @@ STRING 6034
 }
 
 STRING 6035
-// Abilities: A0CV (Beerus Generic Hakai 2.0), Hotkey (Hotkey - Normal)
+// Abilities: A0CV (Beerus Generic Hakai 2.0), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -37128,7 +36949,7 @@ STRING 6053
 }
 
 STRING 6054
-// Abilities: A0CX (Sample Eggs and Sausage), Researchhotkey (Hotkey - Learn)
+// Abilities: A0CV (Beerus Generic Hakai 2.0), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -37242,7 +37063,7 @@ STRING 6072
 }
 
 STRING 6073
-// Abilities: A0CY (Sample ????), Researchhotkey (Hotkey - Learn)
+// Abilities: A0CX (Sample Eggs and Sausage), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -37356,7 +37177,7 @@ STRING 6091
 }
 
 STRING 6092
-// Abilities: A0CZ (Sample Sushi), Researchhotkey (Hotkey - Learn)
+// Abilities: A0CY (Sample ????), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -37868,7 +37689,7 @@ STRING 6176
 }
 
 STRING 6177
-// Abilities: A0CZ (Sample Sushi), Hotkey (Hotkey - Normal)
+// Abilities: A0CZ (Sample Sushi), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -37886,7 +37707,7 @@ STRING 6179
 }
 
 STRING 6180
-// Abilities: A0D0 (Sample Ramen), Researchhotkey (Hotkey - Learn)
+// Abilities: A0CZ (Sample Sushi), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -38024,7 +37845,7 @@ STRING 6202
 }
 
 STRING 6203
-// Abilities: A0D1 (Sample Pizza), Researchhotkey (Hotkey - Learn)
+// Abilities: A0D0 (Sample Ramen), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -38127,16 +37948,16 @@ STRING 6219
 
 STRING 6220
 {
-Transformations:
-Kid Buu:
-Carries over the stat multiplier from Super Buu's absorbs.
-Does not gain any additional stat multiplier.
-Gains the [|cff00ff00Q|r] and [|cff00ff00D|r] abilities of whoever Super Buu absorbed first.
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool4> seconds|r
 }
 
 STRING 6221
 {
-Those with Immortality cannot enter the Hyperbolic Time Chamber.
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool5> seconds|r
 }
 
 STRING 6222
@@ -38153,7 +37974,9 @@ Instantly consumes all nearby candy. Procs candy beam damage and lifesteal again
 
 STRING 6224
 {
-The Hyperbolic Time Chamber is currently being repaired by Mr. Popo.
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool6> seconds|r
 }
 
 STRING 6225
@@ -38170,14 +37993,14 @@ A sphere thrown from Broly's hand causing wide area damage.|n|cff00ff00Damage: S
 
 STRING 6227
 {
-|cff00ffff[Hyperbolic Time Chamber]|r
-Mr. Popo has repaired the Hyperbolic Time Chamber.
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool7> seconds|r
 }
 
 STRING 6228
 {
-|cff00ffff[Hyperbolic Time Chamber]|r
-Mr. Popo has upgraded the Hyperbolic Time Chamber.
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 2|r]
 }
 
 STRING 6229
@@ -38194,17 +38017,17 @@ Goku throws a Spirit Bomb at the target area, causing it to explode and deal dam
 
 STRING 6231
 {
- 
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 3|r]
 }
 
 STRING 6232
 {
- 
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 4|r]
 }
 
 STRING 6233
 {
- .
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 5|r]
 }
 
 STRING 6234
@@ -38726,7 +38549,7 @@ F
 
 STRING 6319
 {
-|cff00ffff[Only host sees this] Catchup Stats Activated|r
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 6|r]
 }
 
 STRING 6320
@@ -38808,7 +38631,7 @@ Removes 90 armor from nearby enemies.
 }
 
 STRING 6333
-// Abilities: A0D2 (Sample Purified Water), Researchhotkey (Hotkey - Learn)
+// Abilities: A0D1 (Sample Pizza), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -38939,16 +38762,12 @@ Ginyu
 
 STRING 6348
 {
-Stat Modification
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 1|r]
 }
 
 STRING 6349
 {
-Use F8 to select your revive point and then modify the amount of stats you gain on LEVEL UP.
-
-By default you will gain +4/4/4 in str/agi/int every time you level up. You can redistribute this to values such as 6/0/6 to gain 6 str and 6 int but 0 agi per level up. 
-
-You cannot distribute more than half the sum of your level up stats (6 by default) to any single attribute.
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 7|r]
 }
 
 STRING 6350
@@ -38959,14 +38778,7 @@ A sweeping kick that damages enemies near the user and knocks away any incoming 
 
 STRING 6351
 {
-Type "r" to revert.
-Transformations:
-[lvl 1]   1.25x "shikai"
-[lvl 75]  2.00x "true shikai" [Unlocks Shunpo, +50% AS]
-[lvl 125] 2.40x "hollow" [Unlocks Cero, +5 Armor]
-[lvl 200] 2.60x "final shikai" [+100% Cleave]
-
-|cff00ffffShikai|r: +20ms
+E
 }
 
 STRING 6352
@@ -39315,7 +39127,7 @@ STRING 6401
 }
 
 STRING 6402
-// Abilities: A0D3 (Sample Pudding), Researchhotkey (Hotkey - Learn)
+// Abilities: A0D2 (Sample Purified Water), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -39429,7 +39241,7 @@ STRING 6420
 }
 
 STRING 6421
-// Abilities: A0D4 (Sample Ice Cream), Researchhotkey (Hotkey - Learn)
+// Abilities: A0D3 (Sample Pudding), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -39543,7 +39355,7 @@ STRING 6439
 }
 
 STRING 6440
-// Abilities: A0D5 (Sample Beer), Researchhotkey (Hotkey - Learn)
+// Abilities: A0D4 (Sample Ice Cream), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -39567,7 +39379,7 @@ Causes the user to absorb damage for a short time. If the user is attacked he ga
 }
 
 STRING 6444
-// Abilities: A0D6 (Sample ???), Researchhotkey (Hotkey - Learn)
+// Abilities: A0D5 (Sample Beer), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -39657,7 +39469,7 @@ STRING 6458
 }
 
 STRING 6459
-// Abilities: A0DG (God of Destruction's Wrath), Researchhotkey (Hotkey - Learn)
+// Abilities: A0D6 (Sample ???), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -39771,7 +39583,7 @@ STRING 6477
 }
 
 STRING 6478
-// Abilities: A0DG (God of Destruction's Wrath), Hotkey (Hotkey - Normal)
+// Abilities: A0DG (God of Destruction's Wrath), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -39885,7 +39697,7 @@ STRING 6496
 }
 
 STRING 6497
-// Abilities: A0DW (Evil Aura), Researchhotkey (Hotkey - Learn)
+// Abilities: A0DG (God of Destruction's Wrath), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -40035,7 +39847,7 @@ STRING 6521
 }
 
 STRING 6522
-// Abilities: A0E1 (Transform - First), Researchhotkey (Hotkey - Learn)
+// Abilities: A0DW (Evil Aura), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -41419,7 +41231,6 @@ A secret hero that can only be randomed. One of the strongest PvP fighters due t
 |cff00FF00II|r|cff383838III |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 6750
@@ -41784,19 +41595,7 @@ Bunkai Teleport
 
 STRING 6810
 {
-Type "r" to revert.
-Transformations: (base stat multiplier excluding kills)
-[lvl 20]  1.30x "fp"
-[lvl 50]  1.50x "fp"
-[lvl 80]  1.80x "fp"
-[lvl 100] 1.90x "fp"
-[lvl 150] 2.00x "xeno janemba" [upgrades Q]
-[lvl 200] 2.20x "xeno janemba"
-[lvl 250] 2.40x "xeno janemba"
-
-|cffffff00On player kill:|r 
-Permanently gain +0.06x up to +0.5x (cannot exceed 2.4x). 
-Temporarily gain +0.2x for 60 seconds.
+Ice Path
 }
 
 STRING 6811
@@ -41860,7 +41659,7 @@ Removes 150 armor from nearby enemies.
 }
 
 STRING 6821
-// Abilities: A0E2 (Transform - Second), Researchhotkey (Hotkey - Learn)
+// Abilities: A0E1 (Transform - First), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -42058,7 +41857,7 @@ STRING 6853
 }
 
 STRING 6854
-// Abilities: A0E3 (Transform - Third), Researchhotkey (Hotkey - Learn)
+// Abilities: A0E2 (Transform - Second), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -42082,7 +41881,7 @@ Hercule leaves a bomb on the ground disguised as an item. Any enemy that picks i
 }
 
 STRING 6858
-// Abilities: A0E3 (Transform - Third), Hotkey (Hotkey - Normal)
+// Abilities: A0E3 (Transform - Third), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -42544,7 +42343,7 @@ W
 }
 
 STRING 6930
-// Abilities: A0E4 (Transform - Fourth), Researchhotkey (Hotkey - Learn)
+// Abilities: A0E3 (Transform - Third), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -42580,7 +42379,7 @@ Madara traps the target unit in a time loop, causing it to be moved to its origi
 }
 
 STRING 6936
-// Abilities: A0E5 (Transform - 100%), Researchhotkey (Hotkey - Learn)
+// Abilities: A0E4 (Transform - Fourth), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -43087,6 +42886,12 @@ STRING 7014
 Adds 750 bonus damage to the carrier and attacks reduce the target's armor by 10.|n|cff00FF00Level [1/5]|r
 }
 
+STRING 7015
+// Abilities: A0YA (Ice Path), Researchtip (Tooltip - Learn)
+{
+[|cff00ff00R|r] Learn Heavenly Rush - [|cffffcc00Level %d|r]
+}
+
 STRING 7016
 // Abilities: A0FU (Pocket Dimension), Name (Name)
 {
@@ -43112,7 +42917,7 @@ W
 }
 
 STRING 7020
-// Abilities: A0E6 (Call Ship), Researchhotkey (Hotkey - Learn)
+// Abilities: A0E5 (Transform - 100%), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -43158,7 +42963,7 @@ STRING 7025
 }
 
 STRING 7026
-// Abilities: A0E7 (Travel), Researchhotkey (Hotkey - Learn)
+// Abilities: A0E6 (Call Ship), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -43185,7 +42990,7 @@ First, Broly charges a green ball of ki in front of him. He then fires the attac
 }
 
 STRING 7029
-// Abilities: A0EU (Cosmic Illusion), Hotkey (Hotkey - Normal)
+// Abilities: A0E7 (Travel), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -43349,13 +43154,13 @@ The user charges with one hand behind the other above the head. The hands are th
 }
 
 STRING 7053
-// Abilities: A0EU (Cosmic Illusion), Researchhotkey (Hotkey - Learn)
+// Abilities: A0EU (Cosmic Illusion), Hotkey (Hotkey - Normal)
 {
 E
 }
 
 STRING 7054
-// Abilities: A0EW (Collision Aura), Researchhotkey (Hotkey - Learn)
+// Abilities: A0EU (Cosmic Illusion), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -43775,13 +43580,13 @@ Dende links up to 2 units together. Reduces Dende's damage taken by 50% and spli
 }
 
 STRING 7115
-// Abilities: A0FF (Present Bomb), Researchhotkey (Hotkey - Learn)
+// Abilities: A0EW (Collision Aura), Researchhotkey (Hotkey - Learn)
 {
 E
 }
 
 STRING 7116
-// Abilities: A0FF (Present Bomb), Hotkey (Hotkey - Normal)
+// Abilities: A0FF (Present Bomb), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -43865,7 +43670,7 @@ PIC/GOH/A13/DEF
 }
 
 STRING 7130
-// Abilities: A0FK (Izanami), Hotkey (Hotkey - Normal)
+// Abilities: A0FF (Present Bomb), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -43889,7 +43694,7 @@ Big Bang Attack
 }
 
 STRING 7134
-// Abilities: A0FK (Izanami), Researchhotkey (Hotkey - Learn)
+// Abilities: A0FK (Izanami), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -44259,7 +44064,7 @@ Kamehameha
 }
 
 STRING 7192
-// Abilities: A0FV (Flash Fist), Hotkey (Hotkey - Normal)
+// Abilities: A0FK (Izanami), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -44334,7 +44139,6 @@ It's a me! Letsa go!
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 7204
@@ -44366,16 +44170,7 @@ C
 
 STRING 7208
 {
-Type "r" to revert.
-Transformations:
-[lvl 15]  1.25x "fp"
-[lvl 30]  1.50x "fp" [unlocks Energy Blades]
-[lvl 50]  1.75x "fp"
-[lvl 90]  2.00x "fp"
-[lvl 150] 2.30x "god" [unlocks Zamasu's Immortality]
-[lvl 200] 2.50x "god" 
-
-|cffff25aaZamasu's Immortality|r: +150% HP regen
+E
 }
 
 STRING 7209
@@ -44385,7 +44180,7 @@ Android 17 fires a rapid stream of energy blasts in a straight line, dealing mas
 }
 
 STRING 7210
-// Abilities: A0FV (Flash Fist), Researchhotkey (Hotkey - Learn)
+// Abilities: A0FV (Flash Fist), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -44859,7 +44654,7 @@ STRING 7288
 }
 
 STRING 7289
-// Abilities: A0G2 (Spirit Link), Hotkey (Hotkey - Normal)
+// Abilities: A0FV (Flash Fist), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -44883,7 +44678,7 @@ The user charges with one hand behind the other above the head. The hands are th
 }
 
 STRING 7293
-// Abilities: A0G2 (Spirit Link), Researchhotkey (Hotkey - Learn)
+// Abilities: A0G2 (Spirit Link), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -45429,7 +45224,7 @@ STRING 7383
 }
 
 STRING 7384
-// Abilities: A0G3 (Big Bang Attack), Hotkey (Hotkey - Normal)
+// Abilities: A0G2 (Spirit Link), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -45453,7 +45248,7 @@ The user holds his arm at right angle to his body and lets loose a powerful ball
 }
 
 STRING 7388
-// Abilities: A0G3 (Big Bang Attack), Researchhotkey (Hotkey - Learn)
+// Abilities: A0G3 (Big Bang Attack), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -45946,7 +45741,7 @@ A powerful energy shield used by androids to prevent all incoming damage for 5 s
 
 STRING 7470
 {
-|cff40ff40[Only red sees this] Automatic Catchup Stats Activated (20mins)!|r
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 9|r]
 }
 
 STRING 7471
@@ -46357,13 +46152,7 @@ Moves your revive point to the middle of the map, north-east of Kami's Lookout.|
 
 STRING 7538
 {
-Type "r" to revert.
-Transformations:
-[lvl 17]  1.40x "fp"
-[lvl 50]  1.70x "fp"
-[lvl 90]  2.00x "fp"
-[lvl 140] 2.50x "ranger" [upgrades Q]
-[lvl 200] 2.60x "ranger"
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 8|r]
 }
 
 STRING 7539
@@ -47453,8 +47242,7 @@ An ancient jewel of extraordinary magic and power. Collect all seven to have a w
 
 STRING 7719
 {
-|cff00ffff[Hyperbolic Time Chamber]|r
-Mr. Popo has upgraded the Hyperbolic Time Chamber again.
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 10|r]
 }
 
 STRING 7720
@@ -47483,7 +47271,9 @@ Item
 
 STRING 7724
 {
-|cff40ff40[Only red sees this] Automatic Catchup Stats Activated (30mins)!|r
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool8> seconds|r
 }
 
 STRING 7725
@@ -47759,13 +47549,13 @@ STRING 7769
 }
 
 STRING 7770
-// Abilities: A0GD (Masenko), Hotkey (Hotkey - Normal)
+// Abilities: A0G3 (Big Bang Attack), Researchhotkey (Hotkey - Learn)
 {
 E
 }
 
 STRING 7771
-// Abilities: A0GD (Masenko), Researchhotkey (Hotkey - Learn)
+// Abilities: A0GD (Masenko), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -48047,7 +47837,7 @@ STRING 7817
 }
 
 STRING 7818
-// Abilities: A0GJ (Masenko), Researchhotkey (Hotkey - Learn)
+// Abilities: A0GD (Masenko), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -48065,7 +47855,7 @@ STRING 7820
 }
 
 STRING 7821
-// Abilities: A0GJ (Masenko), Hotkey (Hotkey - Normal)
+// Abilities: A0GJ (Masenko), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -48425,7 +48215,6 @@ A hero who specializes in small skirmishes, dealing heavy single-target damage.
 |cff00FF00II|r|cff383838III |r|cffFFFF00Saga|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 7879
@@ -48537,7 +48326,7 @@ STRING 7896
 }
 
 STRING 7897
-// Abilities: A0GO (Big Bang Attack), Researchhotkey (Hotkey - Learn)
+// Abilities: A0GJ (Masenko), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -48555,7 +48344,7 @@ STRING 7899
 }
 
 STRING 7900
-// Abilities: A0GO (Big Bang Attack), Hotkey (Hotkey - Normal)
+// Abilities: A0GO (Big Bang Attack), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -49185,7 +48974,7 @@ W
 }
 
 STRING 8005
-// Abilities: A0HL (Bansheee Blast), Researchhotkey (Hotkey - Learn)
+// Abilities: A0GO (Big Bang Attack), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -49209,7 +48998,7 @@ Holy Light Grenade
 }
 
 STRING 8009
-// Abilities: A0HL (Bansheee Blast), Hotkey (Hotkey - Normal)
+// Abilities: A0HL (Bansheee Blast), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -49314,7 +49103,6 @@ A high damage close-range hero that deals bonus damage on his spells by auto-att
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 8026
@@ -49487,10 +49275,26 @@ STRING 8047
 [|cffffff00A|r] Choose All Might
 }
 
+STRING 8048
+// Abilities: A0YA (Ice Path), Ubertip (Tooltip - Normal - Extended)
+{
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool9> seconds|r
+}
+
 STRING 8049
 // Units: H09K (Symbol of Peace), Tip (Tooltip - Basic)
 {
 [|cffffff00A|r] Choose All Might
+}
+
+STRING 8050
+// Abilities: A0YA (Ice Path), Ubertip (Tooltip - Normal - Extended)
+{
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool10> seconds|r
 }
 
 STRING 8051
@@ -49507,7 +49311,9 @@ STRING 8052
 
 STRING 8053
 {
-Freemode Disabled, forced win/loss conditions are enabled.
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool1> seconds|r
 }
 
 STRING 8054
@@ -49634,7 +49440,6 @@ STRING 8074
 // Abilities: A0KQ (Brave Cannon), Ubertip (Tooltip - Normal - Extended)
 {
 Tapion fires a sphere of energy in the target direction. The sphere will damage any unit it collides with.|n|cff00FF00Dmg: int*lvl*2.5|r|n|cffFFFF00"Hero's Song"|r debuff applied to all units hit, allowing Tapion to use Brave Sword Attack near units with the debuff.
-
 }
 
 STRING 8075
@@ -49689,42 +49494,36 @@ STRING 8083
 // Abilities: A0KQ (Brave Cannon), Ubertip (Tooltip - Normal - Extended)
 {
 Tapion fires a sphere of energy in the target direction. The sphere will damage any unit it collides with.|n|cff00FF00Dmg: int*lvl*2.5|r|n|cffFFFF00"Hero's Song"|r debuff applied to all units hit, allowing Tapion to use Brave Sword Attack near units with the debuff.
-
 }
 
 STRING 8084
 // Abilities: A0KQ (Brave Cannon), Ubertip (Tooltip - Normal - Extended)
 {
 Tapion fires a sphere of energy in the target direction. The sphere will damage any unit it collides with.|n|cff00FF00Dmg: int*lvl*2.5|r|n|cffFFFF00"Hero's Song"|r debuff applied to all units hit, allowing Tapion to use Brave Sword Attack near units with the debuff.
-
 }
 
 STRING 8085
 // Abilities: A0KQ (Brave Cannon), Ubertip (Tooltip - Normal - Extended)
 {
 Tapion fires a sphere of energy in the target direction. The sphere will damage any unit it collides with.|n|cff00FF00Dmg: int*lvl*2.5|r|n|cffFFFF00"Hero's Song"|r debuff applied to all units hit, allowing Tapion to use Brave Sword Attack near units with the debuff.
-
 }
 
 STRING 8086
 // Abilities: A0KQ (Brave Cannon), Ubertip (Tooltip - Normal - Extended)
 {
 Tapion fires a sphere of energy in the target direction. The sphere will damage any unit it collides with.|n|cff00FF00Dmg: int*lvl*2.5|r|n|cffFFFF00"Hero's Song"|r debuff applied to all units hit, allowing Tapion to use Brave Sword Attack near units with the debuff.
-
 }
 
 STRING 8087
 // Abilities: A0KQ (Brave Cannon), Ubertip (Tooltip - Normal - Extended)
 {
 Tapion fires a sphere of energy in the target direction. The sphere will damage any unit it collides with.|n|cff00FF00Dmg: int*lvl*2.5|r|n|cffFFFF00"Hero's Song"|r debuff applied to all units hit, allowing Tapion to use Brave Sword Attack near units with the debuff.
-
 }
 
 STRING 8088
 // Abilities: A0KQ (Brave Cannon), Ubertip (Tooltip - Normal - Extended)
 {
 Tapion fires a sphere of energy in the target direction. The sphere will damage any unit it collides with.|n|cff00FF00Dmg: int*lvl*2.5|r|n|cffFFFF00"Hero's Song"|r debuff applied to all units hit, allowing Tapion to use Brave Sword Attack near units with the debuff.
-
 }
 
 STRING 8089
@@ -49743,14 +49542,12 @@ STRING 8091
 // Abilities: A0KQ (Brave Cannon), Ubertip (Tooltip - Normal - Extended)
 {
 Tapion fires a sphere of energy in the target direction. The sphere will damage any unit it collides with.|n|cff00FF00Dmg: int*lvl*2.5|r|n|cffFFFF00"Hero's Song"|r debuff applied to all units hit, allowing Tapion to use Brave Sword Attack near units with the debuff.
-
 }
 
 STRING 8092
 // Abilities: A0KQ (Brave Cannon), Ubertip (Tooltip - Normal - Extended)
 {
 Tapion fires a sphere of energy in the target direction. The sphere will damage any unit it collides with.|n|cff00FF00Dmg: int*lvl*2.5|r|n|cffFFFF00"Hero's Song"|r debuff applied to all units hit, allowing Tapion to use Brave Sword Attack near units with the debuff.
-
 }
 
 STRING 8093
@@ -49763,6 +49560,12 @@ STRING 8094
 // Abilities: A0IA (Brave Sword Attack), Tip (Tooltip - Normal)
 {
 [|cff00FF00R|r] Brave Sword Attack - [|cffffcc00Level 5|r]
+}
+
+STRING 8095
+// Abilities: A0YA (Ice Path), EditorSuffix (Editor Suffix)
+{
+(shouto)
 }
 
 STRING 8096
@@ -49849,6 +49652,13 @@ STRING 8109
 [|cff00FF00E|r] Hero's Flute - [|cffffcc00Level 3|r]
 }
 
+STRING 8110
+// Abilities: A0YB (Flashfreeze Heatwave
+), Ubertip (Tooltip - Normal - Extended)
+{
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: +0.015x|r|n|cff00FFFFCooldown: <A00J,Cool1> seconds|r
+}
+
 STRING 8111
 // Abilities: A0GZ (Calamity Blaster), Hotkey (Hotkey - Normal)
 {
@@ -49917,8 +49727,7 @@ STRING 8121
 
 STRING 8122
 {
-|cff00ffff[Hyperbolic Time Chamber]|r
-Mr. Popo has perfected the Hyperbolic Time Chamber.
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: +0.020x|r|n|cff00FFFFCooldown: <A00J,Cool2> seconds|r
 }
 
 STRING 8123
@@ -49980,7 +49789,7 @@ STRING 8131
 }
 
 STRING 8132
-// Abilities: A0HO (Spirit Ball), Researchhotkey (Hotkey - Learn)
+// Abilities: A0HL (Bansheee Blast), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -49989,6 +49798,13 @@ STRING 8133
 // Units: H09R (Plumber), Propernames (Proper Names)
 {
 Mario Fire
+}
+
+STRING 8134
+// Abilities: A0YB (Flashfreeze Heatwave
+), Ubertip (Tooltip - Normal - Extended)
+{
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: +0.025x|r|n|cff00FFFFCooldown: <A00J,Cool3> seconds|r
 }
 
 STRING 8135
@@ -50003,10 +49819,31 @@ STRING 8136
 [|cffffff00Z|r] Choose Mario
 }
 
+STRING 8137
+// Abilities: A0YB (Flashfreeze Heatwave
+), Ubertip (Tooltip - Normal - Extended)
+{
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: +0.030x|r|n|cff00FFFFCooldown: <A00J,Cool4> seconds|r
+}
+
 STRING 8138
-// Abilities: A0HO (Spirit Ball), Hotkey (Hotkey - Normal)
+// Abilities: A0HO (Spirit Ball), Researchhotkey (Hotkey - Learn)
 {
 E
+}
+
+STRING 8139
+// Abilities: A0YB (Flashfreeze Heatwave
+), Ubertip (Tooltip - Normal - Extended)
+{
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: +0.035x|r|n|cff00FFFFCooldown: <A00J,Cool5> seconds|r
+}
+
+STRING 8140
+// Abilities: A0YB (Flashfreeze Heatwave
+), Tip (Tooltip - Normal)
+{
+[|cff00ff00W|r] Power Level Rising - [|cffffcc00Level 1|r]
 }
 
 STRING 8141
@@ -50178,6 +50015,41 @@ STRING 8168
 Tapion's Style - [|cffffcc00Level 1|r]
 }
 
+STRING 8169
+// Abilities: A0YB (Flashfreeze Heatwave
+), Tip (Tooltip - Normal)
+{
+[|cff00ff00W|r] Power Level Rising - [|cffffcc00Level 2|r]
+}
+
+STRING 8170
+// Abilities: A0YB (Flashfreeze Heatwave
+), Tip (Tooltip - Normal)
+{
+[|cff00ff00W|r] Power Level Rising - [|cffffcc00Level 3|r]
+}
+
+STRING 8171
+// Abilities: A0YB (Flashfreeze Heatwave
+), Tip (Tooltip - Normal)
+{
+[|cff00ff00W|r] Power Level Rising - [|cffffcc00Level 4|r]
+}
+
+STRING 8172
+// Abilities: A0YB (Flashfreeze Heatwave
+), Tip (Tooltip - Normal)
+{
+[|cff00ff00W|r] Power Level Rising - [|cffffcc00Level 5|r]
+}
+
+STRING 8173
+// Abilities: A0YB (Flashfreeze Heatwave
+), Researchhotkey (Hotkey - Learn)
+{
+R
+}
+
 STRING 8174
 // Abilities: A0IA (Brave Sword Attack), Ubertip (Tooltip - Normal - Extended)
 {
@@ -50338,6 +50210,14 @@ STRING 8200
 // Abilities: A0IA (Brave Sword Attack), Ubertip (Tooltip - Normal - Extended)
 {
 Tapion jumps above a target affected by |cffffff00Hero’s Song|r. Upon arrival, Tapion strikes the ground with a mighty blow, stunning, mana burning, and dealing massive damage to all enemy units.|n|cff00FF00Damage: Agi * lvl * ?|r|n|cff00ff00Mana Burn: 10% of damage dealt|n|cff00FFFFCooldown: <A0IA,Cool10>s|r
+}
+
+STRING 8201
+// Abilities: A0YB (Flashfreeze Heatwave
+), Name (Name)
+{
+Flashfreeze Heatwave
+
 }
 
 STRING 8202
@@ -50621,7 +50501,7 @@ STRING 8246
 }
 
 STRING 8247
-// Abilities: A0I1 (Holy Light Grenade), Hotkey (Hotkey - Normal)
+// Abilities: A0HO (Spirit Ball), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -50735,7 +50615,7 @@ STRING 8265
 }
 
 STRING 8266
-// Abilities: A0I1 (Holy Light Grenade), Researchhotkey (Hotkey - Learn)
+// Abilities: A0I1 (Holy Light Grenade), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -50897,7 +50777,7 @@ W
 }
 
 STRING 8293
-// Abilities: A0IB (Hero's Flute), Hotkey (Hotkey - Normal)
+// Abilities: A0I1 (Holy Light Grenade), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -51533,7 +51413,7 @@ Goku Black fires several arrows from his energy blade, piercing the first target
 }
 
 STRING 8399
-// Abilities: A0IB (Hero's Flute), Researchhotkey (Hotkey - Learn)
+// Abilities: A0IB (Hero's Flute), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -51557,7 +51437,7 @@ Divine Retribution
 }
 
 STRING 8403
-// Abilities: A0IF (Transform - Mecha), Researchhotkey (Hotkey - Learn)
+// Abilities: A0IB (Hero's Flute), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -52008,7 +51888,7 @@ W
 
 STRING 8478
 {
-You need level 2 Absorb to absorb the androids!
+[|cff00ff00W|r] Learn Power Level Rising - [|cffffcc00Level %d|r]
 }
 
 STRING 8479
@@ -52075,7 +51955,6 @@ A close-combat hero that can completely dominate the early and mid game, but tra
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 8489
@@ -52088,7 +51967,6 @@ A well-rounded hero who can transform into many different forms to increase his 
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 8490
@@ -52146,13 +52024,13 @@ Guardian's Devotion
 }
 
 STRING 8499
-// Abilities: A0IG (Transform - Golden), Researchhotkey (Hotkey - Learn)
+// Abilities: A0IF (Transform - Mecha), Researchhotkey (Hotkey - Learn)
 {
 E
 }
 
 STRING 8500
-// Abilities: A0II (Wish for Parts), Hotkey (Hotkey - Normal)
+// Abilities: A0IG (Transform - Golden), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -52230,7 +52108,7 @@ Gives |cff00FF00100|r additional armor to nearby friendly units.
 }
 
 STRING 8513
-// Abilities: A0IN (Divine Retribution), Hotkey (Hotkey - Normal)
+// Abilities: A0II (Wish for Parts), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -52243,16 +52121,7 @@ King K Rool charges forward, dealing damage and stunning all units in his path.|
 
 STRING 8515
 {
-Type "r" to revert.
-Transformations:
-[lvl 15]  1.25x "fp"
-[lvl 30]  1.50x "fp"
-[lvl 90]  2.00x "fp"
-[lvl 150] 2.30x "fp"
-[lvl 200] 2.40x "fp"
-[lvl 250] 2.50x "fp"
-
-Gains +0.02x for each Ginyu Force member on their team.
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: 0.010x + 0.005x * lvl|r|n|cff00FFFFCooldown: <A00J,Cool1> - <A00J,Cool10> seconds|r
 }
 
 STRING 8516
@@ -52262,7 +52131,7 @@ Hand Kannon
 }
 
 STRING 8517
-// Abilities: A0IN (Divine Retribution), Researchhotkey (Hotkey - Learn)
+// Abilities: A0IN (Divine Retribution), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -52607,7 +52476,7 @@ STRING 8565
 }
 
 STRING 8566
-// Abilities: A0IS (Twin Dragon Shot), Hotkey (Hotkey - Normal)
+// Abilities: A0IN (Divine Retribution), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -52625,7 +52494,7 @@ STRING 8568
 }
 
 STRING 8569
-// Abilities: A0IS (Twin Dragon Shot), Researchhotkey (Hotkey - Learn)
+// Abilities: A0IS (Twin Dragon Shot), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -52649,7 +52518,7 @@ R
 }
 
 STRING 8573
-// Abilities: A0IT (Guardian's Devotion), Researchhotkey (Hotkey - Learn)
+// Abilities: A0IS (Twin Dragon Shot), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -53583,7 +53452,6 @@ STRING 8723
 // Abilities: A0KQ (Brave Cannon), Researchubertip (Tooltip - Learn - Extended)
 {
 Tapion fires a sphere of energy in the target direction. The sphere will damage any unit it collides with.|n|cff00FF00Dmg: int*lvl*2.5|r|n|cffFFFF00"Hero's Song"|r debuff applied to all units hit, allowing Tapion to use Brave Sword Attack near units with the debuff.
-
 }
 
 STRING 8724
@@ -53674,6 +53542,13 @@ STRING 8734
 2
 }
 
+STRING 8735
+// Abilities: A0YB (Flashfreeze Heatwave
+), Hotkey (Hotkey - Normal)
+{
+R
+}
+
 STRING 8736
 // Destructibles: B002 (City Building), EditorSuffix (Editor Suffix)
 {
@@ -53681,7 +53556,7 @@ STRING 8736
 }
 
 STRING 8737
-// Abilities: A0IT (Guardian's Devotion), Hotkey (Hotkey - Normal)
+// Abilities: A0IT (Guardian's Devotion), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -53705,7 +53580,7 @@ Angelic Shield
 }
 
 STRING 8741
-// Abilities: A0IU (Hand Kannon), Hotkey (Hotkey - Normal)
+// Abilities: A0IT (Guardian's Devotion), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -53924,7 +53799,6 @@ STRING 8777
 // Abilities: A0JJ (Temporal Do-Over), Ubertip (Tooltip - Normal - Extended)
 {
 Places a buff on an ally or Whis, allowing them to go back 3 seconds in time to their previous state.|n|cff00FF00Moves back 3 seconds in time, resetting their position and converting damage taken while the buff is active  into a Heal for the character. |r|nHeals |cffFFFF00100%|r of damage taken over 4s.|r|n|cff00FFFFCooldown: 12s|r
-
 }
 
 STRING 8778
@@ -53949,7 +53823,6 @@ STRING 8781
 // Abilities: A0JJ (Temporal Do-Over), Researchubertip (Tooltip - Learn - Extended)
 {
 Places a buff on an ally or Whis, allowing them to go back 3 seconds in time to their previous state.|n|cff00FF00Moves back 3 seconds in time, resetting their position and converting damage taken while the buff is active  into a Heal for the character. |r|nHeals |cffFFFF00100%|r of damage taken over 4s.|r|n|cff00FFFFCooldown: 12s|r
-
 }
 
 STRING 8782
@@ -54399,24 +54272,17 @@ STRING 8855
 
 STRING 8856
 {
-Heaven/Hell
+[|cff00ff00W|r] Power Level Rising - [|cffffcc00Level 6|r]
 }
 
 STRING 8857
 {
-Revive in 5 seconds at heaven/hell. Walk through portal to revive back to Earth.
-
-If you find yourself stuck you can type -unstuck to attempt to fix it but it will cause you to end up dead in heaven/hell.
+[|cff00ff00W|r] Power Level Rising - [|cffffcc00Level 7|r]
 }
 
 STRING 8858
 {
-Available game modes:
--default (good v evil)
--ap (all pick)
--ar (all random)
--sd (single draft)
--cm (captain's mode)
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: +0.040x|r|n|cff00FFFFCooldown: <A00J,Cool6> seconds|r
 }
 
 STRING 8859
@@ -54459,7 +54325,6 @@ A well-rounded hero who has strong offensive and defensive capabilities, while b
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 8865
@@ -54849,7 +54714,7 @@ STRING 8928
 }
 
 STRING 8929
-// Abilities: A0IU (Hand Kannon), Researchhotkey (Hotkey - Learn)
+// Abilities: A0IU (Hand Kannon), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -54873,7 +54738,7 @@ Oozaru
 }
 
 STRING 8933
-// Abilities: A0JH (Angelic Shield), Hotkey (Hotkey - Normal)
+// Abilities: A0IU (Hand Kannon), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -55023,7 +54888,7 @@ Piccolo stretches his arm out and grabs the first enemy hero he hits, dealing da
 }
 
 STRING 8956
-// Abilities: A0JH (Angelic Shield), Researchhotkey (Hotkey - Learn)
+// Abilities: A0JH (Angelic Shield), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -55342,7 +55207,7 @@ STRING 9008
 }
 
 STRING 9009
-// Abilities: A0JU (Absorb), Researchhotkey (Hotkey - Learn)
+// Abilities: A0JH (Angelic Shield), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -55535,7 +55400,7 @@ Dabura is a Minion of Babidi. |n[|cffffcc00History|r] - |cff0066CCAlso known as 
 
 STRING 9041
 {
-|cff00ff00Tegridy Farms|r
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: +0.045x|r|n|cff00FFFFCooldown: <A00J,Cool7> seconds|r
 }
 
 STRING 9042
@@ -55641,7 +55506,7 @@ STRING 9058
 }
 
 STRING 9059
-// Abilities: A0JU (Absorb), Hotkey (Hotkey - Normal)
+// Abilities: A0JU (Absorb), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -55665,7 +55530,7 @@ Summoning all of the long dead Tsufuru to come back and take revenge upon the Sa
 }
 
 STRING 9063
-// Abilities: A0JW (Flying Kick), Hotkey (Hotkey - Normal)
+// Abilities: A0JU (Absorb), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -55677,23 +55542,14 @@ First Form
 }
 
 STRING 9065
-// Abilities: A0JW (Flying Kick), Researchhotkey (Hotkey - Learn)
+// Abilities: A0JW (Flying Kick), Hotkey (Hotkey - Normal)
 {
 E
 }
 
 STRING 9066
 {
-Type "r" to revert.
-Transformations:
-[lvl 25]  1.50x "fp"
-[lvl 75]  2.00x "ult" [Unlocks Ultimate Burning Warrior]
-[lvl 150] 2.30x "ult" 
-[lvl 200] 2.60x "ult" [Upgrades Meditate at 1+ charges]
-[lvl 250] 2.70x "ult" 
-[lvl 300] 2.75x "ult" [Upgrades UBW at 2+ charges]
-
-Gains +0.02x for each pride trooper on his team.
+[|cff00ff00W|r] Power Level Rising - [|cffffcc00Level 8|r]
 }
 
 STRING 9067
@@ -55775,7 +55631,7 @@ Jiren fires a red-orange blast that starts out small but expands massively upon 
 }
 
 STRING 9077
-// Abilities: A0JX (Recharge), Hotkey (Hotkey - Normal)
+// Abilities: A0JW (Flying Kick), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -57110,7 +56966,7 @@ R
 
 STRING 9286
 {
-|cffff2020Auto transformation system turned on. Type -autotransform to toggle off/on.|r
+[|cff00ff00W|r] Power Level Rising - [|cffffcc00Level 9|r]
 }
 
 STRING 9287
@@ -57248,13 +57104,13 @@ New Trick
 }
 
 STRING 9309
-// Abilities: A0K0 (Sample Ice Cream), Researchhotkey (Hotkey - Learn)
+// Abilities: A0JX (Recharge), Hotkey (Hotkey - Normal)
 {
 E
 }
 
 STRING 9310
-// Abilities: A0K5 (Tsufuru Spirits), Researchhotkey (Hotkey - Learn)
+// Abilities: A0K0 (Sample Ice Cream), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -58213,7 +58069,7 @@ Hero's Song
 
 STRING 9466
 {
-Freemode Enabled, forced win/loss conditions are disabled.
+[|cff00ff00W|r] Power Level Rising - [|cffffcc00Level 10|r]
 }
 
 STRING 9467
@@ -60889,7 +60745,7 @@ STRING 9911
 }
 
 STRING 9912
-// Abilities: A0K5 (Tsufuru Spirits), Hotkey (Hotkey - Normal)
+// Abilities: A0K5 (Tsufuru Spirits), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -60985,7 +60841,7 @@ The user follows up their punch with an energy beam.|n|cff00ff00Damage: Lvl x Ag
 }
 
 STRING 9928
-// Abilities: A0K6 (Glare), Hotkey (Hotkey - Normal)
+// Abilities: A0K5 (Tsufuru Spirits), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -61009,7 +60865,7 @@ The user follows up their punch with an energy beam.|n|cff00ff00Damage: Lvl x Ag
 }
 
 STRING 9932
-// Abilities: A0K6 (Glare), Researchhotkey (Hotkey - Learn)
+// Abilities: A0K6 (Glare), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -61178,22 +61034,22 @@ A special ticket that allows the user to master the art of training.
 
 STRING 9960
 {
-|cff8080ffH|r|cff6666ffe|r|cff4d4dffa|r|cff3333ffv|r|cff1a1affe|r|cff0000ffn|r
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: +0.050x|r|n|cff00FFFFCooldown: <A00J,Cool8> seconds|r
 }
 
 STRING 9961
 {
-|cffe60000H|r|cffce0000e|r|cffb70000l|r|cffa00000l|r
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: +0.055x|r|n|cff00FFFFCooldown: <A00J,Cool9> seconds|r
 }
 
 STRING 9962
 {
-|cffffffffM|r|cfff8f8ffo|r|cfff2f2ffv|r|cffebebffe|r|cffe4e4ff |r|cffddddffh|r|cffd7d7ffe|r|cffd0d0ffr|r|cffc9c9ffe|r|cffc3c3ff |r|cffbcbcfft|r|cffb6b6ffo|r|cffafafff |r|cffa8a8ffR|r|cffa2a2ffe|r|cff9b9bffs|r|cff9494ffp|r|cff8d8dffa|r|cff8787ffw|r|cff8080ffn|r
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: +0.060x|r|n|cff00FFFFCooldown: <A00J,Cool10> seconds|r
 }
 
 STRING 9963
 {
-|cffe60000M|r|cffe20101o|r|cffde0302v|r|cffda0503e|r|cffd60605 |r|cffd20806h|r|cffce0a07e|r|cffca0b09r|r|cffc60d0ae|r|cffc20f0b |r|cffbe110dt|r|cffba120eo|r|cffb6140f |r|cffb31610R|r|cffaf1812e|r|cffab1913s|r|cffa71b14p|r|cffa31d16a|r|cff9f1f17w|r|cff9b2018n|r
+(shouto)
 }
 
 STRING 9964
@@ -61286,47 +61142,59 @@ STRING 9977
 
 STRING 9978
 {
-Default Mode Enabled
+D
 }
 
 STRING 9979
 {
-All Pick Mode Enabled
+[|cff00FF00D|r] |cffffaa00Heating Up/Cooling Off
+|r
 }
 
 STRING 9980
 {
-All Random Mode Enabled
+Gotenks' most powerful transformation.
+|cffffff00+0.1x stat mult
+Spawns 3 Super Ghost Kamikazes around Gotenks.
++5% spell amp per second up to +15%
++33ms and unlocks movement speed cap|r
+|cff00FF00Duration: <A0U0,Dur1> seconds|r
+|cff00FFFFCooldown: <A0U0,Cool1> seconds|r
+
+|cff808080"The Mack Daddy of Justice"|r
 }
 
 STRING 9981
 {
-Single Draft Mode Enabled
+|cffff0000H|r|cffe30000e|r|cffc70000a|r|cffaa0000t|r|cff8e0000i|r|cff720000n|r|cff550000g|r|cff390000 |r|cff1d0000U|r|cff000000p|r |cff000000C|r|cff000018o|r|cff000032o|r|cff00004bl|r|cff000065i|r|cff00007en|r|cff000098g|r|cff0000b1 |r|cff0000cbO|r|cff0000e4f|r|cff0000fef|r
 }
 
 STRING 9982
 {
-Captains Mode (Unfinished) Enabled
+(shouto)
 }
 
 STRING 9983
 {
-|cffffcc00Ban Phase is now over.|r
+Q
 }
 
 STRING 9984
 {
-Pick Time:
+Q
 }
 
 STRING 9985
+// Units: H0AA (Shouto Todoroki), Propernames (Proper Names)
 {
-|cffffcc00You will be assigned a random hero if you have not selected one yet.|r
+Todoroki
 }
 
 STRING 9986
+// Units: H0AA (Shouto Todoroki), Ubertip (Tooltip - Extended)
 {
-Game Start:
+Selected by |cff1CE6B9Teal|r by default.
+ |cffFF0000To choose a new hero, hit the Repick button.|r
 }
 
 STRING 9987
@@ -61477,7 +61345,6 @@ A well-rounded hero who has strong offensive and defensive capabilities, while b
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 10011
@@ -62050,7 +61917,7 @@ STRING 10104
 }
 
 STRING 10105
-// Abilities: A0KU (New Trick), Researchhotkey (Hotkey - Learn)
+// Abilities: A0K6 (Glare), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -62290,8 +62157,9 @@ Gohan
 }
 
 STRING 10145
+// Units: H0AA (Shouto Todoroki), Awakentip (Tooltip - Awaken)
 {
-Camera
+[|cffffff00E|r] Choose Shouto Todoroki
 }
 
 STRING 10146
@@ -62301,11 +62169,9 @@ King K Rool fires a Kannonball from his Blunderbuss dealing damage to enemies in
 }
 
 STRING 10147
+// Units: H0AA (Shouto Todoroki), Tip (Tooltip - Basic)
 {
--cam <zoom distance>
--ang <angle>
-
--customui (activates custom UI HUD)
+[|cffffff00E|r] Choose Shouto Todoroki
 }
 
 STRING 10148
@@ -62315,22 +62181,15 @@ STRING 10148
 }
 
 STRING 10149
+// Abilities: A0P8 (Wall of Flames), Tip (Tooltip - Normal)
 {
-Auto-adjusting camera. Use -cam or -ang to manually set camera.
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 2|r]
 }
 
 STRING 10150
+// Abilities: A0P8 (Wall of Flames), Tip (Tooltip - Normal)
 {
-Type "r" to revert.
-Transformations:
-[lvl 15]  1.30x "fp"
-[lvl 35]  1.50x "ss"
-[lvl 90]  2.00x "ss2"
-[lvl 130] 2.25x "ss3"
-[lvl 160] 2.50x "ssg"
-[lvl 210] 2.60x "ssb"
-
-|cffffcc00Revenge:|r Spells deal up to +25% bonus damage when on low HP.
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 3|r]
 }
 
 STRING 10151
@@ -62376,18 +62235,13 @@ Cell uses his tail to instantly absorb creeps or Androids 17/18.|n|cff00ff00Deal
 }
 
 STRING 10158
+// Abilities: A0P8 (Wall of Flames), Tip (Tooltip - Normal)
 {
-Type "r" to revert.
-Transformations:
-[lvl 15]  1.50x "fp"
-[lvl 60]  1.75x "fp"
-[lvl 125] 2.00x "fp"
-
-For Super 13 type "super" when all androids lvl greater than 35 and are not in heaven/hell.
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 5|r]
 }
 
 STRING 10159
-// Abilities: A0KY (Nova Chariot), Researchhotkey (Hotkey - Learn)
+// Abilities: A0KU (New Trick), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -62399,17 +62253,9 @@ Absorb
 }
 
 STRING 10161
+// Abilities: A0P8 (Wall of Flames), Tip (Tooltip - Normal)
 {
-Type "r" to revert.
-
-Transformations:
-[lvl 15]  1.20x "ws"
-[lvl 40]  1.60x "ss"
-[lvl 100] 2.00x "lss"
-[lvl 150] 2.40x "uss"
-[lvl 200] 2.50x "luss"
-
-|cff00ff00Unstoppable|r: Briefly gains 12% damage block after casting a spell.
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 6|r]
 }
 
 STRING 10162
@@ -62419,7 +62265,7 @@ Cell uses his tail to instantly absorb creeps or Androids 17/18.|n|cff00ff00Deal
 }
 
 STRING 10163
-// Abilities: A0KY (Nova Chariot), Hotkey (Hotkey - Normal)
+// Abilities: A0KY (Nova Chariot), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -62431,18 +62277,9 @@ Cell uses his tail to instantly absorb creeps or Androids 17/18.|n|cff00ff00Deal
 }
 
 STRING 10165
+// Abilities: A0P8 (Wall of Flames), Tip (Tooltip - Normal)
 {
-Transformations:
-[lvl 25]  1.50x "paparapapa"
-[lvl 90]  2.00x "paparapapa" [Majin Influence 2]
-[lvl 150] 2.40x "paparapapa" 
-[lvl 250] 2.40x "paparapapa" [Majin Influence 3]
-
-|cff00ff00Pick ONE of the following:|r
-[lvl 300] "|cffff2222majin strength|r" [+15 summon armor]
-[lvl 300] "|cffffff00majin hatred|r" [+30% summon damage]
-
-If Babidi is not dead you can type Buu type "release" at lvl 45 to turn into Majin Buu with bonus level 3 candy beam.
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 7|r]
 }
 
 STRING 10166
@@ -62650,13 +62487,13 @@ STRING 10199
 }
 
 STRING 10200
-// Abilities: A0LM (Hellzone Grenade), Researchhotkey (Hotkey - Learn)
+// Abilities: A0KY (Nova Chariot), Hotkey (Hotkey - Normal)
 {
 E
 }
 
 STRING 10201
-// Abilities: A0LM (Hellzone Grenade), Hotkey (Hotkey - Normal)
+// Abilities: A0LM (Hellzone Grenade), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -63582,7 +63419,7 @@ This is a magic spell used by Babidi to make people swell up and explode. Instan
 }
 
 STRING 10355
-// Abilities: A0LQ (Rebellion Spear), Researchhotkey (Hotkey - Learn)
+// Abilities: A0LM (Hellzone Grenade), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -63600,7 +63437,7 @@ STRING 10357
 }
 
 STRING 10358
-// Abilities: A0LQ (Rebellion Spear), Hotkey (Hotkey - Normal)
+// Abilities: A0LQ (Rebellion Spear), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -63792,16 +63629,9 @@ STRING 10389
 }
 
 STRING 10390
+// Abilities: A0P8 (Wall of Flames), Tip (Tooltip - Normal)
 {
-Type "r" to revert.
-Transformations:
-[lvl 15]  1.25x "kao"
-[lvl 30]  1.50x "ss"
-[lvl 85]  2.00x "ss2"
-[lvl 125] 2.25x "ss3"
-[lvl 150] 2.50x "ssg"
-[lvl 200] 2.60x "ssb"
-[lvl 225] 2.70x "ssbkao"
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 8|r]
 }
 
 STRING 10391
@@ -65067,43 +64897,21 @@ Q
 }
 
 STRING 10601
+// Abilities: A0P8 (Wall of Flames), Tip (Tooltip - Normal)
 {
-Type "r" to revert.
-Transformations:
-[ base ] 2.00x "r"
-[lvl 115] 2.25x "ultra"
-[lvl 175] 2.50x "ultra"
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 10602
+// Abilities: A0P8 (Wall of Flames), Name (Name)
 {
-Transformations:
-Fat Buu:
-Only gains stat multiplier by eating candy (see candy beam ability).
-For Super Buu type "super" at lvl 90.
-
-Super Buu:
-Carries over some of the stat mult from Fat Buu.
-Only gains additional stat multiplier by absorbing players using [|cff00ff00E|r] Flesh Attack when they are on low hp.
-Gains +0.4x for the first person you absorb with flesh attack. +0.1x for every subsequent absorb.
-Turns into Kid Buu 120s after your first absorb.
+Wall of Flames
 }
 
 STRING 10603
+// Abilities: A0P8 (Wall of Flames), Researchtip (Tooltip - Learn)
 {
-Transformations:
-Super Buu:
-[lvl 250] 2.30x "fp"
-
-Carries over some of the stat mult from Fat Buu.
-Gains additional stat multiplier by absorbing players using [|cff00ff00E|r] Flesh Attack when they are on low hp.
-Gains +0.4x for the first person you absorb with flesh attack. +0.1x for every subsequent absorb.
-Turns into Kid Buu 120s after your first absorb.
-
-Kid Buu:
-Carries over the stat multiplier from Super Buu's absorbs.
-Does not gain any additional stat multiplier.
-Gains the [|cff00ff00Q|r] and [|cff00ff00D|r] abilities of whoever Super Buu absorbed first.
+[|cff00FF00Q|r] Learn Wall of Flames - [|cffffcc00Level %d|r]
 }
 
 STRING 10604
@@ -65113,94 +64921,39 @@ The user charges energy into their right hand and rushes forward with with an en
 }
 
 STRING 10605
+// Abilities: A0P8 (Wall of Flames), Researchubertip (Tooltip - Learn - Extended)
 {
-Transformations:
-[lvl 15]  1.25x "first" <-- TYPE IT IN CHAT
-[lvl 30]  1.50x "fp"
-[lvl 30+] 1.75x (absorb 17/18)
-[lvl 30+] 2.00x (absorb 17/18)
-[lvl 130] 2.50x "super"
-
-To reach Cell's higher forms you must absorb 17/18.
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 10606
+// Abilities: A0P8 (Wall of Flames), EditorSuffix (Editor Suffix)
 {
-Type "r" to revert.
-
-Transformations:
-[lvl 15]  1.25x first
-[lvl 30]  1.50x fp
-[lvl 30+] 1.75x (absorb 17/18)
-[lvl 60+] 2.00x (absorb 17/18)
-[lvl 130] 2.50x super
-
-To reach higher form cells you must use [D] Sense Androids and [E] Absorb abilities
-For 2nd form Cell absorb 17/18
-For Perfect Cell absorb the other android too
-
-Note: Androids respawn at 10s intervals.
-
+(Shouto)
 }
 
 STRING 10607
+// Abilities: A0Y9 (Glacier), Ubertip (Tooltip - Normal - Extended)
 {
-Type "r" to revert.
-
-Transformations:
-[lvl 15]  1.25x first
-[lvl 30]  1.50x fp
-[lvl 30+] 1.75x (absorb 17/18)
-[lvl 60+] 2.00x (absorb 17/18)
-[lvl 130] 2.50x super
-
-To reach higher form cells you must use [D] Sense Androids and [E] Absorb abilities
-For 2nd form Cell absorb 17/18
-For Perfect Cell absorb the other android too
-
-Note: Androids respawn at 10s intervals.
-
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 10608
+// Abilities: A0Y9 (Glacier), Ubertip (Tooltip - Normal - Extended)
 {
-Transformations:
-[lvl 20]  1.25x "fp"
-[lvl 50]  1.50x "fp"
-[lvl 80]  1.75x "fp"
-[lvl 110] 2.00x "fp"
-[lvl 140] 2.20x "fp"
-[lvl 160] 2.60x "golden"
-
-To [D] Transform into Final Form Cooler, kill 1 enemy player's hero with Cooler above level 20 (sagas are not included).
-
-Metal Cooler is available at lvl 75 for Final Form Cooler.
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 10609
+// Abilities: A0Y9 (Glacier), Ubertip (Tooltip - Normal - Extended)
 {
-Transformations:
-[lvl 20]  1.40x "fp"
-[lvl 50]  1.60x "fp"
-[lvl 80]  1.80x "fp"
-[lvl 110] 2.20x "fp"
-[lvl 140] 2.50x "fp"
-[lvl 200] 2.60x "golden"
-
-To become Metal Cooler type "metal" as Final Form Cooler while dead and above level 75. Note: MC is not necessarily stronger than Final Form Cooler.
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 10610
+// Abilities: A0Y9 (Glacier), Ubertip (Tooltip - Normal - Extended)
 {
-Transformations:
-[lvl 250]  2.70x "golden"
-[lvl 300]  2.75x "golden"
-
-Metal Cooler gains stat multiplier from kills (player and saga) and deaths up to a max of 2.50x. (Allied Metal Cooler players also provide a bonus on kills and deaths but at a reduced rate)
-[kill] +0.10x (+0.03x)
-[death] +0.04x (+0.01x)
-
-Can type "upg" to convert half your stat multiplier above 2.00x into bonus base stats. Gains 4 bonus stats per 0.01x traded in. Stops at lvl 250.
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 10611
@@ -65365,7 +65118,6 @@ Not a bird hater. Likes birds very much.
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Saga|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 10637
@@ -65405,8 +65157,9 @@ Triggers final battle
 }
 
 STRING 10643
+// Abilities: A0Y9 (Glacier), Ubertip (Tooltip - Normal - Extended)
 {
-|cffff2020Some transformations have been disabled. Too slow!|r
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 10644
@@ -65422,12 +65175,9 @@ Final Battle
 }
 
 STRING 10646
+// Abilities: A0Y9 (Glacier), Ubertip (Tooltip - Normal - Extended)
 {
-Dev:
-phone, Xephyrix / Xestus, randomkilla, ttay24, Frozenhelfire
-
-Other:
-micohelt, Yeran, Shine, dbsw, Spoon, Xenoform, Janemba50, Viet, ParasVallu, Krummbein, Khelben, WorstGamer, kana, mym, PAN, Zaro, Mango
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 10647
@@ -65437,8 +65187,9 @@ Mid-Class Saiyan Warrior
 }
 
 STRING 10648
+// Abilities: A0Y9 (Glacier), Ubertip (Tooltip - Normal - Extended)
 {
-|cffff2020Activating Auto Transformation. Type -autotransform to toggle on/off.|r
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 10649
@@ -65448,35 +65199,37 @@ STRING 10649
 }
 
 STRING 10650
-// Abilities: A0LV (Reliable Friend), Researchhotkey (Hotkey - Learn)
+// Abilities: A0LQ (Rebellion Spear), Hotkey (Hotkey - Normal)
 {
 E
 }
 
 STRING 10651
+// Abilities: A0Y9 (Glacier), Ubertip (Tooltip - Normal - Extended)
 {
-DBZ Tribute
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 10652
+// Abilities: A0Y9 (Glacier), Ubertip (Tooltip - Normal - Extended)
 {
-DBZ Tribute community @ discord.gg/vayXJSZ
-
-This map is under active development - 19.October.20
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 10653
+// Abilities: A0Y9 (Glacier), Tip (Tooltip - Normal)
 {
-AOE Flying vision disabled.
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 1|r]
 }
 
 STRING 10654
+// Abilities: A0Y9 (Glacier), Tip (Tooltip - Normal)
 {
-AOE Flying vision enabled.
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 2|r]
 }
 
 STRING 10655
-// Abilities: A0LV (Reliable Friend), Hotkey (Hotkey - Normal)
+// Abilities: A0LV (Reliable Friend), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -65488,55 +65241,33 @@ First, Cell stores up an immense amount of energy as he prepares a Super Kameham
 }
 
 STRING 10657
+// Abilities: A0Y9 (Glacier), Tip (Tooltip - Normal)
 {
-Transformations:
-[lvl 15]  1.25x "first"
-[lvl 30]  1.50x "fp"
-[lvl 30+] 1.75x (absorb 17/18)
-[lvl 30+] 2.00x (absorb 17/18)
-[lvl 130] 2.50x "super"
-
-To reach Cell's higher forms you must absorb 17/18.
-To find Androids 17/18 use [|cff00ff00D|r] Sense Androids.
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 3|r]
 }
 
 STRING 10658
+// Abilities: A0Y9 (Glacier), Tip (Tooltip - Normal)
 {
-Transformations:
-[lvl 15]  1.25x "first"
-[lvl 30]  1.50x "fp"
-[lvl 30+] 1.75x (absorb 17/18)
-[lvl 30+] 2.00x (absorb 17/18)
-[lvl 130] 2.50x "super"
-
-To reach Cell's higher forms you must absorb 17/18.
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 4|r]
 }
 
 STRING 10659
+// Abilities: A0Y9 (Glacier), Tip (Tooltip - Normal)
 {
-Transformations:
-[lvl 15]  1.25x "first"
-[lvl 30]  1.50x "fp"
-[lvl 30+] 1.75x (absorb 17/18)
-[lvl 30+] 2.00x (absorb 17/18)
-[lvl 120] 2.50x "super perfect"
-[lvl 250] 2.50x "cell-x" [unlocks cell-x form]
-
-To reach Cell's higher forms you must absorb 17/18.
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 5|r]
 }
 
 STRING 10660
+// Abilities: A0Y9 (Glacier), Tip (Tooltip - Normal)
 {
-Game Modes
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 6|r]
 }
 
 STRING 10661
+// Abilities: A0Y9 (Glacier), Tip (Tooltip - Normal)
 {
-Good v Evil: -default
-All Pick: -ap
-All Random: -ar
-Single Draft: -sd
-Captain's Mode: -cm
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 7|r]
 }
 
 STRING 10662
@@ -65774,7 +65505,7 @@ STRING 10700
 }
 
 STRING 10701
-// Abilities: A0M4 (Frozen E), Researchhotkey (Hotkey - Learn)
+// Abilities: A0LV (Reliable Friend), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -65792,7 +65523,7 @@ STRING 10703
 }
 
 STRING 10704
-// Abilities: A0M4 (Frozen E), Hotkey (Hotkey - Normal)
+// Abilities: A0M4 (Frozen E), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -65837,7 +65568,6 @@ A well-rounded hero who has strong offensive and defensive capabilities, while b
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 10711
@@ -65919,19 +65649,9 @@ A Minion of Babidi and King of the Demon Realm
 }
 
 STRING 10724
+// Abilities: A0Y9 (Glacier), Tip (Tooltip - Normal)
 {
-Type "r" to revert.
-Transformations:
-[lvl 15]  1.25x "honey"
-[lvl 30]  1.50x "ss"
-[lvl 60[  1.75x "ss"
-[lvl 90]  2.00x "ss2"
-[lvl 140] 2.40x "ssg"
-[lvl 200] 2.60x "ssb"
-
-|cff00ff00Type to unlock:|r
-[lvl 150] "|cff00afffgod kame|r"
-
+[|cff00FF00Q|r] Flamethrower - [|cffffcc00Level 8|r]
 }
 
 STRING 10725
@@ -65953,7 +65673,7 @@ Raditz holds his right hand high in the air and forms a pink energy sphere that 
 }
 
 STRING 10728
-// Abilities: A0MG (Behind You), Researchhotkey (Hotkey - Learn)
+// Abilities: A0M4 (Frozen E), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -66231,7 +65951,7 @@ STRING 10772
 }
 
 STRING 10773
-// Abilities: A0MG (Behind You), Hotkey (Hotkey - Normal)
+// Abilities: A0MG (Behind You), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -66249,7 +65969,7 @@ STRING 10775
 }
 
 STRING 10776
-// Abilities: A0MK (Plant Saibamen), Hotkey (Hotkey - Normal)
+// Abilities: A0MG (Behind You), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -67027,7 +66747,7 @@ STRING 10904
 }
 
 STRING 10905
-// Abilities: A0MK (Plant Saibamen), Researchhotkey (Hotkey - Learn)
+// Abilities: A0MK (Plant Saibamen), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -67045,7 +66765,7 @@ STRING 10907
 }
 
 STRING 10908
-// Abilities: A0MQ (Lava Burst), Hotkey (Hotkey - Normal)
+// Abilities: A0MK (Plant Saibamen), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -67597,8 +67317,9 @@ Q
 }
 
 STRING 10997
+// Abilities: A0Y9 (Glacier), Tip (Tooltip - Normal)
 {
-Single player detected. Automatic Freemode Enabled, forced win/loss conditions are disabled.
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 10998
@@ -67674,8 +67395,9 @@ W
 }
 
 STRING 11010
+// Abilities: A0Y9 (Glacier), Name (Name)
 {
-|cffff2020Auto transformation turned off.|r
+Glacier
 }
 
 STRING 11011
@@ -67763,8 +67485,9 @@ It's Goku Black!
 }
 
 STRING 11025
+// Abilities: A0Y9 (Glacier), Researchtip (Tooltip - Learn)
 {
-|cffff2020Auto transformation turned on.|r
+[|cff00FF00Q|r] Learn Glacier - [|cffffcc00Level %d|r]
 }
 
 STRING 11026
@@ -67798,13 +67521,15 @@ Goku Black
 }
 
 STRING 11031
+// Abilities: A0Y9 (Glacier), Researchubertip (Tooltip - Learn - Extended)
 {
-00:00:00
+Lucca fires a jet of flame from her gun, burning all enemies in a line. |n|cff00ff00(Damage: (Int * lvl * 2) +100)|r|n|cff00ffff(Cooldown: 14.5 seconds)|r
 }
 
 STRING 11032
+// Abilities: A0Y9 (Glacier), EditorSuffix (Editor Suffix)
 {
-T1
+(Shouto)
 }
 
 STRING 11033
@@ -67814,58 +67539,83 @@ Raditz
 }
 
 STRING 11034
+// Abilities: A0YA (Ice Path), Ubertip (Tooltip - Normal - Extended)
 {
-Multi
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool1> seconds|r
 }
 
 STRING 11035
+// Abilities: A0YA (Ice Path), Ubertip (Tooltip - Normal - Extended)
 {
-K
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool2> seconds|r
 }
 
 STRING 11036
+// Abilities: A0YA (Ice Path), Ubertip (Tooltip - Normal - Extended)
 {
-/
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool3> seconds|r
 }
 
 STRING 11037
+// Abilities: A0YA (Ice Path), Ubertip (Tooltip - Normal - Extended)
 {
-D
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool4> seconds|r
 }
 
 STRING 11038
+// Abilities: A0YA (Ice Path), Ubertip (Tooltip - Normal - Extended)
 {
-1.000x
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool5> seconds|r
 }
 
 STRING 11039
+// Abilities: A0YA (Ice Path), Ubertip (Tooltip - Normal - Extended)
 {
-T2
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool6> seconds|r
 }
 
 STRING 11040
+// Abilities: A0YA (Ice Path), Ubertip (Tooltip - Normal - Extended)
 {
-|cff00ff00Pick a hero from one of the taverns.|r
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool7> seconds|r
 }
 
 STRING 11041
+// Abilities: A0YA (Ice Path), Tip (Tooltip - Normal)
 {
-Multi
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 2|r]
 }
 
 STRING 11042
+// Abilities: A0YA (Ice Path), Tip (Tooltip - Normal)
 {
-K
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 3|r]
 }
 
 STRING 11043
+// Abilities: A0YA (Ice Path), Tip (Tooltip - Normal)
 {
-|cffffcc00Type "hs" to see transformations. Most will require typing a command e.g. "ss"|r
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 4|r]
 }
 
 STRING 11044
+// Abilities: A0YA (Ice Path), Tip (Tooltip - Normal)
 {
-D
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 5|r]
 }
 
 STRING 11045
@@ -68085,8 +67835,9 @@ STRING 11080
 }
 
 STRING 11081
+// Abilities: A0YA (Ice Path), Tip (Tooltip - Normal)
 {
-Final Battle Simulator Detected. Game is now in testing mode. Automatic Freemode Enabled, forced win/loss conditions are disabled.
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 6|r]
 }
 
 STRING 11082
@@ -68324,7 +68075,7 @@ STRING 11120
 }
 
 STRING 11121
-// Abilities: A0MQ (Lava Burst), Researchhotkey (Hotkey - Learn)
+// Abilities: A0MQ (Lava Burst), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -68342,7 +68093,7 @@ STRING 11123
 }
 
 STRING 11124
-// Abilities: A0MU (Barrier Wall), Researchhotkey (Hotkey - Learn)
+// Abilities: A0MQ (Lava Burst), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -68423,7 +68174,6 @@ A strong early game hero that relies heavily on his teammates to protect him whi
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 11137
@@ -68433,7 +68183,7 @@ STRING 11137
 }
 
 STRING 11138
-// Abilities: A0MU (Barrier Wall), Hotkey (Hotkey - Normal)
+// Abilities: A0MU (Barrier Wall), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -68547,8 +68297,9 @@ This Android can produce infinite energy.|n|cff2080ffMana Regen: +2% of max mana
 }
 
 STRING 11157
+// Abilities: A0YA (Ice Path), Tip (Tooltip - Normal)
 {
-|cffff2020Captain's Mode Detected. Automatic catchup stats disabled.|r
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 1|r]
 }
 
 STRING 11158
@@ -68582,27 +68333,15 @@ F
 }
 
 STRING 11163
+// Abilities: A0YA (Ice Path), Tip (Tooltip - Normal)
 {
-Type "r" to revert.
-Transformations:
-[lvl 2]   1.15x "fp"
-[lvl 35]  1.50x "ss"
-[lvl 90]  2.00x "ss2"
-[lvl 120] 2.25x "ss3"
-[lvl 160] 2.50x "ssg"
-[lvl 210] 2.60x "ssb"
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 7|r]
 }
 
 STRING 11164
+// Abilities: A0YA (Ice Path), Researchhotkey (Hotkey - Learn)
 {
-Type "r" to revert.
-Transformations:
-[lvl 2]   1.15x "fp"
-[lvl 35]  1.50x "ss"
-[lvl 90]  2.00x "ss2"
-[lvl 130] 2.25x "ss3"
-[lvl 160] 2.50x "ssg"
-[lvl 210] 2.60x "ssb"
+E
 }
 
 STRING 11165
@@ -68720,18 +68459,21 @@ STRING 11183
 }
 
 STRING 11184
+// Abilities: A0YA (Ice Path), Name (Name)
 {
-|cff00ffff[Only host sees this] Catchup Stats Deactivated|r
+Ice Path
 }
 
 STRING 11185
+// Abilities: A0YA (Ice Path), Hotkey (Hotkey - Normal)
 {
-|cff40ff40[Only red sees this] Automatic Catchup Stats Activated (10mins)!|r
+E
 }
 
 STRING 11186
+// Abilities: A0YA (Ice Path), Tip (Tooltip - Normal)
 {
-|cff40ff40[Only red sees this] Automatic Catchup Stats Activated (5 mins)!|r
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 9|r]
 }
 
 STRING 11187
@@ -68903,7 +68645,7 @@ STRING 11214
 }
 
 STRING 11215
-// Abilities: A0OA (Demonic Blade), Researchhotkey (Hotkey - Learn)
+// Abilities: A0MU (Barrier Wall), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -68939,7 +68681,7 @@ STRING 11220
 }
 
 STRING 11221
-// Abilities: A0OJ (Korin's Flag), Hotkey (Hotkey - Normal)
+// Abilities: A0OA (Demonic Blade), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -69287,7 +69029,7 @@ Bardock puts his hand forward and charges a blue energy sphere which he throws a
 }
 
 STRING 11279
-// Abilities: A0OJ (Korin's Flag), Researchhotkey (Hotkey - Learn)
+// Abilities: A0OJ (Korin's Flag), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -70043,7 +69785,7 @@ STRING 11404
 }
 
 STRING 11405
-// Abilities: A0OW (Kannonblast), Hotkey (Hotkey - Normal)
+// Abilities: A0OJ (Korin's Flag), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -70067,7 +69809,7 @@ Lava Burst
 }
 
 STRING 11409
-// Abilities: A0OW (Kannonblast), Researchhotkey (Hotkey - Learn)
+// Abilities: A0OW (Kannonblast), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -70277,8 +70019,9 @@ Moro manipulates the life energy of the planet to hunt down his enemies. Creates
 }
 
 STRING 11444
+// Abilities: A0YA (Ice Path), Tip (Tooltip - Normal)
 {
-|cffff2020Item upgrades not yet implemented.
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 8|r]
 }
 
 STRING 11445
@@ -70485,7 +70228,6 @@ A fast and versatile hero that can choose between having a strong early-game or 
 |cff00FF00II|r|cff383838III |r|cffFFFF00Saga|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 11476
@@ -70847,7 +70589,7 @@ STRING 11534
 }
 
 STRING 11535
-// Abilities: A0P0 (Super Dragon Fist), Researchhotkey (Hotkey - Learn)
+// Abilities: A0OW (Kannonblast), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -71764,8 +71506,9 @@ Q
 }
 
 STRING 11683
+// Abilities: A0YA (Ice Path), Tip (Tooltip - Normal)
 {
-|cff40ff40Return to Past|r
+[|cff00ff00R|r] Heavenly Rush - [|cffffcc00Level 10|r]
 }
 
 STRING 11684
@@ -71919,8 +71662,11 @@ Kamis Lookout
 }
 
 STRING 11709
+// Abilities: A0YA (Ice Path), Ubertip (Tooltip - Normal - Extended)
 {
-|cff40ff40Travel to Future|r
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool8> seconds|r
 }
 
 STRING 11710
@@ -71932,8 +71678,11 @@ All Might punches the air behind him while in the air to propel himself backward
 }
 
 STRING 11711
+// Abilities: A0YA (Ice Path), Researchubertip (Tooltip - Learn - Extended)
 {
-|cff40ff40Return to Past|r
+Zamasu charges towards the targetted location dealing damage to any enemy he comes into contact with.
+|cff00ff00Damage: Agi * lvl * ?|r
+|cff00ffffCooldown: <A0SU,Cool1> seconds|r
 }
 
 STRING 11712
@@ -71945,38 +71694,52 @@ All Might punches the air behind him while in the air to propel himself backward
 }
 
 STRING 11713
+// Abilities: A0YB (Flashfreeze Heatwave
+), Ubertip (Tooltip - Normal - Extended)
 {
-|cff40ff40Travel to Future|r
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: +0.020x|r|n|cff00FFFFCooldown: <A00J,Cool2> seconds|r
 }
 
 STRING 11714
+// Abilities: A0YB (Flashfreeze Heatwave
+), Researchtip (Tooltip - Learn)
 {
-|cff40ff40Fly to Northern Glacier|r
+[|cff00ff00W|r] Learn Power Level Rising - [|cffffcc00Level %d|r]
 }
 
 STRING 11715
+// Abilities: A0YB (Flashfreeze Heatwave
+), Researchubertip (Tooltip - Learn - Extended)
 {
-|cff40ff40Fly to Satan City|r
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: 0.010x + 0.005x * lvl|r|n|cff00FFFFCooldown: <A00J,Cool1> - <A00J,Cool10> seconds|r
 }
 
 STRING 11716
+// Abilities: A0YB (Flashfreeze Heatwave
+), Tip (Tooltip - Normal)
 {
-|cff40ff40Pod to Namek|r
+[|cff00ff00W|r] Power Level Rising - [|cffffcc00Level 6|r]
 }
 
 STRING 11717
+// Abilities: A0YB (Flashfreeze Heatwave
+), Tip (Tooltip - Normal)
 {
-|cff40ff40Pod to Earth|r
+[|cff00ff00W|r] Power Level Rising - [|cffffcc00Level 7|r]
 }
 
 STRING 11718
+// Abilities: A0YB (Flashfreeze Heatwave
+), Ubertip (Tooltip - Normal - Extended)
 {
-|cff40ff40Ship to Earth|r
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: +0.040x|r|n|cff00FFFFCooldown: <A00J,Cool6> seconds|r
 }
 
 STRING 11719
+// Abilities: A0YB (Flashfreeze Heatwave
+), Ubertip (Tooltip - Normal - Extended)
 {
-|cff40ff40Ship to Namek|r
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: +0.045x|r|n|cff00FFFFCooldown: <A00J,Cool7> seconds|r
 }
 
 STRING 11720
@@ -72862,17 +72625,17 @@ Reduces the sight radius of all other heroes for a brief period of time.|n|cffff
 }
 
 STRING 11860
+// Abilities: A0YB (Flashfreeze Heatwave
+), Tip (Tooltip - Normal)
 {
-Stats
+[|cff00ff00W|r] Power Level Rising - [|cffffcc00Level 8|r]
 }
 
 STRING 11861
+// Abilities: A0YB (Flashfreeze Heatwave
+), Tip (Tooltip - Normal)
 {
-|cffff2020Strength: Increases HP by 20, increases HP regen by 0.4.|r
-
-|cff00ff00Agility: Increases damage for most heroes by 0.2, increases armor by +1 per 1000 AGI. Mobility skills (e.g. zanzo) have increased speed up to a cap of STR/AGI or +1.25% per 1000 AGI, whichever is lower.|r
-
-|cff00ffffIntelligence: Increases mana by 10, increases mana regen by 0.1.
+[|cff00ff00W|r] Power Level Rising - [|cffffcc00Level 9|r]
 }
 
 STRING 11862
@@ -73731,7 +73494,7 @@ STRING 12000
 }
 
 STRING 12001
-// Abilities: A0P0 (Super Dragon Fist), Hotkey (Hotkey - Normal)
+// Abilities: A0P0 (Super Dragon Fist), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -73749,7 +73512,7 @@ A demonic sword technique that slashes all nearby enemies.|n|cff00ff00Damage: Ag
 }
 
 STRING 12004
-// Abilities: A0P3 (Absolute Zero), Hotkey (Hotkey - Normal)
+// Abilities: A0P0 (Super Dragon Fist), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -73767,7 +73530,7 @@ Plants saibamen seeds that spawn saibamen after a short delay.|n|cff00ff00Saibam
 }
 
 STRING 12007
-// Abilities: A0P3 (Absolute Zero), Researchhotkey (Hotkey - Learn)
+// Abilities: A0P3 (Absolute Zero), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -74103,8 +73866,10 @@ Q
 }
 
 STRING 12063
+// Abilities: A0YB (Flashfreeze Heatwave
+), Tip (Tooltip - Normal)
 {
-Your scouter detects nothing (maybe they're hiding their power level?)
+[|cff00ff00W|r] Power Level Rising - [|cffffcc00Level 10|r]
 }
 
 STRING 12064
@@ -74586,17 +74351,10 @@ The user creates a straight energy beam with another coiled around it dealing da
 }
 
 STRING 12142
+// Abilities: A0YB (Flashfreeze Heatwave
+), Ubertip (Tooltip - Normal - Extended)
 {
-Type "r" to revert.
-Transformations:
-[lvl 15]  1.25x "fp"
-[lvl 35]  1.50x "fp"
-[lvl 60]  1.75x "fp"
-[lvl 90]  2.00x "fp"
-[lvl 120] 2.25x "fp"
-[lvl 150] 2.50x "fp"
-
-|cffffcc00Budokai Champion:|r +50% stats from tournaments.
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: +0.050x|r|n|cff00FFFFCooldown: <A00J,Cool8> seconds|r
 }
 
 STRING 12143
@@ -75256,13 +75014,13 @@ STRING 12247
 }
 
 STRING 12248
-// Abilities: A0PJ (Justice Tornado), Hotkey (Hotkey - Normal)
+// Abilities: A0P3 (Absolute Zero), Researchhotkey (Hotkey - Learn)
 {
 E
 }
 
 STRING 12249
-// Abilities: A0PJ (Justice Tornado), Researchhotkey (Hotkey - Learn)
+// Abilities: A0PJ (Justice Tornado), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -75370,7 +75128,7 @@ STRING 12266
 }
 
 STRING 12267
-// Abilities: A0PL (Justice Tornado 2), Hotkey (Hotkey - Normal)
+// Abilities: A0PJ (Justice Tornado), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -75812,20 +75570,10 @@ The user punches in front of them, dealing damage to enemies and deflecting beam
 }
 
 STRING 12340
+// Abilities: A0YB (Flashfreeze Heatwave
+), Ubertip (Tooltip - Normal - Extended)
 {
-Type "r" to revert.
-Transformations:
-[lvl 30]  1.50x "fp" [Unlocks Stance: Base]
-[lvl 60]  1.75x "fp"
-[lvl 90]  2.00x "fp" [Unlocks Full Combos]
-[lvl 150] 2.40x "fp" [Unlocks Stance: Dash]
-[lvl 200] 2.50x "fp" [Unlocks Sparking!]
-
-|cff22ff22Speed Demon:|r Reduced cast point by 0.1s.
-
-Basic Combos: QQ+, WW+, EE+
-Full Combos: QQQ, QQW, QQE, QWW, QEE, WWW, WWE, WEE, EEE
-After lvl 90, toggle between basic and full combos by typing -combo
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: +0.055x|r|n|cff00FFFFCooldown: <A00J,Cool9> seconds|r
 }
 
 STRING 12341
@@ -75850,7 +75598,6 @@ A powerful AOE nuker that is rewarded for having good accuracy. Can summon saiba
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Farming|r
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 12344
@@ -75904,13 +75651,17 @@ STRING 12351
 }
 
 STRING 12352
+// Abilities: A0YB (Flashfreeze Heatwave
+), Ubertip (Tooltip - Normal - Extended)
 {
- - Every 1000 points increase armor by 1
+Broly's power level rapidly rises causing the surrounding area to crumble apart doing damage to nearby units.|n|cff00FF00Damage: lvl * str * ?|nTemporary Stat Mult: +0.060x|r|n|cff00FFFFCooldown: <A00J,Cool10> seconds|r
 }
 
 STRING 12353
+// Abilities: A0YB (Flashfreeze Heatwave
+), EditorSuffix (Editor Suffix)
 {
- - Every 1000 points increase armor by 1
+(shouto)
 }
 
 STRING 12354
@@ -76377,14 +76128,12 @@ STRING 12427
 {
 King K Rool throws his crown, dealing damage to all units caught in its path. After 1.5 seconds, the crown will return to King K Rool, dealing additional damage to units in its path.|nUnits struck twice by the crown take an additional |cff00FF0025%|r DMG. |r|n|cff00FF00Damage: Str * lvl * ?|r|n|cffff8c00Cooldown: <A0IV,Cool1> seconds|r
 
-
 }
 
 STRING 12428
 // Abilities: A0IV (Krown Toss), Ubertip (Tooltip - Normal - Extended)
 {
 King K Rool throws his crown, dealing damage to all units caught in its path. After 1.5 seconds, the crown will return to King K Rool, dealing additional damage to units in its path.|nUnits struck twice by the crown take an additional |cff00FF0025%|r DMG. |r|n|cff00FF00Damage: Str * lvl * ?|r|n|cffff8c00Cooldown: <A0IV,Cool2> seconds|r
-
 
 }
 
@@ -76393,14 +76142,12 @@ STRING 12429
 {
 King K Rool throws his crown, dealing damage to all units caught in its path. After 1.5 seconds, the crown will return to King K Rool, dealing additional damage to units in its path.|nUnits struck twice by the crown take an additional |cff00FF0025%|r DMG. |r|n|cff00FF00Damage: Str * lvl * ?|r|n|cffff8c00Cooldown: <A0IV,Cool3> seconds|r
 
-
 }
 
 STRING 12430
 // Abilities: A0IV (Krown Toss), Ubertip (Tooltip - Normal - Extended)
 {
 King K Rool throws his crown, dealing damage to all units caught in its path. After 1.5 seconds, the crown will return to King K Rool, dealing additional damage to units in its path.|nUnits struck twice by the crown take an additional |cff00FF0025%|r DMG. |r|n|cff00FF00Damage: Str * lvl * ?|r|n|cffff8c00Cooldown: <A0IV,Cool4> seconds|r
-
 
 }
 
@@ -76409,14 +76156,12 @@ STRING 12431
 {
 King K Rool throws his crown, dealing damage to all units caught in its path. After 1.5 seconds, the crown will return to King K Rool, dealing additional damage to units in its path.|nUnits struck twice by the crown take an additional |cff00FF0025%|r DMG. |r|n|cff00FF00Damage: Str * lvl * ?|r|n|cffff8c00Cooldown: <A0IV,Cool5> seconds|r
 
-
 }
 
 STRING 12432
 // Abilities: A0IV (Krown Toss), Ubertip (Tooltip - Normal - Extended)
 {
 King K Rool throws his crown, dealing damage to all units caught in its path. After 1.5 seconds, the crown will return to King K Rool, dealing additional damage to units in its path.|nUnits struck twice by the crown take an additional |cff00FF0025%|r DMG. |r|n|cff00FF00Damage: Str * lvl * ?|r|n|cffff8c00Cooldown: <A0IV,Cool6> seconds|r
-
 
 }
 
@@ -76425,14 +76170,12 @@ STRING 12433
 {
 King K Rool throws his crown, dealing damage to all units caught in its path. After 1.5 seconds, the crown will return to King K Rool, dealing additional damage to units in its path.|nUnits struck twice by the crown take an additional |cff00FF0025%|r DMG. |r|n|cff00FF00Damage: Str * lvl * ?|r|n|cffff8c00Cooldown: <A0IV,Cool7> seconds|r
 
-
 }
 
 STRING 12434
 // Abilities: A0IV (Krown Toss), Ubertip (Tooltip - Normal - Extended)
 {
 King K Rool throws his crown, dealing damage to all units caught in its path. After 1.5 seconds, the crown will return to King K Rool, dealing additional damage to units in its path.|nUnits struck twice by the crown take an additional |cff00FF0025%|r DMG. |r|n|cff00FF00Damage: Str * lvl * ?|r|n|cffff8c00Cooldown: <A0IV,Cool8> seconds|r
-
 
 }
 
@@ -76441,14 +76184,12 @@ STRING 12435
 {
 King K Rool throws his crown, dealing damage to all units caught in its path. After 1.5 seconds, the crown will return to King K Rool, dealing additional damage to units in its path.|nUnits struck twice by the crown take an additional |cff00FF0025%|r DMG. |r|n|cff00FF00Damage: Str * lvl * ?|r|n|cffff8c00Cooldown: <A0IV,Cool9> seconds|r
 
-
 }
 
 STRING 12436
 // Abilities: A0IV (Krown Toss), Researchubertip (Tooltip - Learn - Extended)
 {
 King K Rool throws his crown, dealing damage to all units caught in its path. After 1.5 seconds, the crown will return to King K Rool, dealing additional damage to units in its path.|nUnits struck twice by the crown take an additional |cff00FF0025%|r DMG. |r|n|cff00FF00Damage: Str * lvl * ?|r|n|cffff8c00Cooldown: <A0IV,Cool1> - <A0IV,Cool10> seconds|r
-
 
 }
 
@@ -76457,40 +76198,19 @@ STRING 12437
 {
 King K Rool throws his crown, dealing damage to all units caught in its path. After 1.5 seconds, the crown will return to King K Rool, dealing additional damage to units in its path.|nUnits struck twice by the crown take an additional |cff00FF0025%|r DMG. |r|n|cff00FF00Damage: Str * lvl * ?|r|n|cffff8c00Cooldown: <A0IV,Cool10> seconds|r
 
-
 }
 
 STRING 12438
+// Abilities: A0YC (|cffff0000H|r|cffe30000e|r|cffc70000a|r|cffaa0000t|r|cff8e0000i|r|cff720000n|r|), Hotkey (Hotkey - Normal)
 {
-Type "r" to revert.
-Transformations:
-[lvl 15]  1.25x "king"
-[lvl 30]  1.50x "king"
-[lvl 50]  1.75x "king"
-[lvl 90]  2.00x "king"
-[lvl 125] 2.25x "king"
-[lvl 150] 2.40x "king"
-
-Pick ONE of the following:
-[lvl 250] 2.50x "throne" [unlocks King's Throne]
-[lvl 250] 2.60x "blast-o" [unlocks Blast-o-Matic]
+D
 }
 
 STRING 12439
+// Abilities: A0YC (|cffff0000H|r|cffe30000e|r|cffc70000a|r|cffaa0000t|r|cff8e0000i|r|cff720000n|r|), Tip (Tooltip - Normal)
 {
-Type "r" to revert.
-Transformations:
-[lvl 15]  1.25x "koing"
-[lvl 30]  1.50x "koing"
-[lvl 50]  1.75x "koing"
-[lvl 90]  2.00x "koing"
-[lvl 125] 2.25x "koing"
-[lvl 150] 2.40x "koing"
-
-
-Pick ONE of the following:
-[lvl 250] 2.50x "throne" [unlocks King's Throne]
-[lvl 250] 2.60x "blast-o" [unlocks Blast-o-Matic]
+[|cff00FF00D|r] |cffffaa00Heating Up/Cooling Off
+|r
 }
 
 STRING 12440
@@ -77204,15 +76924,17 @@ Z
 }
 
 STRING 12557
+// Abilities: A0YC (|cffff0000H|r|cffe30000e|r|cffc70000a|r|cffaa0000t|r|cff8e0000i|r|cff720000n|r|), Ubertip (Tooltip - Normal - Extended)
 {
-Type "r" to revert.
-Transformations:
-[lvl 15]  1.25x "fp"
-[lvl 30]  1.50x "fp"
-[lvl 60]  1.75x "fp"
-[lvl 90]  2.00x "fp"
-[lvl 120] 2.25x "fp"
-[lvl 150] 2.50x "fp"
+Gotenks' most powerful transformation.
+|cffffff00+0.1x stat mult
+Spawns 3 Super Ghost Kamikazes around Gotenks.
++5% spell amp per second up to +15%
++33ms and unlocks movement speed cap|r
+|cff00FF00Duration: <A0U0,Dur1> seconds|r
+|cff00FFFFCooldown: <A0U0,Cool1> seconds|r
+
+|cff808080"The Mack Daddy of Justice"|r
 }
 
 STRING 12558
@@ -77938,18 +77660,9 @@ Zamasu's fighting style is based on landing devastating hits with his energy bla
 }
 
 STRING 12676
+// Abilities: A0YC (|cffff0000H|r|cffe30000e|r|cffc70000a|r|cffaa0000t|r|cff8e0000i|r|cff720000n|r|), Name (Name)
 {
-Type "r" to revert.
-Transformations:
-[lvl 30]  1.50x "fp"
-[lvl 60]  1.75x "fp"
-[lvl 90]  2.00x "fp"
-[lvl 150] 2.30x "fp"
-[lvl 200] 2.50x "fp"
-
-Gains +0.03x for each dragon ball held.
-Gains +0.03x for holding 3 or more dragon balls.
-Gains +0.06x for holding the cleansed dragon ball (omega shenron drop)
+|cffff0000H|r|cffe30000e|r|cffc70000a|r|cffaa0000t|r|cff8e0000i|r|cff720000n|r|cff550000g|r|cff390000 |r|cff1d0000U|r|cff000000p|r |cff000000C|r|cff000018o|r|cff000032o|r|cff00004bl|r|cff000065i|r|cff00007en|r|cff000098g|r|cff0000b1 |r|cff0000cbO|r|cff0000e4f|r|cff0000fef|r
 }
 
 STRING 12677
@@ -78079,7 +77792,7 @@ Zamasu's fighting style is based on landing devastating hits with his energy bla
 }
 
 STRING 12691
-// Abilities: A0PL (Justice Tornado 2), Researchhotkey (Hotkey - Learn)
+// Abilities: A0PL (Justice Tornado 2), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -78121,7 +77834,7 @@ Krown Toss Debuff
 }
 
 STRING 12697
-// Abilities: A0PR (Telekinesis), Researchhotkey (Hotkey - Learn)
+// Abilities: A0PL (Justice Tornado 2), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -78262,7 +77975,6 @@ STRING 12719
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Farming|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 12720
@@ -79455,19 +79167,9 @@ Q
 }
 
 STRING 12911
+// Abilities: A0YC (|cffff0000H|r|cffe30000e|r|cffc70000a|r|cffaa0000t|r|cff8e0000i|r|cff720000n|r|), EditorSuffix (Editor Suffix)
 {
-Type "r" to revert.
-Transformations:
-[lvl 20]  1.25x "justice"
-[lvl 35]  1.50x "justice"
-[lvl 60]  1.75x "justice"
-[lvl 90]  2.00x "justice"
-[lvl 125] 2.30x "justice"
-[lvl 150] 2.40x "god" [unlocks GoD training]
-[lvl 175] 2.50x "god" [unlocks GoD form]
-[lvl 225] 2.60x "god" 
-
-Gains +0.02x for each pride trooper on his team.
+(shouto)
 }
 
 STRING 12912
@@ -79483,7 +79185,7 @@ STRING 12913
 }
 
 STRING 12914
-// Abilities: A0PR (Telekinesis), Hotkey (Hotkey - Normal)
+// Abilities: A0PR (Telekinesis), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -80087,7 +79789,7 @@ Toppo punches his enemies with the power of justice!|n|cff00FF00Damage: Agi * Lv
 }
 
 STRING 13014
-// Abilities: A0PW (Frog Tongue), Hotkey (Hotkey - Normal)
+// Abilities: A0PR (Telekinesis), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -80123,7 +79825,7 @@ STRING 13019
 }
 
 STRING 13020
-// Abilities: A0PW (Frog Tongue), Researchhotkey (Hotkey - Learn)
+// Abilities: A0PW (Frog Tongue), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -80255,7 +79957,7 @@ STRING 13041
 }
 
 STRING 13042
-// Abilities: A0Q1 (Nova Strike), Researchhotkey (Hotkey - Learn)
+// Abilities: A0PW (Frog Tongue), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -81083,7 +80785,7 @@ STRING 13174
 }
 
 STRING 13175
-// Abilities: A0Q1 (Nova Strike), Hotkey (Hotkey - Normal)
+// Abilities: A0Q1 (Nova Strike), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -81101,7 +80803,7 @@ STRING 13177
 }
 
 STRING 13178
-// Abilities: A0QF (Golden Nova Rush), Researchhotkey (Hotkey - Learn)
+// Abilities: A0Q1 (Nova Strike), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -81296,7 +80998,6 @@ A well-rounded hero who can transform into many different forms to increase his 
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 13210
@@ -81463,7 +81164,7 @@ Frog Tongue
 }
 
 STRING 13237
-// Abilities: A0QF (Golden Nova Rush), Hotkey (Hotkey - Normal)
+// Abilities: A0QF (Golden Nova Rush), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -81475,7 +81176,7 @@ STRING 13238
 }
 
 STRING 13239
-// Abilities: A0QL (Shadow Dragon Fist), Researchhotkey (Hotkey - Learn)
+// Abilities: A0QF (Golden Nova Rush), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -82341,7 +82042,7 @@ STRING 13378
 }
 
 STRING 13379
-// Abilities: A0QL (Shadow Dragon Fist), Hotkey (Hotkey - Normal)
+// Abilities: A0QL (Shadow Dragon Fist), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -82359,7 +82060,7 @@ STRING 13381
 }
 
 STRING 13382
-// Abilities: A0QQ (Nova Star), Hotkey (Hotkey - Normal)
+// Abilities: A0QL (Shadow Dragon Fist), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -83828,7 +83529,7 @@ The user usually brings their arms to their sides, charges up ki, and then he th
 }
 
 STRING 13615
-// Abilities: A0QQ (Nova Star), Unhotkey (Hotkey - Turn Off)
+// Abilities: A0QQ (Nova Star), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -84643,7 +84344,7 @@ STRING 13740
 }
 
 STRING 13741
-// Abilities: A0QX (Justice Cannon), Researchhotkey (Hotkey - Learn)
+// Abilities: A0QQ (Nova Star), Unhotkey (Hotkey - Turn Off)
 {
 E
 }
@@ -84661,7 +84362,7 @@ STRING 13743
 }
 
 STRING 13744
-// Abilities: A0QX (Justice Cannon), Hotkey (Hotkey - Normal)
+// Abilities: A0QX (Justice Cannon), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -85712,18 +85413,9 @@ A sweeping kick that damages enemies near the user and knocks away any incoming 
 }
 
 STRING 13904
+// Upgrades: R00A (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Hotkey (Hotkey)
 {
-Type "r" to revert.
-Transformations:
-[lvl 15]  1.25x "justice"
-[lvl 35]  1.50x "justice"
-[lvl 85]  2.00x "justice"
-[lvl 100] 2.25x "justice"
-[lvl 150] 2.50x "justice"
-[lvl 225] 2.60x "max" [unlocks Super Maximum Light Speed Mode]
-
-Gains +0.02x for each pride trooper on his team.
-|cff00ffffLightning Reflexes:|r +20% Evasion.
+Q
 }
 
 STRING 13905
@@ -85736,7 +85428,6 @@ An offense-oriented hero who struggles heavily in the early and mid game but bec
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 13906
@@ -85752,7 +85443,7 @@ STRING 13907
 }
 
 STRING 13908
-// Abilities: A0R4 (Justice Cannon 2), Researchhotkey (Hotkey - Learn)
+// Abilities: A0QX (Justice Cannon), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -85770,7 +85461,7 @@ STRING 13910
 }
 
 STRING 13911
-// Abilities: A0R4 (Justice Cannon 2), Hotkey (Hotkey - Normal)
+// Abilities: A0R4 (Justice Cannon 2), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -86070,7 +85761,7 @@ STRING 13960
 }
 
 STRING 13961
-// Abilities: A0RA (Destructo Disc), Hotkey (Hotkey - Normal)
+// Abilities: A0R4 (Justice Cannon 2), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -86088,7 +85779,7 @@ STRING 13963
 }
 
 STRING 13964
-// Abilities: A0RA (Destructo Disc), Researchhotkey (Hotkey - Learn)
+// Abilities: A0RA (Destructo Disc), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -86165,6 +85856,12 @@ STRING 13976
 [|cffffff00E|r] Choose Dyspo
 }
 
+STRING 13977
+// Upgrades: R00A (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Hotkey (Hotkey)
+{
+Q
+}
+
 STRING 13978
 // Units: H09H (Captain of the Pride Troopers), Tip (Tooltip - Basic)
 {
@@ -86196,7 +85893,7 @@ W
 }
 
 STRING 13983
-// Abilities: A0RE (Heavy Punch), Hotkey (Hotkey - Normal)
+// Abilities: A0RA (Destructo Disc), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -86570,7 +86267,7 @@ STRING 14042
 }
 
 STRING 14043
-// Abilities: A0RH (Dash Right), Hotkey (Hotkey - Normal)
+// Abilities: A0RE (Heavy Punch), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -86588,7 +86285,7 @@ STRING 14045
 }
 
 STRING 14046
-// Abilities: A0RK (Wolf Fang Blast), Hotkey (Hotkey - Normal)
+// Abilities: A0RH (Dash Right), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -86919,7 +86616,6 @@ A close-ranged melee specialist that can deal devastating amounts of damage if s
 |cff00FF00II|r|cff383838III |r|cffFFFF00Saga|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 14093
@@ -86932,7 +86628,6 @@ A strong early-game hero that relies heavily on his teammates to protect him whi
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 14094
@@ -86945,7 +86640,6 @@ A powerful close-range brawler that excels in outmaneuvering his opponents befor
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 14095
@@ -87322,11 +87016,6 @@ STRING 14153
 [|cff00FF00F|r] Justice Pose - [|cffffcc00Level 9|r]
 }
 
-STRING 14154
-{
-!
-}
-
 STRING 14155
 // Abilities: A0S8 (Blinding Wolf Fang Fist Blind), Name (Name)
 {
@@ -87682,7 +87371,7 @@ STRING 14213
 }
 
 STRING 14214
-// Abilities: A0RN (Uppercut), Hotkey (Hotkey - Normal)
+// Abilities: A0RK (Wolf Fang Blast), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -87700,7 +87389,7 @@ STRING 14216
 }
 
 STRING 14217
-// Abilities: A0RR (Reverse Wolf Fang Blast), Hotkey (Hotkey - Normal)
+// Abilities: A0RN (Uppercut), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -87951,11 +87640,6 @@ STRING 14258
 [|cff00ff00W|r] Scattering Bullet - [|cffffcc00Level 1|r]
 }
 
-STRING 14259
-{
-|cffffff200|r
-}
-
 STRING 14260
 // Abilities: A0R9 (Scattering Bullet), Tip (Tooltip - Normal)
 {
@@ -88041,7 +87725,7 @@ This unit is temporarily blinded.
 }
 
 STRING 14274
-// Abilities: A0RU (Neo Wolf Fang Fist), Hotkey (Hotkey - Normal)
+// Abilities: A0RR (Reverse Wolf Fang Blast), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -88068,7 +87752,7 @@ Destructo Disc
 }
 
 STRING 14278
-// Abilities: A0RX (Wolf Fang Barrage), Hotkey (Hotkey - Normal)
+// Abilities: A0RU (Neo Wolf Fang Fist), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -88361,7 +88045,6 @@ A strong close-range fighter with high-damage nukes and a long duration grapple 
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 14322
@@ -88400,19 +88083,6 @@ STRING 14326
 Krillin fires two beams at once that each explode and split into 4 more beams
 |cff00ff00Damage: Lvl * Int * ?|r
 |cff00ffffCooldown: <A0R9,Cool4> seconds|r
-}
-
-STRING 14327
-{
-Type "r" to revert.
-Transformations:
-[lvl 10]  1.10x "fp"
-[lvl 20]  1.25x "fp"
-[lvl 30]  1.50x "fp"
-[lvl 60]  1.75x "fp"
-[lvl 90]  2.00x "fp"
-[lvl 150] 2.40x "fp"
-[lvl 200] 2.50x "fp"
 }
 
 STRING 14328
@@ -88556,7 +88226,7 @@ Yamcha pretends to meet his own untimely demise, avoiding all incoming damage fo
 }
 
 STRING 14348
-// Abilities: A0RY (Wolf Fang Finisher), Hotkey (Hotkey - Normal)
+// Abilities: A0RX (Wolf Fang Barrage), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -88647,7 +88317,7 @@ Wolf Fang Hurricane
 }
 
 STRING 14362
-// Abilities: A0S4 (Play Dead), Hotkey (Hotkey - Normal)
+// Abilities: A0RY (Wolf Fang Finisher), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -88733,7 +88403,7 @@ STRING 14375
 }
 
 STRING 14376
-// Abilities: A0S7 (Batter Up), Hotkey (Hotkey - Normal)
+// Abilities: A0S4 (Play Dead), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -88817,7 +88487,7 @@ STRING 14389
 }
 
 STRING 14390
-// Abilities: A0SE (Telekinesis), Researchhotkey (Hotkey - Learn)
+// Abilities: A0S7 (Batter Up), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -90009,7 +89679,7 @@ STRING 14561
 }
 
 STRING 14562
-// Abilities: A0SE (Telekinesis), Hotkey (Hotkey - Normal)
+// Abilities: A0SE (Telekinesis), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -90742,7 +90412,7 @@ Yamcha's finishing wolf fang fist attack. Deals bonus damage if the enemy is stu
 }
 
 STRING 14667
-// Abilities: A0SK (Glare 2), Hotkey (Hotkey - Normal)
+// Abilities: A0SE (Telekinesis), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -91206,7 +90876,7 @@ A quick ki-infused wolf fang fist attack followed by a flash kamehameha. Deals b
 }
 
 STRING 14735
-// Abilities: A0SK (Glare 2), Researchhotkey (Hotkey - Learn)
+// Abilities: A0SK (Glare 2), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -91588,7 +91258,7 @@ STRING 14791
 }
 
 STRING 14792
-// Abilities: A0ST (Holy Light Grenade), Researchhotkey (Hotkey - Learn)
+// Abilities: A0SK (Glare 2), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -91669,7 +91339,7 @@ A heavy pummelling attack launched from above that briefly stuns the enemy.
 }
 
 STRING 14803
-// Abilities: A0ST (Holy Light Grenade), Hotkey (Hotkey - Normal)
+// Abilities: A0ST (Holy Light Grenade), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -92149,7 +91819,7 @@ STRING 14870
 }
 
 STRING 14871
-// Abilities: A0SZ (Right Smash), Hotkey (Hotkey - Normal)
+// Abilities: A0ST (Holy Light Grenade), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -92637,7 +92307,7 @@ Yamcha rushes the enemy with the advanced Neo Wolf Fang Fist, dealing massive da
 }
 
 STRING 14943
-// Abilities: A0SZ (Right Smash), Researchhotkey (Hotkey - Learn)
+// Abilities: A0SZ (Right Smash), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -93086,7 +92756,7 @@ Yamcha deflects incoming attacks with his baseball swing.
 }
 
 STRING 15011
-// Abilities: A0T5 (California Smash), Hotkey (Hotkey - Normal)
+// Abilities: A0SZ (Right Smash), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -93279,16 +92949,6 @@ STRING 15039
 A powerful energy blast infused with the power of the neo wolf fang fist.
 |cff00ff00Damage: Int|r
 |cff00ffffCooldown: <A0RT,Cool9> seconds|r
-}
-
-STRING 15040
-{
-Basic Combos Enabled (QQ+, WW+, EE+)
-}
-
-STRING 15041
-{
-Full Combos Enabled (QQQ, QQW, QQE, QWW, QEE, WWW, WWE, WEE, EEE)
 }
 
 STRING 15042
@@ -93897,7 +93557,7 @@ STRING 15126
 }
 
 STRING 15127
-// Abilities: A0T9 (Fervent Blow), Researchhotkey (Hotkey - Learn)
+// Abilities: A0T5 (California Smash), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -93915,7 +93575,7 @@ STRING 15129
 }
 
 STRING 15130
-// Abilities: A0T9 (Fervent Blow), Hotkey (Hotkey - Normal)
+// Abilities: A0T9 (Fervent Blow), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -94402,7 +94062,6 @@ A strong teamfight hero who excels in disrupting his opponent's movements before
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 15202
@@ -95322,7 +94981,7 @@ STRING 15341
 }
 
 STRING 15342
-// Abilities: A0TA (Fervent Rush), Researchhotkey (Hotkey - Learn)
+// Abilities: A0T9 (Fervent Blow), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -95657,11 +95316,6 @@ Gohan unleashes the full potential of his ultimate form.
 |cff00ffffCooldown: <A0L8,Cool1>s
 }
 
-STRING 15383
-{
-Full Combos Enabled (QQQ, QQW, QQE, QWW, QEE, WWW, WWE, WEE, EEE)
-}
-
 STRING 15384
 // Abilities: A0XQ (Marle Attack Passive), Name (Name)
 {
@@ -95985,7 +95639,7 @@ The blood of the Saiyan race flows through your veins. Saiyan blood can cause th
 }
 
 STRING 15432
-// Abilities: A0TA (Fervent Rush), Hotkey (Hotkey - Normal)
+// Abilities: A0TA (Fervent Rush), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -96709,7 +96363,7 @@ STRING 15523
 }
 
 STRING 15524
-// Abilities: A0TN (Super Cape), Hotkey (Hotkey - Normal)
+// Abilities: A0TA (Fervent Rush), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -96845,7 +96499,7 @@ STRING 15543
 }
 
 STRING 15544
-// Abilities: A0TN (Super Cape), Researchhotkey (Hotkey - Learn)
+// Abilities: A0TN (Super Cape), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -96863,7 +96517,7 @@ STRING 15546
 }
 
 STRING 15547
-// Abilities: A0TR (Kiai), Researchhotkey (Hotkey - Learn)
+// Abilities: A0TN (Super Cape), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -97174,7 +96828,7 @@ SOLDIER 1st Class
 }
 
 STRING 15593
-// Abilities: A0TR (Kiai), Hotkey (Hotkey - Normal)
+// Abilities: A0TR (Kiai), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -97347,20 +97001,6 @@ STRING 15620
 // Abilities: A0XG (Boulder Toss), Researchhotkey (Hotkey - Learn)
 {
 Q
-}
-
-STRING 15621
-{
-Type "r" to revert.
-Transformations:
-[lvl 1]   1.20x "r"
-[lvl 30]  1.50x "might" [unlocks Oklahoma and Carolina Smash]
-[lvl 50]  1.60x "might" [unlocks California Smash]
-[lvl 90]  2.00x "might" [unlocks New Hampshire Smash]
-[lvl 150] 2.30x "might" [unlocks One for All]
-[lvl 200] 2.50x "might" 
-
-Type "-skin" to change into All Might with a Cape
 }
 
 STRING 15622
@@ -97830,12 +97470,6 @@ STRING 15687
 [|cff00ff00Q|r] Time Skip - [|cffffcc00Level 7|r]
 }
 
-STRING 15688
-{
-[|cffffcc00Ultimate|r] Mega Evolution
-Lucario can now transform into Mega Lucario.
-}
-
 STRING 15689
 // Abilities: A0G0 (Hit's fighting style), Ubertip (Tooltip - Normal - Extended)
 {
@@ -97845,12 +97479,6 @@ Hit's assassination techniques cause massive damage in hand-to-hand combat.
 |cffffcc00Evasion|r - <A0G0,DataD7,%>% 
 |cffffcc00Critical|r - <A0G0,DataA7>% 
 |cffffcc00Damage|r - <A0G0,DataB7,.> times
-}
-
-STRING 15690
-{
-[|cffffcc00Ultimate|r] Gigantamax
-Lucario can now transform into his gigantamax form.
 }
 
 STRING 15691
@@ -97890,12 +97518,6 @@ Lucario consumes all his mana to charge a massive aura sphere for one second bef
 |cffff2020Channel Duration: <A0Y3,Dur1> seconds|r
 |cff00ff00Damage: Lvl x Int x ?|r
 |cff00ffffCooldown: <A0Y3,Cool10> seconds|r
-}
-
-STRING 15695
-{
-[|cffffcc00Upgrade|r] |cffff2020R|r|cffff8820a|r|cffffff00i|r|cff00ff00n|r|cff00ffffb|r|cffff44ffo|r|cff882288w|r
-Crono receives an upgraded sword with a 70% chance for a 2.2x crit and +30% base damage.
 }
 
 STRING 15696
@@ -98428,7 +98050,7 @@ All Might fires a powerful downward punch that is powerful enough to create a sh
 }
 
 STRING 15772
-// Abilities: A0TW (Super Goten Strike), Researchhotkey (Hotkey - Learn)
+// Abilities: A0TR (Kiai), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -98626,13 +98248,13 @@ Q
 }
 
 STRING 15803
-// Upgrades: R00A (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Hotkey (Hotkey)
+// Abilities: A0Y9 (Glacier), Researchhotkey (Hotkey - Learn)
 {
 Q
 }
 
 STRING 15804
-// Upgrades: R00A (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Hotkey (Hotkey)
+// Abilities: A0Y9 (Glacier), Hotkey (Hotkey - Normal)
 {
 Q
 }
@@ -99030,7 +98652,7 @@ STRING 15856
 }
 
 STRING 15857
-// Abilities: A0TW (Super Goten Strike), Hotkey (Hotkey - Normal)
+// Abilities: A0TW (Super Goten Strike), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -99058,7 +98680,7 @@ Sephiroth's slashes send shockwaves through the air, knocking enemies away from 
 }
 
 STRING 15861
-// Abilities: A0TZ (Sword of Hope), Hotkey (Hotkey - Normal)
+// Abilities: A0TW (Super Goten Strike), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -99230,7 +98852,7 @@ STRING 15882
 }
 
 STRING 15883
-// Abilities: A0TZ (Sword of Hope), Researchhotkey (Hotkey - Learn)
+// Abilities: A0TZ (Sword of Hope), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -99258,7 +98880,7 @@ Sephiroth's slashes send shockwaves through the air, knocking enemies away from 
 }
 
 STRING 15887
-// Abilities: A0U2 (Galactic Donut), Researchhotkey (Hotkey - Learn)
+// Abilities: A0TZ (Sword of Hope), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -99876,21 +99498,6 @@ STRING 15971
 This unit is affected by Fervent Blow. It takes extra damage from Fervent Rush.
 }
 
-STRING 15972
-{
-Type "r" to revert.
-Transformations:
-[lvl 30]  1.50x "fp"
-[lvl 90]  2.00x "fp"
-[lvl 125] 2.20x "fp"
-[lvl 150] 2.40x "fp" [unlocks One Winged Angel]
-[lvl 250] 2.60x "fp"
-
-|cffff25aaMasamune|r: 40% chance for 2x Crit.
-
-Type "-skin" to cycle through up to 4 different skins.
-}
-
 STRING 15973
 // Units: H09N (SOLDIER 1st Class), Ubertip (Tooltip - Extended)
 {
@@ -99931,11 +99538,6 @@ A high mobility melee hero who specialises in punishing slower moving foes. Gain
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
 
 Proudly bankrolled by |cff00ffffCestroq|r.
-}
-
-STRING 15976
-{
-|cffff2020Error: Cannot target there.
 }
 
 STRING 15977
@@ -100394,20 +99996,6 @@ STRING 16041
 // Abilities: A0TH (Pure Progress), EditorSuffix (Editor Suffix)
 {
 (hit)
-}
-
-STRING 16042
-{
-Type "r" to revert.
-Transformations:
-[lvl 30]  1.50x "fp"
-[lvl 60]  1.75x "fp"
-[lvl 90]  2.00x "fp"
-[lvl 150] 2.40x "fp" 
-[lvl 200] 2.50x "fp" [unlocks Pure Progress]
-[lvl 250] 2.60x "fp"
-
-|cffffcc00Legendary Assassin|r: +35% stats from Player Kills.
 }
 
 STRING 16043
@@ -101603,20 +101191,6 @@ STRING 16218
 // Abilities: A06X (Dodon Ray), Tip (Tooltip - Normal)
 {
 [|cff00ff00Q|r] Dodon Ray - [|cffffcc00Level 8|r]
-}
-
-STRING 16219
-{
-Type "r" to revert.
-Transformations:
-[lvl 15]  1.25x "mario"
-[lvl 30]  1.50x "mario"
-[lvl 90]  2.00x "mario"
-[lvl 120] 2.25x "mario"
-[lvl 150] 2.50x "mario"
-[lvl 250] 2.60x "mario" [+1 Empty Jumps]
-
-|cff00ff00Dash|r: +50ms.
 }
 
 STRING 16220
@@ -103726,7 +103300,7 @@ STRING 16486
 }
 
 STRING 16487
-// Abilities: A0U2 (Galactic Donut), Hotkey (Hotkey - Normal)
+// Abilities: A0U2 (Galactic Donut), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -103744,7 +103318,7 @@ STRING 16489
 }
 
 STRING 16490
-// Abilities: A0U3 (Ultra Volleyball), Researchhotkey (Hotkey - Learn)
+// Abilities: A0U2 (Galactic Donut), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -103783,11 +103357,6 @@ STRING 16496
 // Abilities: A0U8 (Bankai: Tensa Zangetsu), Researchtip (Tooltip - Learn)
 {
 [|cff00FF00W|r] Learn Bankai: Tensa Zangetsu - [|cffffcc00Level %d|r]
-}
-
-STRING 16497
-{
-This secret cannot be completed in this mode.
 }
 
 STRING 16498
@@ -104950,7 +104519,6 @@ A secret hero.
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16644
@@ -105116,7 +104684,6 @@ A well-rounded hero who has strong offensive and defensive capabilities, while b
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16668
@@ -105222,7 +104789,7 @@ STRING 16681
 }
 
 STRING 16682
-// Abilities: A0U3 (Ultra Volleyball), Hotkey (Hotkey - Normal)
+// Abilities: A0U3 (Ultra Volleyball), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -105246,7 +104813,7 @@ STRING 16685
 }
 
 STRING 16686
-// Abilities: A0UA (Cero: Charge), Researchhotkey (Hotkey - Learn)
+// Abilities: A0U3 (Ultra Volleyball), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -105468,7 +105035,7 @@ STRING 16716
 }
 
 STRING 16717
-// Abilities: A0UA (Cero: Charge), Hotkey (Hotkey - Normal)
+// Abilities: A0UA (Cero: Charge), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -105495,7 +105062,7 @@ Duration: <A0UA,Dur1>s
 }
 
 STRING 16721
-// Abilities: A0UB (Cero: Fire), Researchhotkey (Hotkey - Learn)
+// Abilities: A0UA (Cero: Charge), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -106704,7 +106271,6 @@ They can fuse into Gotenks, a hero who deals heavy damage up close while control
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16887
@@ -106718,7 +106284,6 @@ Once he reaches level 45 he may choose to turn into Majin Buu and receive an ear
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Farming|r
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16888
@@ -106732,7 +106297,6 @@ A hero who has to catch and absorb neutral enemies to obtain multiplier. He has 
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16889
@@ -106745,7 +106309,6 @@ A well-rounded hero who works best with powerful spell amp and nuking capabiliti
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16890
@@ -106760,7 +106323,6 @@ A bulky, short-ranged hero who excels at sticking on his opponents with constant
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16891
@@ -106773,7 +106335,6 @@ An extremely bulky, combo-oriented hero who can isolate enemies from their team 
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Saga|r
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Farming|r
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16892
@@ -106787,7 +106348,6 @@ Can turn into Super Buu who absorbs other enemy heroes using [|cff00ff00E|r] Fle
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16893
@@ -106801,7 +106361,6 @@ They fuse into Super Android 13, who specializes in using massive high DPS AoE n
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Saga|r
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Farming|r
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16894
@@ -106814,7 +106373,6 @@ A well-rounded hero who gains multiplier slightly quicker than others and can de
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16895
@@ -106827,7 +106385,6 @@ A fast and versatile hero with minor utility. Can transform into Metal Cooler if
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16896
@@ -106840,7 +106397,6 @@ A hero with powerful long range nukes, strong auto-attacks, and the ability to s
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Farming|r
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16897
@@ -106854,7 +106410,6 @@ Super Janemba is a close-quarters PvP-based assassin who has powerful offensive 
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16898
@@ -106883,7 +106438,6 @@ A true-combo hero that relies on sequencing the right attacks together to access
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16900
@@ -106896,7 +106450,6 @@ A bulky, close-combat hero who disrupts the flow of a teamfight with constant at
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16901
@@ -106909,7 +106462,6 @@ A bulky, combo-oriented hero who increases in size as he grows stronger.
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16902
@@ -106922,7 +106474,6 @@ A versatile hero that can modify his abilities depending on the situation.
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16903
@@ -106944,7 +106495,6 @@ A hero that relies heavily on combo-ing her multiple low cooldown beams with her
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16905
@@ -106957,7 +106507,6 @@ A farmer with a shotgun. A low cooldown nuker that relies on spacing himself far
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16906
@@ -106970,7 +106519,6 @@ A PVP-oriented hero that relies on draining the stat multiplier of stronger hero
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16907
@@ -106984,7 +106532,6 @@ A versatile support hero that erects powerful barriers to deflect incoming beams
 |cffFFcc00I|r|cff00ff00IIII|r|cff383838 |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16908
@@ -106997,7 +106544,6 @@ A combo-oriented close-quarters fighter that can apply powerful debuffs to stun,
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16909
@@ -107010,7 +106556,6 @@ A powerful support hero that excels at saga-sniping and becomes stronger with ea
 |cff00FF00II|r|cff383838III |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16910
@@ -107023,7 +106568,6 @@ A weak early-game hero with powerful close-range offensive capabilities. Can gai
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 16911
@@ -107223,32 +106767,6 @@ STRING 16936
 Frog Attack Passive
 }
 
-STRING 16937
-{
-Type "r" to revert.
-Transformations:
-[lvl 20]  1.25x "fp"
-[lvl 35]  1.50x "fp"
-[lvl 85]  2.00x "fp" [Unlocks Lightning 2]
-[lvl 125] 2.25x "fp"
-[lvl 150] 2.50x "fp"
-[lvl 200] Upgrades sword to "Rainbow" - increased crit and base damage
-[lvl 200] [Unlocks Rust Tyranno Quest] - NYI
-}
-
-STRING 16938
-{
-Type "r" to revert.
-Transformations:
-[lvl 20]  1.25x "fp" [Unlocks Hero's Medal]
-[lvl 35]  1.50x "fp" [Unlocks Masamune]
-[lvl 85]  2.00x "fp" [Unlocks Glenn!]
-[lvl 125] 2.25x "fp"
-[lvl 150] 2.50x "fp"
-[lvl 200] 2.7x STR [upgrades Masamune]
-[lvl 200] [Unlocks Cyrus Quest] - NYI
-}
-
 STRING 16939
 // Abilities: A0UR (Burning Rush), Ubertip (Tooltip - Normal - Extended)
 {
@@ -107319,22 +106837,6 @@ Dart dashes back and forth slashing his opponents before slamming the area for m
 |cffffff00+3 Spirit Power.
 |cff00FF00Damage: Str * lvl * ?|r
 |cff00FFFFCooldown: <A0UV,Cool1,.> - <A0UV,Cool10,.> s|r
-}
-
-STRING 16947
-{
-Type "r" to revert.
-Transformations:
-[lvl 20]  1.25x "fp"
-[lvl 35]  1.50x "fp"
-[lvl 85]  2.00x "fp"
-[lvl 125] 2.25x "fp"
-[lvl 150] 2.50x "fp"
-[lvl 200] [|cff00ffffWeapon Choice|r]
-"|cff808080teraton arm|r" (+50% attack dmg)
-"|cffff2020crisis arm|r" (-50% attack damage on high HP, +20
-0% attack damage on low HP)
-[lvl 200] [Unlocks Atropos Quest] - NYI
 }
 
 STRING 16948
@@ -107569,7 +107071,7 @@ STRING 16979
 }
 
 STRING 16980
-// Abilities: A0UB (Cero: Fire), Hotkey (Hotkey - Normal)
+// Abilities: A0UB (Cero: Fire), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -107613,7 +107115,7 @@ Duration: 10s
 }
 
 STRING 16986
-// Abilities: A0UT (Heart of Fire), Hotkey (Hotkey - Normal)
+// Abilities: A0UB (Cero: Fire), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -108351,7 +107853,7 @@ Q
 }
 
 STRING 17092
-// Abilities: A0UT (Heart of Fire), Researchhotkey (Hotkey - Learn)
+// Abilities: A0UT (Heart of Fire), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -108381,7 +107883,7 @@ STRING 17096
 }
 
 STRING 17097
-// Abilities: A0UZ (Paragon of Flame), Hotkey (Hotkey - Normal)
+// Abilities: A0UT (Heart of Fire), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -108888,17 +108390,6 @@ STRING 17175
 // Abilities: A0VA (Heart of Fire Armor), EditorSuffix (Editor Suffix)
 {
 (dart)
-}
-
-STRING 17176
-{
-Type "r" to revert.
-Transformations:
-[lvl 15]  1.4/1.2/1.0x  "dragoon"
-[lvl 35]  1.7/1.5/1.3x  "dragoon" [Unlocks Dragon Transformation]
-[lvl 80]  2.2/1.8/1.6x  "dragoon" [+10 Max Spirit Power]
-[lvl 150] 2.5/2.1/1.9x  "dragoon" [+10 Max Spirit Power]
-[lvl 200] 2.8/2.4/2.2x  "dragoon"
 }
 
 STRING 17177
@@ -110273,7 +109764,7 @@ Rust Tyranno unleashes a deadly wave of fire.
 }
 
 STRING 17374
-// Abilities: A0UZ (Paragon of Flame), Researchhotkey (Hotkey - Learn)
+// Abilities: A0UZ (Paragon of Flame), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -110355,7 +109846,7 @@ Damage Block: Str * lvl * 0.3 @ 40%|r
 }
 
 STRING 17385
-// Abilities: A0VJ (Tyranno Roar), Hotkey (Hotkey - Normal)
+// Abilities: A0UZ (Paragon of Flame), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -110991,7 +110482,7 @@ Dart unleashes a deadly combo. Reduces base attack time. Auto attacks apply a st
 }
 
 STRING 17466
-// Abilities: A0VJ (Tyranno Roar), Researchhotkey (Hotkey - Learn)
+// Abilities: A0VJ (Tyranno Roar), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -111012,7 +110503,7 @@ Dart unleashes a deadly combo. Reduces base attack time. Auto attacks apply a st
 }
 
 STRING 17469
-// Abilities: A0VO (Cero Gigante), Hotkey (Hotkey - Normal)
+// Abilities: A0VJ (Tyranno Roar), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -111188,7 +110679,7 @@ W
 }
 
 STRING 17492
-// Abilities: A0VO (Cero Gigante), Unhotkey (Hotkey - Turn Off)
+// Abilities: A0VO (Cero Gigante), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -111450,7 +110941,7 @@ STRING 17542
 }
 
 STRING 17543
-// Abilities: A0VR (Lightning), Hotkey (Hotkey - Normal)
+// Abilities: A0VO (Cero Gigante), Unhotkey (Hotkey - Turn Off)
 {
 E
 }
@@ -111574,7 +111065,7 @@ STRING 17560
 }
 
 STRING 17561
-// Abilities: A0VR (Lightning), Researchhotkey (Hotkey - Learn)
+// Abilities: A0VR (Lightning), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -111628,7 +111119,7 @@ STRING 17568
 }
 
 STRING 17569
-// Abilities: A0VS (Lightning 2), Hotkey (Hotkey - Normal)
+// Abilities: A0VR (Lightning), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -111654,7 +111145,7 @@ Lightning 2
 }
 
 STRING 17573
-// Abilities: A0VS (Lightning 2), Researchhotkey (Hotkey - Learn)
+// Abilities: A0VS (Lightning 2), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -112191,20 +111682,6 @@ STRING 17651
 Q
 }
 
-STRING 17652
-{
-Type "r" to revert.
-Transformations:
-[lvl 20]  1.25x "fp" - Amulet equipped (debuff protection)
-[lvl 35]  1.50x "fp"
-[lvl 85]  2.00x "fp"
-[lvl 125] 2.25x "fp"
-[lvl 150] 2.50x "fp"
-[lvl 150] [|cff00ffffWeapon Choice|r]
-"|cffff00ffdoom scythe|r" - Increases auto attack damage by 100% when an ally dies (stacking)
-"|cffff2020dreamreaper|r" - 40% chance for 4x crit
-}
-
 STRING 17653
 // Units: H0A3 (Dark Mage), Name (Name)
 {
@@ -112269,16 +111746,6 @@ STRING 17663
 // Abilities: A0W2 (Book Magus Passives), Name (Name)
 {
 Book Magus Passives
-}
-
-STRING 17664
-{
-pass
-}
-
-STRING 17665
-{
-fail
 }
 
 STRING 17666
@@ -112376,7 +111843,7 @@ Fire 2
 }
 
 STRING 17681
-// Abilities: A0W5 (Lightning 2), Researchhotkey (Hotkey - Learn)
+// Abilities: A0VS (Lightning 2), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -112621,7 +112088,7 @@ Lightning 2
 }
 
 STRING 17721
-// Abilities: A0WC (Water), Hotkey (Hotkey - Normal)
+// Abilities: A0W5 (Lightning 2), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -113226,24 +112693,6 @@ STRING 17814
 BlackBarSkybox
 }
 
-STRING 17815
-{
-[|cffffcc00Upgrade|r] Water 2
-Frog's Water has been upgraded to Water 2, a powerful charged nuke.
-}
-
-STRING 17816
-{
-[|cffffcc00Secret Upgrade|r] Lightning 3
-After cultivating his single target lightning powers, Crono has unlocked an enhanced version of his original lightning.
-}
-
-STRING 17817
-{
-[|cffffcc00Upgrade|r] Lightning 2
-Crono has mastered his Lightning skills to target multiple enemies at once.
-}
-
 STRING 17818
 // Doodads: D01X (ToPArena Doodad), Name (Name)
 {
@@ -113274,38 +112723,12 @@ Frog stretches his tongue out and licks himself and nearby allies to heal them. 
 |cff00ffffCooldown: <A0WB,Cool3> seconds|r
 }
 
-STRING 17822
-{
-[|cffffcc00Talent|r] Teratorn Arm
-+50% attack damage at all times.
-}
-
 STRING 17823
 // Abilities: A0W3 (Dark Bomb), Researchubertip (Tooltip - Learn - Extended)
 {
 Magus throws a Dark Bomb at the target area, causing it to explode and deal damage in a large area.
 |cff00FF00Damage: Int * Lvl * ?|r
 |cff00FFFFCooldown: <A0W3,Cool1>s|r
-}
-
-STRING 17824
-{
-[|cffffcc00Talent|r] Crisis Arm
-When above 50% HP suffer -50% attack damage.
-When below 50% HP gain +200% attack damage.
-}
-
-STRING 17825
-{
-[|cffffcc00Talent|r] Doom Scythe
-Whenever an ally dies, gain a stacking +100% attack damage for the next 10 seconds.
-}
-
-STRING 17826
-{
-[|cffffcc00Talent|r] Dreamreaper
-Gain a 40% chance on auto attacks to deal a 4x critical strike.
-
 }
 
 STRING 17827
@@ -113359,7 +112782,7 @@ STRING 17834
 }
 
 STRING 17835
-// Abilities: A0WC (Water), Researchhotkey (Hotkey - Learn)
+// Abilities: A0WC (Water), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -113385,7 +112808,7 @@ Water
 }
 
 STRING 17839
-// Abilities: A0WD (Water 2), Researchhotkey (Hotkey - Learn)
+// Abilities: A0WC (Water), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -113661,7 +113084,7 @@ Electrocute
 }
 
 STRING 17877
-// Abilities: A0WD (Water 2), Hotkey (Hotkey - Normal)
+// Abilities: A0WD (Water 2), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -113679,7 +113102,7 @@ STRING 17879
 }
 
 STRING 17880
-// Abilities: A0WI (Heal Beam), Researchhotkey (Hotkey - Learn)
+// Abilities: A0WD (Water 2), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -114096,60 +113519,6 @@ STRING 17942
 Q
 }
 
-STRING 17943
-{
-[|cffffcc00Upgrade|r] One Winged Angel
-Sephiroth has unlocked his ultimate combat form.
-}
-
-STRING 17944
-{
-[|cffffcc00Upgrade|r] One For All
-All Might can now tap into the full potential of One For All, greatly increasing his power for a short period of time.
-}
-
-STRING 17945
-{
-[|cffffcc00Upgrade|r] Energy Blades
-Zamasu can now convert his Ki into deadly energy blades, exchanging -0.5x Int for +0.5x Agi.
-}
-
-STRING 17946
-{
-[|cffffcc00Talent|r] Blast-o-Matic
-King K Rool has finished constructing the deadly Blast-o-Matic.
-}
-
-STRING 17947
-{
-[|cffffcc00Talent|r] King's Throne
-King K Rool has finally found a throne large enough for him to sit on.
-}
-
-STRING 17948
-{
-[|cffffcc00Talent|r] God Kamehameha
-Goku can now infuse his kamehameha's with godly energy, allowing them to deal even greater damage.
-}
-
-STRING 17949
-{
-[|cffffcc00Talent|r] Super Dragon Fist
-Goku's dragon fist now deals more damage while travelling faster and further.
-}
-
-STRING 17950
-{
-[|cffffcc00Talent|r] Ultra Volleyball
-Gotenks can now trap his opponents inside multiple layers of galactic donuts.
-}
-
-STRING 17951
-{
-[|cffffcc00Talent|r] Super Ghost Kamikaze x10
-Gotenks can now spawn twice the number of Kamikaze Ghosts.
-}
-
 STRING 17952
 // Abilities: A0WC (Water), Tip (Tooltip - Normal)
 {
@@ -114169,7 +113538,7 @@ STRING 17954
 }
 
 STRING 17955
-// Abilities: A0WI (Heal Beam), Hotkey (Hotkey - Normal)
+// Abilities: A0WI (Heal Beam), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -114195,7 +113564,7 @@ STRING 17958
 }
 
 STRING 17959
-// Abilities: A0WM (Lightning 3), Hotkey (Hotkey - Normal)
+// Abilities: A0WI (Heal Beam), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -114257,7 +113626,7 @@ STRING 17968
 }
 
 STRING 17969
-// Abilities: A0WM (Lightning 3), Researchhotkey (Hotkey - Learn)
+// Abilities: A0WM (Lightning 3), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -114337,7 +113706,7 @@ Ice 2
 }
 
 STRING 17982
-// Abilities: A0WO (Fire 2), Researchhotkey (Hotkey - Learn)
+// Abilities: A0WM (Lightning 3), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -114747,7 +114116,7 @@ STRING 18044
 }
 
 STRING 18045
-// Abilities: A0WP (Ice 2), Hotkey (Hotkey - Normal)
+// Abilities: A0WO (Fire 2), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -114773,7 +114142,7 @@ Frog throws a ball of water at the target area that explodes at its destination,
 }
 
 STRING 18049
-// Abilities: A0WP (Ice 2), Researchhotkey (Hotkey - Learn)
+// Abilities: A0WP (Ice 2), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -115342,7 +114711,6 @@ A strong PvP fighter due to his extremely high mobility, burst damage, and innat
 |cff00FF00II|r|cff383838III |r|cffFFFF00Saga|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 18139
@@ -115659,7 +115027,7 @@ STRING 18175
 }
 
 STRING 18176
-// Abilities: A0WQ (Water 2), Researchhotkey (Hotkey - Learn)
+// Abilities: A0WP (Ice 2), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -115917,13 +115285,13 @@ R
 }
 
 STRING 18217
-// Abilities: A0WT (Magic Barrier), Hotkey (Hotkey - Normal)
+// Abilities: A0WQ (Water 2), Researchhotkey (Hotkey - Learn)
 {
 E
 }
 
 STRING 18218
-// Abilities: A0WT (Magic Barrier), Unhotkey (Hotkey - Turn Off)
+// Abilities: A0WT (Magic Barrier), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -116018,7 +115386,6 @@ A difficult to play hero with many high utility spells that give him an answer t
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 18233
@@ -116160,7 +115527,7 @@ Magus creates a barrier around the targeted ally, increasing its armor by 20 for
 }
 
 STRING 18256
-// Abilities: A0WT (Magic Barrier), Researchhotkey (Hotkey - Learn)
+// Abilities: A0WT (Magic Barrier), Unhotkey (Hotkey - Turn Off)
 {
 E
 }
@@ -116177,7 +115544,6 @@ A low-damage support hero with few offensive options but comes with multiple hea
 |cff00FF00II|r|cff383838III |r|cffFFFF00Saga|r
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 18258
@@ -116658,24 +116024,6 @@ STRING 18326
 [|cffffff00S|r] Choose Ayla
 }
 
-STRING 18327
-{
-Type "r" to revert.
-Transformations:
-[lvl 20]  1.10x "fp"
-[lvl 30]  1.30x "fp"
-[lvl 50]  1.50x "fp"
-[lvl 80]  1.80x "fp"
-[lvl 120] 2.00x "fp"
-[lvl 150] 2.10x "fp"
-[lvl 200] [|cff00ffffUltimate Choice|r]
-(Requires removed Macho Brace)
-"|cff00ff00mega|r" - Mega Lucario
-"|cffffff00giga|r" - Gigantamax Lucario
-
-|cff00ffffAura|r: Increased ms when on low life.
-}
-
 STRING 18328
 // Units: H0A5 (Ioka Chief), Tip (Tooltip - Basic)
 {
@@ -116802,7 +116150,6 @@ A very tanky hero that fights best on the front lines with his high impact nukes
 |cff00FF00IIIII|r|cff383838 |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 18348
@@ -116818,7 +116165,7 @@ STRING 18349
 }
 
 STRING 18350
-// Abilities: A0X1 (Fire 2), Hotkey (Hotkey - Normal)
+// Abilities: A0WT (Magic Barrier), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -116844,7 +116191,7 @@ Fire 2
 }
 
 STRING 18354
-// Abilities: A0X1 (Fire 2), Researchhotkey (Hotkey - Learn)
+// Abilities: A0X1 (Fire 2), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -116996,7 +116343,7 @@ STRING 18375
 }
 
 STRING 18376
-// Abilities: A0X2 (Fire), Hotkey (Hotkey - Normal)
+// Abilities: A0X1 (Fire 2), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -117022,7 +116369,7 @@ Fire
 }
 
 STRING 18380
-// Abilities: A0X2 (Fire), Researchhotkey (Hotkey - Learn)
+// Abilities: A0X2 (Fire), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -117687,34 +117034,6 @@ STRING 18479
 Q
 }
 
-STRING 18480
-{
-Type "r" to revert.
-Transformations:
-Int multiplier permanently increased by 20%
-[lvl 20]  1.25x "fp"
-[lvl 35]  1.50x "fp"
-[lvl 85]  2.00x "fp"
-[lvl 125] 2.25x "fp"
-[lvl 150] 2.50x "fp"
-[lvl 200] [|cff00ffffWeapon Choice|r]
-"|cff808080wondershot|r" (-50% attack dmg, 10% chance to crit for 10x damage)
-"|cffff2020turboshot|r" (Increased attack rate)
-[lvl 200] [Unlocks Son of Sun Quest] - NYI
-}
-
-STRING 18481
-{
-[|cffffcc00Talent|r] Wondershot
--50% attack damage. 10% chance to crit for 10x damage.
-}
-
-STRING 18482
-{
-[|cffffcc00Talent|r] Turboshot
-Attack rate greatly increased.
-}
-
 STRING 18483
 // Abilities: A0X6 (Lucca Crit Passive), Name (Name)
 {
@@ -117761,18 +117080,6 @@ STRING 18490
 // Abilities: A0XS (Book Lucca Passives), Name (Name)
 {
 Book Lucca Passives
-}
-
-STRING 18491
-{
-[|cffffcc00Upgrade|r] Fire 2
-Lucca's Fire has been upgraded to Fire 2, a larger, more damaging version.
-}
-
-STRING 18492
-{
-[|cffffcc00Upgrade|r] Napalm
-Lucca's Napalm has been upgraded to Mega Bomb, a larger, more damaging version.
 }
 
 STRING 18493
@@ -117935,7 +117242,6 @@ A well-rounded hero who has strong offensive and defensive capabilities, while b
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 18519
@@ -118199,7 +117505,7 @@ STRING 18556
 }
 
 STRING 18557
-// Abilities: A0XC (Ice), Hotkey (Hotkey - Normal)
+// Abilities: A0X2 (Fire), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -118225,7 +117531,7 @@ Ice
 }
 
 STRING 18561
-// Abilities: A0XC (Ice), Researchhotkey (Hotkey - Learn)
+// Abilities: A0XC (Ice), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -118389,7 +117695,7 @@ STRING 18584
 }
 
 STRING 18585
-// Abilities: A0XD (Ice 2), Hotkey (Hotkey - Normal)
+// Abilities: A0XC (Ice), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -118415,7 +117721,7 @@ Ice 2
 }
 
 STRING 18589
-// Abilities: A0XD (Ice 2), Researchhotkey (Hotkey - Learn)
+// Abilities: A0XD (Ice 2), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -118752,7 +118058,6 @@ A close range fighter with high mobility and large AOE nukes. Can quickly clear 
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 18640
@@ -118767,7 +118072,6 @@ A strong melee hero that struggles in the early game but eventually unlocks powe
 |cff00FF00III|r|cff383838II |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 18641
@@ -118902,7 +118206,6 @@ A heavy firepower hero that can rain destruction from afar with long range nukes
 |cff00FF00II|r|cff383838III |r|cffFFFF00Saga|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 18662
@@ -118917,7 +118220,6 @@ A powerful close-range combatant with high burst mobility. Has the unique abilit
 |cff00FF00IIII|r|cff383838I |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 18663
@@ -119323,7 +118625,7 @@ Marle casts a delayed heal at the target location that activates after 2 seconds
 }
 
 STRING 18714
-// Abilities: A0XI (Tail Spin), Hotkey (Hotkey - Normal)
+// Abilities: A0XD (Ice 2), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -119341,7 +118643,7 @@ Tail Spin
 }
 
 STRING 18718
-// Abilities: A0XI (Tail Spin), Researchhotkey (Hotkey - Learn)
+// Abilities: A0XI (Tail Spin), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -119817,43 +119119,6 @@ STRING 18806
 Q
 }
 
-STRING 18807
-{
-Type "r" to revert.
-Transformations:
-[lvl 20]  1.25x "fp"
-[lvl 35]  1.50x "fp"
-[lvl 85]  2.00x "fp" 
-[lvl 125] 2.25x "fp"
-[lvl 150] 2.50x "fp"
-[lvl 200] 2.6x "fp"
-[lvl 250] Unlocks Stone Fist - +40% attack DMG
-[lvl 300] Unlocks Bronze Fist - 3x critical strike damage
-}
-
-STRING 18808
-{
-[|cffffcc00Unlock|r] Magus' Amulet
-Magus can now use his amulet's powers to protect himself from debuffs temporarily.
-}
-
-STRING 18809
-{
-[|cffffcc00Unlock|r] Stone Fist
-Ayla's auto attacks deal +40% base damage.
-}
-
-STRING 18810
-{
-Type "r" to revert.
-Transformations:
-[lvl 20]  1.25x "fp"
-[lvl 35]  1.50x "fp"
-[lvl 85]  2.00x "fp" [Upgrades Ice at max level]
-[lvl 125] 2.25x "fp"
-[lvl 150] 2.50x "fp"
-}
-
 STRING 18811
 // Abilities: A0XM (Book Ayla Passives), Name (Name)
 {
@@ -119896,12 +119161,6 @@ STRING 18817
 Ayla's Fists
 }
 
-STRING 18818
-{
-[|cffffcc00Unlock|r] Bronze Fist
-Ayla's auto attacks have a 30% chance to critical hit for 3x.
-}
-
 STRING 18819
 // Abilities: A0NY (Rakshasa's Claw), Ubertip (Tooltip - Normal - Extended)
 {
@@ -119909,12 +119168,6 @@ Janemba slices his opponent with a powerful Ki Slash wave infused with the power
 |cffffff00Auto-attacks trigger this ability with a 1s CD and reduce the armor of the target by 3
 |cff00ff00Damage: Agi * Lvl * ?|r
 |cff00ffffCooldown: <A0NY,Cool1> seconds|r
-}
-
-STRING 18820
-{
-[|cffffcc00Upgrade|r] Ice 2
-Marle's ice has been upgraded to Ice 2, an ability that rains ice blocks down on the target area, slowing and dealing damage over time.
 }
 
 STRING 18821
@@ -120613,7 +119866,7 @@ STRING 18917
 }
 
 STRING 18918
-// Abilities: A0XW (Extreme Speed), Hotkey (Hotkey - Normal)
+// Abilities: A0XI (Tail Spin), Researchhotkey (Hotkey - Learn)
 {
 E
 }
@@ -120823,7 +120076,7 @@ Duration: <A0XW,Dur10>
 }
 
 STRING 18943
-// Abilities: A0XW (Extreme Speed), Researchhotkey (Hotkey - Learn)
+// Abilities: A0XW (Extreme Speed), Hotkey (Hotkey - Normal)
 {
 E
 }
@@ -121847,7 +121100,6 @@ A powerful PvP hero that gets stronger by defeating his enemies.
 |cff00FF00I|r|cff383838IIII |r|cffFFFF00Saga|r
 |cff00FF00II|r|cff383838III |r|cffFFFF00Farming|r
 |cff00FF00III|r|cff383838II |r|cffFFFF00Difficulty|r
-
 }
 
 STRING 19094
@@ -122536,22 +121788,12 @@ STRING 19182
 With this technique the user makes his body grow larger and increases his strength.|n|cff00FF00(Strength Multiplier: +0.3-0.6x)|r|n|cffFF0000(Mana Drain: 1.5% per second)|r|n|cff00FFFF(Cooldown: 20s after revert)|r
 }
 
-STRING 19183
-{
-|cffff22ffNightmare Mode|r disabled. Sagas are |cff00ff00easier|r.
-}
-
 STRING 19184
 // Abilities: A0WF (Frog Squash), Ubertip (Tooltip - Normal - Extended)
 {
 Frog summons a giant frog that jumps 3 times on top of his enemies. The third jump deals double damage. Deals up to 100% bonus damage based on the amount of HP Frog is missing.
 |cff00FF00Damage: Str * lvl * ?|r
 |cff00FFFFCooldown: <A0WF,Cool8,.>s
-}
-
-STRING 19185
-{
-|cffff22ffNightmare Mode|r enabled. Sagas are |cffff1010harder|r.
 }
 
 STRING 19186

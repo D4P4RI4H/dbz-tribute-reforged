@@ -1,4 +1,5 @@
 import { AOEKnockback } from "CustomAbility/AbilityComponent/AOEKnockback";
+import { AbilityNames } from "CustomAbility/AbilityNames";
 
 export const AOEKnockbackComponents = [
   // spirit bomb stronger knockback
@@ -1150,6 +1151,52 @@ export const AOEKnockbackComponents = [
       speed: 15, 
       angle: 180, 
       aoe: 700,
+    },
+    knockbackSource: AOEKnockback.SOURCE_UNIT,
+    useLastCastPoint: false,
+    reflectBeams: false,
+    affectAllies: false,
+  },
+  // flashfreeze heatwave
+  {
+    name: "knockback flashfreeze heatwave",
+    repeatInterval: 1, 
+    startTick: 0,
+    endTick: 20,
+    knockbackData: {
+      speed: 30, 
+      angle: 0, 
+      aoe: 500,
+    },
+    knockbackSource: AOEKnockback.SOURCE_UNIT,
+    useLastCastPoint: false,
+    reflectBeams: true,
+    affectAllies: false,
+  },
+  {
+    name: "knockback glacier",
+    repeatInterval: 1, 
+    startTick: 0,
+    endTick: -1,
+    knockbackData: {
+      speed: 6, 
+      angle: 180, 
+      aoe: 300,
+    },
+    knockbackSource: AOEKnockback.SOURCE_UNIT,
+    useLastCastPoint: false,
+    reflectBeams: false,
+    affectAllies: false,
+  },
+  {
+    name: "knockback wall of flames",
+    repeatInterval: 1, 
+    startTick: 0,
+    endTick: -1,
+    knockbackData: {
+      speed: 6, 
+      angle: 180, 
+      aoe: 350,
     },
     knockbackSource: AOEKnockback.SOURCE_UNIT,
     useLastCastPoint: false,

@@ -1,6 +1,7 @@
 import { BeamUnitSkin } from "CustomAbility/BeamUnitSkinConfig";
 import { BeamComponent } from "CustomAbility/AbilityComponent/BeamComponent";
 import { BASE_DMG } from "Common/Constants";
+import { AbilityNames } from "CustomAbility/AbilityNames";
 
 export const BeamComponents = [
   // copy from here
@@ -6846,6 +6847,79 @@ export const BeamComponents = [
       { name: "damage beam tyranno flame dps" },
       { name: "knockback kame" },
       { name: "sfx beam tyranno flame" },
+    ],
+  },
+  // -------------------------------------------
+  { 
+    name: "beam glacier",
+    repeatInterval: 1,
+    startTick: 0,
+    endTick: -1,
+    beamHpMult: BASE_DMG.KAME_DPS,
+    beamHpAttribute: bj_HEROSTAT_INT,
+    speed: BeamComponent.BEAM_SPEED_MEDIUM_SLOW,
+    aoe: 300,
+    clashingDelayTicks: 1,
+    maxDelayTicks: 6,
+    durationIncPerDelay: 12,
+    turnSpeed: 3,
+    heightVariation: {
+      start: 120,
+      finish: 120,
+      scaling: 0,
+    },
+    isTracking: false,
+    isFixedAngle: false,
+    canClashWithHero: false,
+    useLastCastPoint: true,
+    explodeOnDeath: true,
+    explodeAtCastPoint: false,
+    explodeOnContact: false,
+    beamUnitSpawn: BeamComponent.BEAM_UNIT_SPAWN_SOURCE,
+    beamUnitType: "hpea",
+    beamUnitSkin: BeamUnitSkin.DEFAULT,
+    components: [
+      { name: "damage kame dps" },
+      { name: "damage kame explosion" },
+      { name: "knockback kame" },
+      { name: "sfx beam kamehameha" },
+      { name: "debuff slow shouto glacier" },
+    ],
+  },
+  // -------------------------------------------
+  { 
+    name: "beam wall of flames",
+    repeatInterval: 1,
+    startTick: 0,
+    endTick: -1,
+    beamHpMult: BASE_DMG.KAME_DPS,
+    beamHpAttribute: bj_HEROSTAT_INT,
+    speed: BeamComponent.BEAM_SPEED_MEDIUM_SLOW,
+    aoe: 350,
+    clashingDelayTicks: 1,
+    maxDelayTicks: 6,
+    durationIncPerDelay: 12,
+    turnSpeed: 3,
+    heightVariation: {
+      start: 140,
+      finish: 140,
+      scaling: 0,
+    },
+    isTracking: false,
+    isFixedAngle: false,
+    canClashWithHero: false,
+    useLastCastPoint: true,
+    explodeOnDeath: true,
+    explodeAtCastPoint: false,
+    explodeOnContact: false,
+    beamUnitSpawn: BeamComponent.BEAM_UNIT_SPAWN_SOURCE,
+    beamUnitType: "hpea",
+    beamUnitSkin: BeamUnitSkin.DEFAULT,
+    components: [
+      { name: "damage kame dps" },
+      { name: "damage kame explosion" },
+      { name: "knockback kame" },
+      { name: "sfx beam kamehameha" },
     ],
   },
 ];

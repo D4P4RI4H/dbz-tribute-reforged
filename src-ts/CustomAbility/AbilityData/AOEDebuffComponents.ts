@@ -814,4 +814,49 @@ export const AOEDebuffComponents = [
     requireBuff: false,
     buffId: 0,
   },
+  // Shouto Todoroki Debuffs
+  {
+    name: "debuff slow shouto glacier",
+    repeatInterval: 1,
+    startTick: 0,
+    endTick: -1,
+    debuffSource: AOEDebuff.SOURCE_UNIT,
+    abilityId: DebuffAbilities.EIS_FROSTBITE, //
+    orderId: OrderIds.SLOW,
+    aoe: 300,
+    keepCasting: false, 
+    onlyAffectHeroes: false,
+    requireBuff: false,
+    buffId: 0,
+  },
+  
+  {
+    name: "debuff root shouto flashfreeze heatwave",
+    repeatInterval: 1,
+    startTick: 0,
+    endTick: -1,
+    debuffSource: AOEDebuff.SOURCE_UNIT,
+    abilityId: DebuffAbilities.EIS_FROSTBITE, //
+    orderId: OrderIds.ENTANGLING_ROOTS,
+    aoe: 600,
+    keepCasting: false, 
+    onlyAffectHeroes: false,
+    requireBuff: false,
+    buffId: 0,
+  },
+
+  {
+    name: "debuff dot shouto wall of flames",
+    repeatInterval: 1,
+    startTick: 0,
+    endTick: -1,
+    debuffSource: AOEDebuff.SOURCE_UNIT,
+    abilityId: DebuffAbilities.BLEED_ZAMASU, //
+    orderId: 0,
+    aoe: 300,
+    keepCasting: false, 
+    onlyAffectHeroes: false,
+    requireBuff: false,
+    buffId: 0,
+  },
 ]

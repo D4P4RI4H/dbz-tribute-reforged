@@ -10523,35 +10523,194 @@ export const AbilitiesList = [
       { name: "beam big bang kamehameha" },
     ],
   },
+
   // -------------------------------------------
   {
-    name: "Test Ability",
+    name: AbilityNames.ShoutoTodoroki.GLACIER, // Shouto's Q
     currentCd: 0,
-    maxCd: 1,
-    costType: "HP",
-    costAmount: 25,
-    duration: 150,
+    maxCd: 18,
+    costType: "MP",
+    costAmount: 0,
+    duration: 40,
     updateRate: 0.03,
     castTime: 0.03,
     canMultiCast: true,
     waitsForNextClick: false,
     animation: "spell",
     icon: {
-      enabled: "Replaceabletextures\\CommandButtons\\BTNAcolyte.blp",
-      disabled: "Replaceabletextures\\CommandButtonsDisabled\\DISBTNAcolyte.blp",
+      enabled: "", //
+      disabled: "", //
     },
     tooltip: {
-      title: "Test Ability (R)",
-      body: 
-        "Ultra Instinct (dodging randomly + blocking 10*INT). 25hp, cd7"
+      title: AbilityNames.ShoutoTodoroki.GLACIER + " (Q)",
+      body:
+      "Todoroki shoots out a wall of ice!" + 
+      "|nDeals " +  //
+      "Heating Up: about -20% damage" + 
+      "Cooling Off: Reduces targets movement speed by 15%" + 
+      "|nCost: 18 Ice Factor |nCD: 18",
     },
     components: [
-      // { name: "sfx blue wind aura" },
-      // { name: "beam spirit bomb" },
-      { name: "dodge ultra instinct" },
-      { name: "sfx ultra instinct" },
-      { name: "block ultra instinct" },
-      // { name: "beam homing kamehameha" },
+      { name: "beam glacier" },
+      { name: "sfx glacier" },
     ],
   },
+
+    // -------------------------------------------
+    {
+      name: AbilityNames.ShoutoTodoroki.WALL_OF_FLAMES, // Shouto's W
+      currentCd: 0,
+      maxCd: 20,
+      costType: "MP",
+      costAmount: 0,
+      duration: 40,
+      updateRate: 0.03,
+      castTime: 0.1,
+      canMultiCast: true,
+      waitsForNextClick: false,
+      animation: "spell",
+      icon: {
+        enabled: "", //
+        disabled: "", //
+      },
+      tooltip: {
+        title: AbilityNames.ShoutoTodoroki.WALL_OF_FLAMES + " (W)",
+        body: 
+        "Todoroki shoots out a Wave of Fire!" + 
+        "|nDeals " + 
+        "Heating Up: Applies a DoT on all targets" + 
+        "Cooling Off: about -20% damage" + 
+        "|nCost: 20 Flame Factor |nCD: 20",
+      },
+      components: [
+        { name: "beam flamethrower" },
+        { name: "debuff dot shouto wall of flames" },
+      ],
+    },
+
+    // -------------------------------------------
+    {
+      name: AbilityNames.ShoutoTodoroki.ICE_PATH, // Shouto's E
+      currentCd: 0,
+      maxCd: 15,
+      costType: "MP",
+      costAmount: 0,
+      duration: 30,
+      updateRate: 0.03,
+      castTime: 0.0,
+      canMultiCast: true,
+      waitsForNextClick: false,
+      animation: "spell",
+      icon: {
+        enabled: "", //
+        disabled: "", //
+      },
+      tooltip: {
+        title: AbilityNames.ShoutoTodoroki.ICE_PATH + " (E)",
+        body: 
+        "Todoroki creates ice to slide and travel along" + 
+        "|n+60 MS and create patches of ice under your every step" + 
+        "(Patches dissapate after 4 seconds)" + 
+        "|nCost: 15 Ice Factor per Second |nCD: Toggle",
+      },
+      components: [
+        { name: "dash ground forward ice path" },
+        { name: "sfx zanzo dash" },
+      ],
+    },
+
+    // -------------------------------------------
+    {
+      name: AbilityNames.ShoutoTodoroki.FLASHFREEZE_HEATWAVE, // Shouto's R
+      currentCd: 0,
+      maxCd: 30,
+      costType: "MP",
+      costAmount: 0,
+      duration: 50,
+      updateRate: 0.03,
+      castTime: 0.03,
+      canMultiCast: true,
+      waitsForNextClick: false,
+      animation: "spell",
+      icon: {
+        enabled: "", //
+        disabled: "", //
+      },
+      tooltip: {
+        title: AbilityNames.ShoutoTodoroki.FLASHFREEZE_HEATWAVE + " (R)",
+        body: 
+        "Todoroki freezes the ground around him and" +
+        "starts to channel a massive fire blast." + 
+        "Everyone caught by the ice will be rooted, and" + 
+        "knocked back, away from Todoroki, by the explosion." + 
+        "|nDeals " + 
+        "Heating Up: Increases the knockback distance." + 
+        "Cooling Off: Debuffs targets with a -5% MS which decays after 5 seconds." + 
+        "|nCost: -30 - 30 Factor (Random) |nCD: 20",
+      },
+      components: [   
+      { name: "debuff root shouto flashfreeze heatwave" },
+      { name: "damage flashfreeze heatwave explosion" },
+      { name: "knockback flashfreeze heatwave" },
+      ],
+    },
+
+    // -------------------------------------------
+    {
+      name: AbilityNames.ShoutoTodoroki.HEATING_UP_COOLING_OFF, // Shouto D
+      currentCd: 0,
+      maxCd: 1,
+      costType: "MP",
+      costAmount: 0,
+      duration: -1,
+      updateRate: 0,
+      castTime: 0,
+      canMultiCast: true,
+      waitsForNextClick: false,
+      animation: "spell",
+      icon: {
+        enabled: "", //
+        disabled: "", //
+      },
+      tooltip: {
+        title: AbilityNames.ShoutoTodoroki.HEATING_UP_COOLING_OFF + " (D)",
+        body: 
+          "Ultra Instinct (dodging randomly + blocking 10*INT). 25hp, cd7"
+      },
+      components: [
+        { name: "spell amp shouto fire" },
+        { name: "spell amp shouto ice" },
+      ],
+    },
+    // -------------------------------------------
+    {
+      name: "Test Ability",
+      currentCd: 0,
+      maxCd: 1,
+      costType: "HP",
+      costAmount: 25,
+      duration: 150,
+      updateRate: 0.03,
+      castTime: 0.03,
+      canMultiCast: true,
+      waitsForNextClick: false,
+      animation: "spell",
+      icon: {
+        enabled: "Replaceabletextures\\CommandButtons\\BTNAcolyte.blp",
+        disabled: "Replaceabletextures\\CommandButtonsDisabled\\DISBTNAcolyte.blp",
+      },
+      tooltip: {
+        title: "Test Ability (R)",
+        body: 
+          "Ultra Instinct (dodging randomly + blocking 10*INT). 25hp, cd7"
+      },
+      components: [
+        // { name: "sfx blue wind aura" },
+        // { name: "beam spirit bomb" },
+        { name: "dodge ultra instinct" },
+        { name: "sfx ultra instinct" },
+        { name: "block ultra instinct" },
+        // { name: "beam homing kamehameha" },
+      ],
+    },
 ];

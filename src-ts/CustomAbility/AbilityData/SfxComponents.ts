@@ -25327,6 +25327,64 @@ export const SfxComponents = [
       // },
     ],
   },
+
+  // Shouto Todoroki Glacier Q
+  { 
+    name: "sfx glacier", 
+    repeatInterval: 1,
+    startTick: 0,
+    endTick: -1,
+    sfxSource: SfxComponent.SOURCE_UNIT,
+    sfxYawType: SfxComponent.YAW_SOURCE_FACING,
+    useLastCastPoint: false,
+    useHeight: true,
+    sfxList: [
+      {
+        model: "SpiritBomb.mdl", //
+        repeatInterval: 0,
+        group: 0,
+        scale: 1.1,
+        endScale: -1,
+        startHeight: 50,
+        endHeight: 50,
+        extraDirectionalYaw: 0,
+        extraPitch: 0,
+        extraRoll: 0,
+        animSpeed: 1.0,
+        color: {
+          x: 174,
+          y: 228,
+          z: 237,
+        },
+        updateCoordsOnly: false,
+        persistent: false,
+        attachmentPoint: "",
+      },
+    ],
+    attachedSfxList: [
+      {
+        model: "WindCircleFaster.mdl",
+        repeatInterval: 0,
+        group: 0,
+        scale: 1.5,
+        endScale: -1,
+        startHeight: 0,
+        endHeight: 0,
+        extraDirectionalYaw: 0,
+        extraPitch: 0,
+        extraRoll: 0,
+        animSpeed: 1.0,
+        color: {
+          x: 255,
+          y: 255,
+          z: 255,
+        },
+        updateCoordsOnly: false,
+        persistent: false,
+        attachmentPoint: "",
+      },
+    ],
+  },
   // --------------------------------------------
   { 
     name: "sfx ultra instinct", 

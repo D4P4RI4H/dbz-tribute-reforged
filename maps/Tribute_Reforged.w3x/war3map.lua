@@ -251,6 +251,7 @@ udg_MarleAllureGroup = nil
 udg_LucarioIornDefenseUnitGroup = nil
 udg_EisAbsoluteZeroUnitGroup = nil
 udg_IsNightmareMode = false
+udg_isHeatingUp = false
 gg_rct_HeavenZone = nil
 gg_rct_HellZone = nil
 gg_rct_HeroInit = nil
@@ -898,6 +899,10 @@ gg_trg_Upgrade_Item_Use = nil
 gg_trg_Battle_Armor_Limit_Pickup = nil
 gg_unit_H08K_0422 = nil
 gg_unit_n01H_1159 = nil
+gg_trg_HeatingUpCoolingOff_D = nil
+gg_trg_InitShoutoTodorokiGauge = nil
+gg_trg_InitCustomUI = nil
+gg_trg_HideUIFrame = nil
 function InitGlobals()
     local i = 0
     udg_TempInt = 0
@@ -1246,8 +1251,418 @@ function InitGlobals()
     udg_LucarioIornDefenseUnitGroup = CreateGroup()
     udg_EisAbsoluteZeroUnitGroup = CreateGroup()
     udg_IsNightmareMode = false
+    udg_isHeatingUp = false
 end
 
+-- actionbar	---@type framehandle	
+
+---@return nothing
+function SetupUI()
+	local XPos
+	local i
+	local endIndex
+	local framehandle fh = nil
+	local framehandle fhinv = nil
+	local framehandle inventoryBackdrop = nil
+	local framehandle inventory = nil
+	local framehandle minimapBorder = nil
+	local framehandle unitStatus = nil
+	local framehandle unitStatusLabel = nil
+	local framehandle heroLevelBar = nil
+	local framehandle simpleNameValue = nil
+	local framehandle simpleClassValue = nil
+	local framehandle damageIcon = nil
+	local framehandle damageText = nil
+	local framehandle armorIcon = nil
+	local framehandle armorText = nil
+	local framehandle statsBackdrop = nil
+	local framehandle statsBackdrop2 = nil
+	local framehandle infolevelpanel = nil
+	local framehandle goldText = nil
+	local framehandle lumberText = nil
+	local framehandle foodText = nil
+	local framehandle resourceBar = nil
+	local framehandle uppserButtonBarFrame = nil
+	local framehandle questButton = nil
+	local framehandle menuButton = nil
+	local framehandle alliesButton = nil
+	local framehandle chatButton = nil
+	local framehandle bottomCenterUI = nil
+	local framehandle tempCenterUI = nil
+	
+	
+	BlzHideOriginFrames(true)	-- Hides full top bar
+	BlzEnableUIAutoPosition(false)
+	BlzFrameSetVisible(BlzGetOriginFrame(ORIGIN_FRAME_PORTRAIT, 0), false)	--  Hides Portait frame
+	BlzFrameSetVisible(BlzGetFrameByName("ConsoleUIBackdrop", 0), false)	--  Hide UI
+	BlzFrameSetAlpha(BlzGetFrameByName("SimpleInventoryCover", 0), 0)	--  sets the opacity of the blank inventory to 0 when no unit is selected.
+	
+	--  Move Buttons
+	XPos = 0
+	--  Remove Hero Frames
+	i = 0
+	endIndex = 6
+	while true do
+		if i > endIndex then break end
+		fh = BlzGetOriginFrame(ORIGIN_FRAME_HERO_BUTTON, 0)
+		BlzFrameSetVisible(BlzGetOriginFrame(ORIGIN_FRAME_HERO_BUTTON, i), false)
+		BlzFrameClearAllPoints(fh)
+		BlzFrameSetAbsPoint(fh, FRAMEPOINT_CENTER, 0.4, -0.18)
+		BlzFrameSetSize(fh, 0.00001, 0.00001)
+		
+		i = i + 1
+	end
+	--  bottom row
+	i = 8
+	endIndex = 11
+	while true do
+		if i > endIndex then break end
+		fh = BlzGetFrameByName("CommandButton_" .. I2S(i), 0)
+		BlzFrameClearAllPoints(fh)
+		BlzFrameSetAbsPoint(fh, FRAMEPOINT_CENTER, 0.25 + XPos, 0.086)
+		BlzFrameSetSize(fh, 0.035, 0.035)
+		XPos = XPos + 0.033
+		
+		i = i + 1
+	end
+	--  middle row
+	i = 6
+	endIndex = 7
+	while true do
+		if i > endIndex then break end
+		fh = BlzGetFrameByName("CommandButton_" .. I2S(i), 0)
+		BlzFrameClearAllPoints(fh)
+		BlzFrameSetAbsPoint(fh, FRAMEPOINT_CENTER, 0.25 + XPos, 0.086)
+		BlzFrameSetSize(fh, 0.035, 0.035)
+		XPos = XPos + 0.033
+		
+		i = i + 1
+	end
+	
+	XPos = 0
+	--  middle row
+	i = 4
+	endIndex = 5
+	while true do
+		if i > endIndex then break end
+		fh = BlzGetFrameByName("CommandButton_" .. I2S(i), 0)
+		BlzFrameClearAllPoints(fh)
+		BlzFrameSetAbsPoint(fh, FRAMEPOINT_CENTER, 0.25 + XPos, 0.047)
+		BlzFrameSetSize(fh, 0.035, 0.035)
+		XPos = XPos + 0.033
+		
+		i = i + 1
+	end
+	--  top row
+	i = 0
+	endIndex = 3
+	while true do
+		if i > endIndex then break end
+		fh = BlzGetFrameByName("CommandButton_" .. I2S(i), 0)
+		BlzFrameClearAllPoints(fh)
+		BlzFrameSetAbsPoint(fh, FRAMEPOINT_CENTER, 0.25 + XPos, 0.047)
+		BlzFrameSetSize(fh, 0.035, 0.035)
+		XPos = XPos + 0.033
+		
+		i = i + 1
+	end
+	--  Inventory
+	i = 0
+	endIndex = 5
+	while true do
+		if i > endIndex then break end
+		fhinv[i] = BlzGetFrameByName("InventoryButton_" .. I2S(i), 0)
+		BlzFrameClearAllPoints(fhinv[i])
+		
+		i = i + 1
+	end
+	
+	BlzFrameClearAllPoints(BlzGetFrameByName("InventoryText", 0))
+	BlzFrameSetAbsPoint(BlzGetFrameByName("InventoryText", 0), FRAMEPOINT_CENTER, 0.5075, 0.13)
+	BlzFrameSetAbsPoint(fhinv[0], FRAMEPOINT_CENTER, 0.49, 0.1)
+	BlzFrameSetAbsPoint(fhinv[1], FRAMEPOINT_CENTER, 0.527, 0.1)
+	BlzFrameSetAbsPoint(fhinv[2], FRAMEPOINT_CENTER, 0.49, 0.063)
+	BlzFrameSetAbsPoint(fhinv[3], FRAMEPOINT_CENTER, 0.527, 0.063)
+	BlzFrameSetAbsPoint(fhinv[4], FRAMEPOINT_CENTER, 0.49, 0.028)
+	BlzFrameSetAbsPoint(fhinv[5], FRAMEPOINT_CENTER, 0.527, 0.028)
+	
+	--  Show inventory button background
+	inventory = BlzFrameGetParent(BlzGetOriginFrame(ORIGIN_FRAME_ITEM_BUTTON, 0))
+	BlzLoadTOCFile("war3mapImported\\ItemSlot.toc")
+	BlzLoadTOCFile("war3mapImported\\MyStatusBar.toc")
+	
+	i = 0
+	endIndex = 5
+	while true do
+		if i > endIndex then break end
+		BlzCreateSimpleFrame("ItemSlotBackground", inventory, 0)
+		BlzFrameSetPoint(BlzGetFrameByName("ItemSlotBackground", 0), FRAMEPOINT_CENTER, BlzGetOriginFrame(ORIGIN_FRAME_ITEM_BUTTON, i), FRAMEPOINT_CENTER, 0, 0)
+		
+		i = i + 1
+	end
+	
+	--  Unit status Bar
+	unitStatus = BlzGetOriginFrame(ORIGIN_FRAME_UNIT_PANEL_BUFF_BAR, 0)
+	unitStatusLabel = BlzGetOriginFrame(ORIGIN_FRAME_UNIT_PANEL_BUFF_BAR_LABEL, 0)
+	BlzFrameClearAllPoints(unitStatus)
+	BlzFrameClearAllPoints(unitStatusLabel)
+	BlzFrameSetAbsPoint(unitStatus, FRAMEPOINT_BOTTOMRIGHT, 0.645, 0.115)
+	BlzFrameSetAbsPoint(unitStatusLabel, FRAMEPOINT_BOTTOMRIGHT, 0.585, 0.115)
+	
+	--  Hero level bar
+	-- set heroLevelBar = BlzGetFrameByName("SimpleHeroLevelBar", 0)
+	-- call BlzFrameClearAllPoints(heroLevelBar)
+	-- call BlzFrameSetAbsPoint(heroLevelBar, FRAMEPOINT_CENTER, 0.4, 0.006)
+	-- call BlzFrameSetSize(heroLevelBar, 0.4, 0.012)
+	
+	--  Damage and armor values    
+	i = 0
+	endIndex = 5
+	while true do
+		if i > endIndex then break end
+		infolevelpanel = BlzGetFrameByName("InfoPanelIconLabel", i)
+		BlzFrameClearAllPoints(infolevelpanel)
+		BlzFrameSetAbsPoint(infolevelpanel, FRAMEPOINT_BOTTOM, 0.4, -0.18)
+		
+		i = i + 1
+	end
+	
+	--  Hero Name
+	simpleNameValue = BlzGetFrameByName("SimpleNameValue", 0)
+	BlzFrameClearAllPoints(simpleNameValue)
+	BlzFrameSetAbsPoint(simpleNameValue, FRAMEPOINT_BOTTOM, 0.4, -0.18)
+	
+	--  Level and class
+	simpleClassValue = BlzGetFrameByName("SimpleClassValue", 0)
+	BlzFrameClearAllPoints(simpleClassValue)
+	BlzFrameSetAbsPoint(simpleClassValue, FRAMEPOINT_BOTTOM, 0.4, 0.004)
+	BlzFrameSetVisible(BlzGetOriginFrame(ORIGIN_FRAME_HERO_BAR, 0), true)	--  Show hero icon
+	BlzFrameSetVisible(BlzGetOriginFrame(ORIGIN_FRAME_MINIMAP, 0), true)	--  Show minimap
+	BlzFrameSetVisible(BlzGetOriginFrame(ORIGIN_FRAME_SYSTEM_BUTTON, 0), true)	--  Quests, Menu, Allies.
+	BlzFrameSetVisible(BlzGetFrameByName("UpperButtonBarFrame", 0), true)
+	BlzFrameSetVisible(BlzFrameGetParent(BlzGetFrameByName("SimpleInfoPanelUnitDetail", 0)), true)	--  Show unit info (inventory is a child of that)
+	
+	--  Move Top Bar Buttons
+	
+	bottomCenterUI = BlzGetFrameByName("BottomCenterUI", 0)
+	BlzFrameClearAllPoints(bottomCenterUI)
+	BlzFrameSetAbsPoint(bottomCenterUI, FRAMEPOINT_TOP, 0, 0)
+	
+	
+	uppserButtonBarFrame = BlzGetFrameByName("UpperButtonBarFrame", 0)
+	BlzFrameClearAllPoints(uppserButtonBarFrame)
+	BlzFrameSetAbsPoint(uppserButtonBarFrame, FRAMEPOINT_TOP, 0, 0)
+	questButton = BlzGetFrameByName("UpperButtonBarQuestsButton", 0)
+	BlzFrameClearAllPoints(questButton)
+	BlzFrameSetAbsPoint(questButton, FRAMEPOINT_CENTER, 0.2, 0.585)
+	menuButton = BlzGetFrameByName("UpperButtonBarMenuButton", 0)
+	BlzFrameClearAllPoints(menuButton)
+	BlzFrameSetAbsPoint(menuButton, FRAMEPOINT_CENTER, 0.3, 0.585)
+	alliesButton = BlzGetFrameByName("UpperButtonBarAlliesButton", 0)
+	BlzFrameClearAllPoints(alliesButton)
+	BlzFrameSetAbsPoint(alliesButton, FRAMEPOINT_CENTER, 0.5, 0.585)
+	chatButton = BlzGetFrameByName("UpperButtonBarChatButton", 0)
+	BlzFrameClearAllPoints(chatButton)
+	BlzFrameSetAbsPoint(chatButton, FRAMEPOINT_CENTER, 0.6, 0.585)
+	
+	--  Damage
+	damageIcon = BlzGetFrameByName("InfoPanelIconBackdrop", 0)
+	BlzFrameClearAllPoints(damageIcon)
+	BlzFrameSetAbsPoint(damageIcon, FRAMEPOINT_BOTTOM, 0.4, -0.18)
+	damageText = BlzGetFrameByName("InfoPanelIconLabel", 0)
+	BlzFrameClearAllPoints(damageText)
+	BlzFrameSetAbsPoint(damageText, FRAMEPOINT_BOTTOM, 0.4, -0.18)
+	--  Armor
+	armorIcon = BlzGetFrameByName("InfoPanelIconBackdrop", 2)
+	BlzFrameClearAllPoints(armorIcon)
+	BlzFrameSetAbsPoint(armorIcon, FRAMEPOINT_CENTER, 0.4, -0.18)
+	armorText = BlzGetFrameByName("InfoPanelIconLabel", 2)
+	BlzFrameClearAllPoints(armorText)
+	BlzFrameSetAbsPoint(armorText, FRAMEPOINT_CENTER, 0.4, -0.18)
+	
+	
+	--  Hero Stats
+	BlzFrameClearAllPoints(BlzGetFrameByName("InfoPanelIconHeroIcon", 6))
+	BlzFrameClearAllPoints(BlzGetFrameByName("InfoPanelIconHeroStrengthLabel", 6))
+	BlzFrameClearAllPoints(BlzGetFrameByName("InfoPanelIconHeroStrengthValue", 6))
+	BlzFrameClearAllPoints(BlzGetFrameByName("InfoPanelIconHeroAgilityLabel", 6))
+	BlzFrameClearAllPoints(BlzGetFrameByName("InfoPanelIconHeroAgilityValue", 6))
+	BlzFrameClearAllPoints(BlzGetFrameByName("InfoPanelIconHeroIntellectLabel", 6))
+	BlzFrameClearAllPoints(BlzGetFrameByName("InfoPanelIconHeroIntellectValue", 6))
+	BlzFrameClearAllPoints(BlzGetFrameByName("SimpleInfoPanelIconHeroText", 6))
+	BlzFrameClearAllPoints(BlzGetFrameByName("SimpleInfoPanelIconHero", 6))
+	BlzFrameSetAbsPoint(BlzGetFrameByName("InfoPanelIconHeroIcon", 6), FRAMEPOINT_CENTER, 0.4, -0.4)
+	BlzFrameSetAbsPoint(BlzGetFrameByName("InfoPanelIconHeroStrengthLabel", 6), FRAMEPOINT_BOTTOMRIGHT, 0.8, 0.1)
+	BlzFrameSetAbsPoint(BlzGetFrameByName("InfoPanelIconHeroStrengthValue", 6), FRAMEPOINT_BOTTOMRIGHT, 0.86, 0.1)
+	BlzFrameSetAbsPoint(BlzGetFrameByName("InfoPanelIconHeroAgilityLabel", 6), FRAMEPOINT_BOTTOMRIGHT, 0.8, 0.085)
+	BlzFrameSetAbsPoint(BlzGetFrameByName("InfoPanelIconHeroAgilityValue", 6), FRAMEPOINT_BOTTOMRIGHT, 0.86, 0.085)
+	BlzFrameSetAbsPoint(BlzGetFrameByName("InfoPanelIconHeroIntellectLabel", 6), FRAMEPOINT_BOTTOMRIGHT, 0.8, 0.07)
+	BlzFrameSetAbsPoint(BlzGetFrameByName("InfoPanelIconHeroIntellectValue", 6), FRAMEPOINT_BOTTOMRIGHT, 0.86, 0.07)
+	BlzFrameSetAbsPoint(BlzGetFrameByName("SimpleInfoPanelIconHeroText", 6), FRAMEPOINT_CENTER, 0.4, -0.4)
+	BlzFrameSetAbsPoint(BlzGetFrameByName("SimpleInfoPanelIconHero", 6), FRAMEPOINT_CENTER, 0.4, -0.4)
+	
+	ClearSelection()	--  prevents crashing right after creating the UI, can't remember why
+end
+    ShoutoTodorokiGauge = nil
+
+-- ShoutoTodorokiGauge	---@type framehandle	
+
+---@return nothing
+function Change()
+	local framehandle fh = BlzGetFrameByName("MyBar", 0)
+	-- call BlzFrameSetValue(fh, BlzFrameGetValue(fh) + GetRandomReal(-3,3))
+	if udg_isHeatingUp then
+		BlzFrameSetValue(fh, BlzFrameGetValue(fh) + 3)	--  Cooling Off
+		
+	else
+		BlzFrameSetValue(fh, BlzFrameGetValue(fh) - 3)	--  Heating Up
+	end
+	
+	if BlzFrameGetValue(fh) == 100 then
+		BJDebugMsg("Overheating!")
+	elseif BlzFrameGetValue(fh) == 0 then
+		BJDebugMsg("Frostbite")
+	end
+	ShoutoTodorokiGauge = fh
+	fh = nil
+end
+
+---@return nothing
+function Trig_Nahkampf_Initialisierung_Actions()
+	local framehandle fh = BlzCreateSimpleFrame("MyBar", BlzGetOriginFrame(ORIGIN_FRAME_GAME_UI, 0), 0)
+
+	BlzFrameSetAbsPoint(fh, FRAMEPOINT_TOP, 0.4, 0.3)
+	BlzFrameSetValue(fh, 50)
+	BlzFrameSetText(BlzGetFrameByName("MyBarText", 0), "")
+	
+	BlzFrameSetTexture(BlzGetFrameByName("MyBarBackground", 0), "Replaceabletextures\\Teamcolor\\Teamcolor01.blp", 0, true)	-- change the BarTexture of bar to color red
+	BlzFrameSetTexture(fh, "Replaceabletextures\\Teamcolor\\Teamcolor00.blp", 0, true)	-- color blue for bar2
+	
+	BlzFrameSetSize(fh, 0.10, 0.02)
+	TimerStart(CreateTimer(), 0.8, true, Change)
+end
+-- ===========================================================================
+---@return nothing
+function InitTrig_ShoutoTodorokiGauge()
+      gg_trg_ShoutoTodorokiGauge = CreateTrigger()
+      TriggerRegisterTimerEventSingle(gg_trg_ShoutoTodorokiGauge, 0.00)
+      TriggerAddAction(gg_trg_ShoutoTodorokiGauge, Trig_Nahkampf_Initialisierung_Actions)
+      BlzLoadTOCFile("war3mapimported\\shoutobar.toc")
+end
+
+
+---@return boolean
+function Trig_Glacier_Q_Conditions()
+	if ( not (GetSpellAbilityId() == FourCC('A0YA'))) then
+		return false
+	end
+	return true
+end
+
+---@return nothing
+function Trig_Glacier_Q_Actions()
+	local framehandle fh = BlzGetFrameByName("MyBar", 0)
+	BlzFrameSetValue(fh, BlzFrameGetValue(fh) - 18)	--  Colling Off
+	fh = nil
+	BJDebugMsg("Glacier")
+	if udg_isHeatingUp == true then
+		BJDebugMsg("-40Kame Damage")
+	else
+		BJDebugMsg("-15MS to Target(s)")
+	end
+end
+-- ===========================================================================
+---@return nothing
+function InitTrig_Glacier_Q()
+	gg_trg_Glacier_Q = CreateTrigger()
+	TriggerRegisterAnyUnitEventBJ(gg_trg_Glacier_Q, EVENT_PLAYER_UNIT_SPELL_EFFECT)
+	TriggerAddCondition(gg_trg_Glacier_Q, Condition(Trig_Glacier_Q_Conditions))
+	TriggerAddAction(gg_trg_Glacier_Q, Trig_Glacier_Q_Actions)
+end
+---@return boolean
+function Trig_Wall_of_Flames_W_Conditions()
+	if ( not (GetSpellAbilityId() == FourCC('A0P8'))) then
+		return false
+	end
+	return true
+end
+
+---@return nothing
+function Trig_Wall_of_Flames_W_Actions()
+	local framehandle fh = BlzGetFrameByName("MyBar", 0)
+	BlzFrameSetValue(fh, BlzFrameGetValue(fh) + 20)	--  Increase Fire
+	fh = nil
+	BJDebugMsg("Wall of Flames")
+	if udg_isHeatingUp == true then
+		BJDebugMsg("Applies DoT on Target(s)")
+	else
+		BJDebugMsg("-50Kame Damage")
+	end
+end
+-- ===========================================================================
+---@return nothing
+function InitTrig_Wall_of_Flames_W()
+	gg_trg_Wall_of_Flames_W = CreateTrigger()
+	TriggerRegisterAnyUnitEventBJ(gg_trg_Wall_of_Flames_W, EVENT_PLAYER_UNIT_SPELL_EFFECT)
+	TriggerAddCondition(gg_trg_Wall_of_Flames_W, Condition(Trig_Wall_of_Flames_W_Conditions))
+	TriggerAddAction(gg_trg_Wall_of_Flames_W, Trig_Wall_of_Flames_W_Actions)
+end
+---@return boolean
+function Trig_Ice_Path_E_Conditions()
+	if ( not (GetSpellAbilityId() == FourCC('A0YA'))) then
+		return false
+	end
+	return true
+end
+
+---@return nothing
+function Trig_Ice_Path_E_Actions()
+	local framehandle fh = BlzGetFrameByName("MyBar", 0)
+	BlzFrameSetValue(fh, BlzFrameGetValue(fh) - 18)
+	fh = nil
+	BJDebugMsg("Ice Path")
+	if udg_isHeatingUp == true then
+		BJDebugMsg("Dash Faster but not as far")	--  Heating Up
+	else
+		BJDebugMsg("Dash Farther but not as fast")	--  Cooling Off
+	end
+end
+-- ===========================================================================
+---@return nothing
+function InitTrig_Ice_Path_E()
+	gg_trg_Ice_Path_E = CreateTrigger()
+	TriggerRegisterAnyUnitEventBJ(gg_trg_Ice_Path_E, EVENT_PLAYER_UNIT_SPELL_EFFECT)
+	TriggerAddCondition(gg_trg_Ice_Path_E, Condition(Trig_Ice_Path_E_Conditions))
+	TriggerAddAction(gg_trg_Ice_Path_E, Trig_Ice_Path_E_Actions)
+end
+---@return boolean
+function Trig_Flashfreeze_Heatwave_R_Conditions()
+	if ( not (GetSpellAbilityId() == FourCC('A0YB'))) then
+		return false
+	end
+	return true
+end
+
+---@return nothing
+function Trig_Flashfreeze_Heatwave_R_Actions()
+	local framehandle fh = BlzGetFrameByName("MyBar", 0)
+	BlzFrameSetValue(fh, BlzFrameGetValue(fh) + GetRandomReal(-30, 30))
+	fh = nil
+	BJDebugMsg("Flashfreeze Heatwave")
+	if udg_isHeatingUp == true then
+		BJDebugMsg("Increased Knockback distance")	--  Heating Up
+	else
+		BJDebugMsg("Debuff target MS by 5, decays after 5 seconds")	--  Cooling Off
+	end
+end
+-- ===========================================================================
+---@return nothing
+function InitTrig_Flashfreeze_Heatwave_R()
+	gg_trg_Flashfreeze_Heatwave_R = CreateTrigger()
+	TriggerRegisterAnyUnitEventBJ(gg_trg_Flashfreeze_Heatwave_R, EVENT_PLAYER_UNIT_SPELL_EFFECT)
+	TriggerAddCondition(gg_trg_Flashfreeze_Heatwave_R, Condition(Trig_Flashfreeze_Heatwave_R_Conditions))
+	TriggerAddAction(gg_trg_Flashfreeze_Heatwave_R, Trig_Flashfreeze_Heatwave_R_Actions)
+end
 function playGenericSpellSound(target, soundPath, duration)
 	udg_TempSound = CreateSound(soundPath, false, true, false, 1, 1, "SpellsEAX")
 	SetSoundDuration(udg_TempSound, duration)
@@ -1410,11 +1825,11 @@ function InitSounds()
     SetSoundVolume(gg_snd_Rescue, 80)
     gg_snd_Hint = CreateSound("Sound/Interface/Hint.flac", false, false, false, 0, 0, "DefaultEAXON")
     SetSoundParamsFromLabel(gg_snd_Hint, "Hint")
-    SetSoundDuration(gg_snd_Hint, 2005)
+    SetSoundDuration(gg_snd_Hint, 2845)
     SetSoundVolume(gg_snd_Hint, 80)
     gg_snd_GoodJob = CreateSound("Sound/Interface/GoodJob.flac", false, false, false, 0, 0, "DefaultEAXON")
     SetSoundParamsFromLabel(gg_snd_GoodJob, "GoodJob")
-    SetSoundDuration(gg_snd_GoodJob, 2548)
+    SetSoundDuration(gg_snd_GoodJob, 2954)
     SetSoundVolume(gg_snd_GoodJob, 127)
     gg_snd_QuestCompleted = CreateSound("Sound/Interface/QuestCompleted.flac", false, false, false, 0, 0, "DefaultEAXON")
     SetSoundParamsFromLabel(gg_snd_QuestCompleted, "QuestCompleted")
@@ -2555,7 +2970,7 @@ function CreateNeutralHostile()
     u = BlzCreateUnitWithSkin(p, FourCC("n02F"), 27505.9, 15910.8, 301.683, FourCC("n02F"))
     u = BlzCreateUnitWithSkin(p, FourCC("n02F"), 29580.8, 10610.2, 62.299, FourCC("n02F"))
     u = BlzCreateUnitWithSkin(p, FourCC("n03A"), 27695.3, 16210.9, 334.673, FourCC("n03A"))
-    u = BlzCreateUnitWithSkin(p, FourCC("n02F"), 6593.2, -2100.4, -25.800, FourCC("n02F"))
+    u = BlzCreateUnitWithSkin(p, FourCC("n02F"), 6593.2, -2100.4, 334.200, FourCC("n02F"))
     u = BlzCreateUnitWithSkin(p, FourCC("n02Q"), 24733.9, 13884.0, 35.804, FourCC("n02Q"))
     u = BlzCreateUnitWithSkin(p, FourCC("n03A"), 31080.8, 10767.2, 166.687, FourCC("n03A"))
     u = BlzCreateUnitWithSkin(p, FourCC("n02F"), 29666.2, 11444.2, 74.094, FourCC("n02F"))
@@ -2760,7 +3175,7 @@ function CreateNeutralHostile()
     u = BlzCreateUnitWithSkin(p, FourCC("n015"), 22438.5, 12441.1, 177.728, FourCC("n015"))
     u = BlzCreateUnitWithSkin(p, FourCC("n01D"), 5560.6, 26729.2, 352.584, FourCC("n01D"))
     u = BlzCreateUnitWithSkin(p, FourCC("n019"), 17898.7, 26117.7, 190.023, FourCC("n019"))
-    u = BlzCreateUnitWithSkin(p, FourCC("n015"), 22400.5, 12015.8, -26.613, FourCC("n015"))
+    u = BlzCreateUnitWithSkin(p, FourCC("n015"), 22400.5, 12015.8, 333.387, FourCC("n015"))
     u = BlzCreateUnitWithSkin(p, FourCC("n01D"), 5897.3, 26949.6, 263.994, FourCC("n01D"))
     u = BlzCreateUnitWithSkin(p, FourCC("n01E"), 5590.9, 27164.1, 287.284, FourCC("n01E"))
     u = BlzCreateUnitWithSkin(p, FourCC("n01E"), 6198.3, 31122.4, 285.974, FourCC("n01E"))
@@ -3425,6 +3840,15 @@ function CreateCameras()
     CameraSetupSetField(gg_cam_Camera_004, CAMERA_FIELD_LOCAL_YAW, 0.0, 0.0)
     CameraSetupSetField(gg_cam_Camera_004, CAMERA_FIELD_LOCAL_ROLL, 0.0, 0.0)
     CameraSetupSetDestPosition(gg_cam_Camera_004, 28682.2, 15367.9, 0.0)
+end
+
+function Trig_InitCustomUI_Actions()
+        SetupUI()
+end
+
+function InitTrig_InitCustomUI()
+    gg_trg_InitCustomUI = CreateTrigger()
+    TriggerAddAction(gg_trg_InitCustomUI, Trig_InitCustomUI_Actions)
 end
 
 function Trig_SolarFlare_Func001C()
@@ -13443,6 +13867,45 @@ function InitTrig_Lucario_Iron_Defense_Loop()
     DisableTrigger(gg_trg_Lucario_Iron_Defense_Loop)
     TriggerRegisterTimerEventPeriodic(gg_trg_Lucario_Iron_Defense_Loop, 0.03)
     TriggerAddAction(gg_trg_Lucario_Iron_Defense_Loop, Trig_Lucario_Iron_Defense_Loop_Actions)
+end
+
+function Trig_InitShoutoTodorokiGauge_Actions()
+        InitTrig_ShoutoTodorokiGauge()
+        InitTrig_Glacier_Q()
+        InitTrig_Wall_of_Flames_W()
+        InitTrig_Ice_Path_E()
+        InitTrig_Flashfreeze_Heatwave_R()
+end
+
+function InitTrig_InitShoutoTodorokiGauge()
+    gg_trg_InitShoutoTodorokiGauge = CreateTrigger()
+    TriggerAddAction(gg_trg_InitShoutoTodorokiGauge, Trig_InitShoutoTodorokiGauge_Actions)
+end
+
+function Trig_HeatingUpCoolingOff_D_Conditions()
+    if (not (GetSpellAbilityId() == FourCC("A0YC"))) then
+        return false
+    end
+    return true
+end
+
+function Trig_HeatingUpCoolingOff_D_Func001001()
+    return (udg_isHeatingUp == false)
+end
+
+function Trig_HeatingUpCoolingOff_D_Actions()
+    if (Trig_HeatingUpCoolingOff_D_Func001001()) then
+        udg_isHeatingUp = true
+    else
+        udg_isHeatingUp = false
+    end
+end
+
+function InitTrig_HeatingUpCoolingOff_D()
+    gg_trg_HeatingUpCoolingOff_D = CreateTrigger()
+    TriggerRegisterAnyUnitEventBJ(gg_trg_HeatingUpCoolingOff_D, EVENT_PLAYER_UNIT_SPELL_EFFECT)
+    TriggerAddCondition(gg_trg_HeatingUpCoolingOff_D, Condition(Trig_HeatingUpCoolingOff_D_Conditions))
+    TriggerAddAction(gg_trg_HeatingUpCoolingOff_D, Trig_HeatingUpCoolingOff_D_Actions)
 end
 
 function Trig_Play_Ability_Spell_Audio_Func001Func001Func001C()
@@ -46661,6 +47124,7 @@ function InitTrig_Rainbow_Shell_Activate()
 end
 
 function InitCustomTriggers()
+    InitTrig_InitCustomUI()
     InitTrig_SolarFlare()
     InitTrig_Piccolo_Multi_Form()
     InitTrig_Pan_Summon_Giru()
@@ -46816,6 +47280,8 @@ function InitCustomTriggers()
     InitTrig_Lucario_Iron_Defense_Level_Up()
     InitTrig_Lucario_Iron_Defense_Activate()
     InitTrig_Lucario_Iron_Defense_Loop()
+    InitTrig_InitShoutoTodorokiGauge()
+    InitTrig_HeatingUpCoolingOff_D()
     InitTrig_Play_Ability_Spell_Audio()
     InitTrig_Play_Ability_Spell_Audio_2()
     InitTrig_Freemode()
@@ -47193,6 +47659,8 @@ function InitCustomTriggers()
 end
 
 function RunInitializationTriggers()
+    ConditionalTriggerExecute(gg_trg_InitCustomUI)
+    ConditionalTriggerExecute(gg_trg_InitShoutoTodorokiGauge)
     ConditionalTriggerExecute(gg_trg_Map_Setup)
     ConditionalTriggerExecute(gg_trg_Transformations_Init_Commands_Non_Auto)
 end
